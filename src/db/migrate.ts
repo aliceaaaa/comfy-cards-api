@@ -4,12 +4,13 @@ import { join } from 'node:path';
 import { pool } from './pool.js';
 
 const migrationsDir = fileURLToPath(new URL('../../migrations/', import.meta.url));
+const MIGRATION_LOCK_KEY = 776744351;
 
-/** Применяет все ещё не применённые .sql из migrations/ по возрастанию имени. */
 export async function migrate(): Promise<void> {
   const client = await pool.connect();
 
   try {
+    await client.query('SELECT pg_advisory_lock($1)', [MIGRATION_LOCK_KEY]);
     await client.query(
       `CREATE TABLE IF NOT EXISTS schema_migrations (
         name text PRIMARY KEY,
@@ -43,13 +44,14 @@ export async function migrate(): Promise<void> {
         await client.query(sql);
         await client.query('INSERT INTO schema_migrations (name) VALUES ($1)', [file]);
         await client.query('COMMIT');
-        console.log(`миграция применена: ${file}`);
+        console.log(`migration applied: ${file}`);
       } catch (error) {
         await client.query('ROLLBACK');
         throw error;
       }
     }
   } finally {
+    await client.query('SELECT pg_advisory_unlock($1)', [MIGRATION_LOCK_KEY]);
     client.release();
   }
 }

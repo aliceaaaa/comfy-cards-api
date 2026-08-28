@@ -1,0 +1,229 @@
+{
+  "slug": "spanish",
+  "title": "Spanish basics",
+  "description": "Everyday words and phrases, nouns with their articles",
+  "language": "es",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "hola",
+      "translation": "hello"
+    },
+    {
+      "original": "buenos días",
+      "translation": "good morning"
+    },
+    {
+      "original": "buenas noches",
+      "translation": "good night"
+    },
+    {
+      "original": "gracias",
+      "translation": "thank you"
+    },
+    {
+      "original": "por favor",
+      "translation": "please"
+    },
+    {
+      "original": "sí",
+      "translation": "yes"
+    },
+    {
+      "original": "no",
+      "translation": "no"
+    },
+    {
+      "original": "adiós",
+      "translation": "goodbye"
+    },
+    {
+      "original": "perdón",
+      "translation": "excuse me"
+    },
+    {
+      "original": "el hombre",
+      "translation": "man"
+    },
+    {
+      "original": "la mujer",
+      "translation": "woman"
+    },
+    {
+      "original": "el niño",
+      "translation": "child"
+    },
+    {
+      "original": "el amigo",
+      "translation": "friend"
+    },
+    {
+      "original": "la familia",
+      "translation": "family"
+    },
+    {
+      "original": "la casa",
+      "translation": "house"
+    },
+    {
+      "original": "la ciudad",
+      "translation": "city"
+    },
+    {
+      "original": "el agua",
+      "translation": "water"
+    },
+    {
+      "original": "el pan",
+      "translation": "bread"
+    },
+    {
+      "original": "la manzana",
+      "translation": "apple"
+    },
+    {
+      "original": "la leche",
+      "translation": "milk"
+    },
+    {
+      "original": "el café",
+      "translation": "coffee"
+    },
+    {
+      "original": "el té",
+      "translation": "tea"
+    },
+    {
+      "original": "el libro",
+      "translation": "book"
+    },
+    {
+      "original": "la escuela",
+      "translation": "school"
+    },
+    {
+      "original": "el trabajo",
+      "translation": "work"
+    },
+    {
+      "original": "el día",
+      "translation": "day"
+    },
+    {
+      "original": "la noche",
+      "translation": "night"
+    },
+    {
+      "original": "el tiempo",
+      "translation": "time"
+    },
+    {
+      "original": "el año",
+      "translation": "year"
+    },
+    {
+      "original": "el perro",
+      "translation": "dog"
+    },
+    {
+      "original": "el gato",
+      "translation": "cat"
+    },
+    {
+      "original": "el coche",
+      "translation": "car"
+    },
+    {
+      "original": "el tren",
+      "translation": "train"
+    },
+    {
+      "original": "la calle",
+      "translation": "street"
+    },
+    {
+      "original": "el dinero",
+      "translation": "money"
+    },
+    {
+      "original": "la mesa",
+      "translation": "table"
+    },
+    {
+      "original": "la puerta",
+      "translation": "door"
+    },
+    {
+      "original": "la ventana",
+      "translation": "window"
+    },
+    {
+      "original": "ser",
+      "translation": "to be"
+    },
+    {
+      "original": "tener",
+      "translation": "to have"
+    },
+    {
+      "original": "ir",
+      "translation": "to go"
+    },
+    {
+      "original": "venir",
+      "translation": "to come"
+    },
+    {
+      "original": "comer",
+      "translation": "to eat"
+    },
+    {
+      "original": "beber",
+      "translation": "to drink"
+    },
+    {
+      "original": "hablar",
+      "translation": "to speak"
+    },
+    {
+      "original": "leer",
+      "translation": "to read"
+    },
+    {
+      "original": "escribir",
+      "translation": "to write"
+    },
+    {
+      "original": "ver",
+      "translation": "to see"
+    },
+    {
+      "original": "hacer",
+      "translation": "to do"
+    },
+    {
+      "original": "saber",
+      "translation": "to know"
+    },
+    {
+      "original": "bueno",
+      "translation": "good"
+    },
+    {
+      "original": "grande",
+      "translation": "big"
+    },
+    {
+      "original": "pequeño",
+      "translation": "small"
+    },
+    {
+      "original": "nuevo",
+      "translation": "new"
+    },
+    {
+      "original": "viejo",
+      "translation": "old"
+    }
+  ]
+}

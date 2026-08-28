@@ -1,0 +1,229 @@
+{
+  "slug": "german",
+  "title": "German basics",
+  "description": "Everyday words and phrases, nouns with their articles",
+  "language": "de",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "hallo",
+      "translation": "hello"
+    },
+    {
+      "original": "guten Morgen",
+      "translation": "good morning"
+    },
+    {
+      "original": "guten Abend",
+      "translation": "good evening"
+    },
+    {
+      "original": "danke",
+      "translation": "thank you"
+    },
+    {
+      "original": "bitte",
+      "translation": "please"
+    },
+    {
+      "original": "ja",
+      "translation": "yes"
+    },
+    {
+      "original": "nein",
+      "translation": "no"
+    },
+    {
+      "original": "tschüss",
+      "translation": "bye"
+    },
+    {
+      "original": "Entschuldigung",
+      "translation": "excuse me"
+    },
+    {
+      "original": "der Mann",
+      "translation": "man"
+    },
+    {
+      "original": "die Frau",
+      "translation": "woman"
+    },
+    {
+      "original": "das Kind",
+      "translation": "child"
+    },
+    {
+      "original": "der Freund",
+      "translation": "friend"
+    },
+    {
+      "original": "die Familie",
+      "translation": "family"
+    },
+    {
+      "original": "das Haus",
+      "translation": "house"
+    },
+    {
+      "original": "die Stadt",
+      "translation": "city"
+    },
+    {
+      "original": "das Wasser",
+      "translation": "water"
+    },
+    {
+      "original": "das Brot",
+      "translation": "bread"
+    },
+    {
+      "original": "der Apfel",
+      "translation": "apple"
+    },
+    {
+      "original": "die Milch",
+      "translation": "milk"
+    },
+    {
+      "original": "der Kaffee",
+      "translation": "coffee"
+    },
+    {
+      "original": "der Tee",
+      "translation": "tea"
+    },
+    {
+      "original": "das Buch",
+      "translation": "book"
+    },
+    {
+      "original": "die Schule",
+      "translation": "school"
+    },
+    {
+      "original": "die Arbeit",
+      "translation": "work"
+    },
+    {
+      "original": "der Tag",
+      "translation": "day"
+    },
+    {
+      "original": "die Nacht",
+      "translation": "night"
+    },
+    {
+      "original": "die Zeit",
+      "translation": "time"
+    },
+    {
+      "original": "das Jahr",
+      "translation": "year"
+    },
+    {
+      "original": "der Hund",
+      "translation": "dog"
+    },
+    {
+      "original": "die Katze",
+      "translation": "cat"
+    },
+    {
+      "original": "das Auto",
+      "translation": "car"
+    },
+    {
+      "original": "der Zug",
+      "translation": "train"
+    },
+    {
+      "original": "die Straße",
+      "translation": "street"
+    },
+    {
+      "original": "das Geld",
+      "translation": "money"
+    },
+    {
+      "original": "der Tisch",
+      "translation": "table"
+    },
+    {
+      "original": "die Tür",
+      "translation": "door"
+    },
+    {
+      "original": "das Fenster",
+      "translation": "window"
+    },
+    {
+      "original": "sein",
+      "translation": "to be"
+    },
+    {
+      "original": "haben",
+      "translation": "to have"
+    },
+    {
+      "original": "gehen",
+      "translation": "to go"
+    },
+    {
+      "original": "kommen",
+      "translation": "to come"
+    },
+    {
+      "original": "essen",
+      "translation": "to eat"
+    },
+    {
+      "original": "trinken",
+      "translation": "to drink"
+    },
+    {
+      "original": "sprechen",
+      "translation": "to speak"
+    },
+    {
+      "original": "lesen",
+      "translation": "to read"
+    },
+    {
+      "original": "schreiben",
+      "translation": "to write"
+    },
+    {
+      "original": "sehen",
+      "translation": "to see"
+    },
+    {
+      "original": "machen",
+      "translation": "to do"
+    },
+    {
+      "original": "wissen",
+      "translation": "to know"
+    },
+    {
+      "original": "gut",
+      "translation": "good"
+    },
+    {
+      "original": "groß",
+      "translation": "big"
+    },
+    {
+      "original": "klein",
+      "translation": "small"
+    },
+    {
+      "original": "neu",
+      "translation": "new"
+    },
+    {
+      "original": "alt",
+      "translation": "old"
+    }
+  ]
+}

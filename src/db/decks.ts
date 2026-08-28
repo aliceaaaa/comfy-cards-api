@@ -5,22 +5,24 @@ import { Card, Deck } from '../types.js';
 export interface CardInput {
   original: string;
   translation: string;
+  transcription?: string;
 }
 
-interface DeckRow {
+export interface DeckRow {
   id: string;
   title: string;
   created_at: Date;
 }
 
-interface CardRow {
+export interface CardRow {
   id: string;
   deck_id: string;
   original: string;
   translation: string;
+  transcription: string | null;
 }
 
-function toDeck(row: DeckRow, cards: Card[]): Deck {
+export function toDeck(row: DeckRow, cards: Card[]): Deck {
   return {
     id: row.id,
     title: row.title,
@@ -29,15 +31,30 @@ function toDeck(row: DeckRow, cards: Card[]): Deck {
   };
 }
 
-function toCard(row: CardRow): Card {
-  return {
+export function toCard(row: CardRow): Card {
+  const card: Card = {
     id: row.id,
     original: row.original,
     translation: row.translation,
   };
+
+  if (row.transcription !== null) {
+    card.transcription = row.transcription;
+  }
+
+  return card;
 }
 
-/** Карточки всех переданных колод одним запросом — чтобы не делать N+1. */
+function toStoredTranscription(value: string | undefined): string | null {
+  const trimmed = value?.trim() ?? '';
+
+  if (trimmed.length === 0) {
+    return null;
+  }
+
+  return trimmed;
+}
+
 async function readCards(deckIds: string[]): Promise<Map<string, Card[]>> {
   const byDeck = new Map<string, Card[]>();
 
@@ -46,7 +63,7 @@ async function readCards(deckIds: string[]): Promise<Map<string, Card[]>> {
   }
 
   const result = await pool.query<CardRow>(
-    `SELECT id, deck_id, original, translation
+    `SELECT id, deck_id, original, translation, transcription
      FROM cards
      WHERE deck_id = ANY ($1::uuid[])
      ORDER BY deck_id, position`,
@@ -63,7 +80,6 @@ async function readCards(deckIds: string[]): Promise<Map<string, Card[]>> {
   return byDeck;
 }
 
-/** Полностью заменяет карточки колоды: старые удаляются, новые вставляются по порядку. */
 async function replaceCards(
   client: PoolClient,
   deckId: string,
@@ -81,16 +97,20 @@ async function replaceCards(
   const translations = cards.map((card) => {
     return card.translation;
   });
+  const transcriptions = cards.map((card) => {
+    return toStoredTranscription(card.transcription);
+  });
   const positions = cards.map((card, index) => {
     return index;
   });
 
   const result = await client.query<CardRow & { position: number }>(
-    `INSERT INTO cards (deck_id, original, translation, position)
-     SELECT $1, original, translation, position
-     FROM unnest($2::text[], $3::text[], $4::int[]) AS input (original, translation, position)
-     RETURNING id, deck_id, original, translation, position`,
-    [deckId, originals, translations, positions],
+    `INSERT INTO cards (deck_id, original, translation, transcription, position)
+     SELECT $1, original, translation, transcription, position
+     FROM unnest($2::text[], $3::text[], $4::text[], $5::int[])
+       AS input (original, translation, transcription, position)
+     RETURNING id, deck_id, original, translation, transcription, position`,
+    [deckId, originals, translations, transcriptions, positions],
   );
 
   return result.rows
@@ -148,7 +168,7 @@ export async function createDeck(
     const row = result.rows[0];
 
     if (!row) {
-      throw new Error('не удалось создать колоду');
+      throw new Error('deck was not created');
     }
 
     return toDeck(row, await replaceCards(client, row.id, cards));

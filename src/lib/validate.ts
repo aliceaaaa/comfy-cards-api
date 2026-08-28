@@ -1,8 +1,10 @@
 import { z } from 'zod';
 import { badRequest } from './http-error.js';
 
-/** Разбирает вход по схеме и превращает ошибки zod в понятный ответ 400. */
-export function parseInput<T>(schema: z.ZodType<T>, data: unknown): T {
+export function parseInput<Schema extends z.ZodTypeAny>(
+  schema: Schema,
+  data: unknown,
+): z.output<Schema> {
   const result = schema.safeParse(data);
 
   if (!result.success) {

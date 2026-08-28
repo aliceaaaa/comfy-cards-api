@@ -31,8 +31,6 @@ export async function authRoutes(app: FastifyInstance): Promise<void> {
     const { email, password } = parseInput(credentialsSchema, request.body);
     const row = await findUserByEmail(email.toLowerCase());
 
-    // Одинаковый текст для «нет пользователя» и «неверный пароль»:
-    // так по ответу нельзя перебрать существующие адреса.
     if (!row) {
       throw unauthorized('Wrong email or password');
     }

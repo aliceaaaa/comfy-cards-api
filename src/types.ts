@@ -1,8 +1,8 @@
-/** Формы данных повторяют src/types.ts во фронтенде, чтобы ответы API ложились без адаптеров. */
 export interface Card {
   id: string;
   original: string;
   translation: string;
+  transcription?: string;
 }
 
 export interface Deck {
@@ -12,7 +12,22 @@ export interface Deck {
   createdAt: number;
 }
 
+export type CardSide = 'original' | 'translation';
+
 export interface PublicUser {
   id: string;
   email: string;
+}
+
+export interface CatalogDeckSummary {
+  slug: string;
+  title: string;
+  description: string | null;
+  language: string | null;
+  topic: string | null;
+  cardCount: number;
+}
+
+export interface CatalogDeck extends CatalogDeckSummary {
+  cards: Card[];
 }

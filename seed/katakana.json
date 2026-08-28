@@ -1,0 +1,193 @@
+{
+  "slug": "katakana",
+  "title": "Katakana",
+  "description": "The same 46 syllables in the second Japanese script",
+  "language": "ja",
+  "topic": "writing",
+  "cards": [
+    {
+      "original": "ア",
+      "translation": "a"
+    },
+    {
+      "original": "イ",
+      "translation": "i"
+    },
+    {
+      "original": "ウ",
+      "translation": "u"
+    },
+    {
+      "original": "エ",
+      "translation": "e"
+    },
+    {
+      "original": "オ",
+      "translation": "o"
+    },
+    {
+      "original": "カ",
+      "translation": "ka"
+    },
+    {
+      "original": "キ",
+      "translation": "ki"
+    },
+    {
+      "original": "ク",
+      "translation": "ku"
+    },
+    {
+      "original": "ケ",
+      "translation": "ke"
+    },
+    {
+      "original": "コ",
+      "translation": "ko"
+    },
+    {
+      "original": "サ",
+      "translation": "sa"
+    },
+    {
+      "original": "シ",
+      "translation": "shi"
+    },
+    {
+      "original": "ス",
+      "translation": "su"
+    },
+    {
+      "original": "セ",
+      "translation": "se"
+    },
+    {
+      "original": "ソ",
+      "translation": "so"
+    },
+    {
+      "original": "タ",
+      "translation": "ta"
+    },
+    {
+      "original": "チ",
+      "translation": "chi"
+    },
+    {
+      "original": "ツ",
+      "translation": "tsu"
+    },
+    {
+      "original": "テ",
+      "translation": "te"
+    },
+    {
+      "original": "ト",
+      "translation": "to"
+    },
+    {
+      "original": "ナ",
+      "translation": "na"
+    },
+    {
+      "original": "ニ",
+      "translation": "ni"
+    },
+    {
+      "original": "ヌ",
+      "translation": "nu"
+    },
+    {
+      "original": "ネ",
+      "translation": "ne"
+    },
+    {
+      "original": "ノ",
+      "translation": "no"
+    },
+    {
+      "original": "ハ",
+      "translation": "ha"
+    },
+    {
+      "original": "ヒ",
+      "translation": "hi"
+    },
+    {
+      "original": "フ",
+      "translation": "fu"
+    },
+    {
+      "original": "ヘ",
+      "translation": "he"
+    },
+    {
+      "original": "ホ",
+      "translation": "ho"
+    },
+    {
+      "original": "マ",
+      "translation": "ma"
+    },
+    {
+      "original": "ミ",
+      "translation": "mi"
+    },
+    {
+      "original": "ム",
+      "translation": "mu"
+    },
+    {
+      "original": "メ",
+      "translation": "me"
+    },
+    {
+      "original": "モ",
+      "translation": "mo"
+    },
+    {
+      "original": "ヤ",
+      "translation": "ya"
+    },
+    {
+      "original": "ユ",
+      "translation": "yu"
+    },
+    {
+      "original": "ヨ",
+      "translation": "yo"
+    },
+    {
+      "original": "ラ",
+      "translation": "ra"
+    },
+    {
+      "original": "リ",
+      "translation": "ri"
+    },
+    {
+      "original": "ル",
+      "translation": "ru"
+    },
+    {
+      "original": "レ",
+      "translation": "re"
+    },
+    {
+      "original": "ロ",
+      "translation": "ro"
+    },
+    {
+      "original": "ワ",
+      "translation": "wa"
+    },
+    {
+      "original": "ヲ",
+      "translation": "wo"
+    },
+    {
+      "original": "ン",
+      "translation": "n"
+    }
+  ]
+}

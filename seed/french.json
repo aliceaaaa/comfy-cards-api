@@ -1,0 +1,225 @@
+{
+  "slug": "french",
+  "title": "French basics",
+  "description": "Everyday words and phrases, nouns with their articles",
+  "language": "fr",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "bonjour",
+      "translation": "hello"
+    },
+    {
+      "original": "bonsoir",
+      "translation": "good evening"
+    },
+    {
+      "original": "merci",
+      "translation": "thank you"
+    },
+    {
+      "original": "s’il vous plaît",
+      "translation": "please"
+    },
+    {
+      "original": "oui",
+      "translation": "yes"
+    },
+    {
+      "original": "non",
+      "translation": "no"
+    },
+    {
+      "original": "au revoir",
+      "translation": "goodbye"
+    },
+    {
+      "original": "pardon",
+      "translation": "excuse me"
+    },
+    {
+      "original": "l’homme",
+      "translation": "man"
+    },
+    {
+      "original": "la femme",
+      "translation": "woman"
+    },
+    {
+      "original": "l’enfant",
+      "translation": "child"
+    },
+    {
+      "original": "l’ami",
+      "translation": "friend"
+    },
+    {
+      "original": "la famille",
+      "translation": "family"
+    },
+    {
+      "original": "la maison",
+      "translation": "house"
+    },
+    {
+      "original": "la ville",
+      "translation": "city"
+    },
+    {
+      "original": "l’eau",
+      "translation": "water"
+    },
+    {
+      "original": "le pain",
+      "translation": "bread"
+    },
+    {
+      "original": "la pomme",
+      "translation": "apple"
+    },
+    {
+      "original": "le lait",
+      "translation": "milk"
+    },
+    {
+      "original": "le café",
+      "translation": "coffee"
+    },
+    {
+      "original": "le thé",
+      "translation": "tea"
+    },
+    {
+      "original": "le livre",
+      "translation": "book"
+    },
+    {
+      "original": "l’école",
+      "translation": "school"
+    },
+    {
+      "original": "le travail",
+      "translation": "work"
+    },
+    {
+      "original": "le jour",
+      "translation": "day"
+    },
+    {
+      "original": "la nuit",
+      "translation": "night"
+    },
+    {
+      "original": "le temps",
+      "translation": "time"
+    },
+    {
+      "original": "l’année",
+      "translation": "year"
+    },
+    {
+      "original": "le chien",
+      "translation": "dog"
+    },
+    {
+      "original": "le chat",
+      "translation": "cat"
+    },
+    {
+      "original": "la voiture",
+      "translation": "car"
+    },
+    {
+      "original": "le train",
+      "translation": "train"
+    },
+    {
+      "original": "la rue",
+      "translation": "street"
+    },
+    {
+      "original": "l’argent",
+      "translation": "money"
+    },
+    {
+      "original": "la table",
+      "translation": "table"
+    },
+    {
+      "original": "la porte",
+      "translation": "door"
+    },
+    {
+      "original": "la fenêtre",
+      "translation": "window"
+    },
+    {
+      "original": "être",
+      "translation": "to be"
+    },
+    {
+      "original": "avoir",
+      "translation": "to have"
+    },
+    {
+      "original": "aller",
+      "translation": "to go"
+    },
+    {
+      "original": "venir",
+      "translation": "to come"
+    },
+    {
+      "original": "manger",
+      "translation": "to eat"
+    },
+    {
+      "original": "boire",
+      "translation": "to drink"
+    },
+    {
+      "original": "parler",
+      "translation": "to speak"
+    },
+    {
+      "original": "lire",
+      "translation": "to read"
+    },
+    {
+      "original": "écrire",
+      "translation": "to write"
+    },
+    {
+      "original": "voir",
+      "translation": "to see"
+    },
+    {
+      "original": "faire",
+      "translation": "to do"
+    },
+    {
+      "original": "savoir",
+      "translation": "to know"
+    },
+    {
+      "original": "bon",
+      "translation": "good"
+    },
+    {
+      "original": "grand",
+      "translation": "big"
+    },
+    {
+      "original": "petit",
+      "translation": "small"
+    },
+    {
+      "original": "nouveau",
+      "translation": "new"
+    },
+    {
+      "original": "vieux",
+      "translation": "old"
+    }
+  ]
+}

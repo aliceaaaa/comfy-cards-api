@@ -1,0 +1,193 @@
+{
+  "slug": "hiragana",
+  "title": "Hiragana",
+  "description": "All 46 basic characters and how they read",
+  "language": "ja",
+  "topic": "writing",
+  "cards": [
+    {
+      "original": "あ",
+      "translation": "a"
+    },
+    {
+      "original": "い",
+      "translation": "i"
+    },
+    {
+      "original": "う",
+      "translation": "u"
+    },
+    {
+      "original": "え",
+      "translation": "e"
+    },
+    {
+      "original": "お",
+      "translation": "o"
+    },
+    {
+      "original": "か",
+      "translation": "ka"
+    },
+    {
+      "original": "き",
+      "translation": "ki"
+    },
+    {
+      "original": "く",
+      "translation": "ku"
+    },
+    {
+      "original": "け",
+      "translation": "ke"
+    },
+    {
+      "original": "こ",
+      "translation": "ko"
+    },
+    {
+      "original": "さ",
+      "translation": "sa"
+    },
+    {
+      "original": "し",
+      "translation": "shi"
+    },
+    {
+      "original": "す",
+      "translation": "su"
+    },
+    {
+      "original": "せ",
+      "translation": "se"
+    },
+    {
+      "original": "そ",
+      "translation": "so"
+    },
+    {
+      "original": "た",
+      "translation": "ta"
+    },
+    {
+      "original": "ち",
+      "translation": "chi"
+    },
+    {
+      "original": "つ",
+      "translation": "tsu"
+    },
+    {
+      "original": "て",
+      "translation": "te"
+    },
+    {
+      "original": "と",
+      "translation": "to"
+    },
+    {
+      "original": "な",
+      "translation": "na"
+    },
+    {
+      "original": "に",
+      "translation": "ni"
+    },
+    {
+      "original": "ぬ",
+      "translation": "nu"
+    },
+    {
+      "original": "ね",
+      "translation": "ne"
+    },
+    {
+      "original": "の",
+      "translation": "no"
+    },
+    {
+      "original": "は",
+      "translation": "ha"
+    },
+    {
+      "original": "ひ",
+      "translation": "hi"
+    },
+    {
+      "original": "ふ",
+      "translation": "fu"
+    },
+    {
+      "original": "へ",
+      "translation": "he"
+    },
+    {
+      "original": "ほ",
+      "translation": "ho"
+    },
+    {
+      "original": "ま",
+      "translation": "ma"
+    },
+    {
+      "original": "み",
+      "translation": "mi"
+    },
+    {
+      "original": "む",
+      "translation": "mu"
+    },
+    {
+      "original": "め",
+      "translation": "me"
+    },
+    {
+      "original": "も",
+      "translation": "mo"
+    },
+    {
+      "original": "や",
+      "translation": "ya"
+    },
+    {
+      "original": "ゆ",
+      "translation": "yu"
+    },
+    {
+      "original": "よ",
+      "translation": "yo"
+    },
+    {
+      "original": "ら",
+      "translation": "ra"
+    },
+    {
+      "original": "り",
+      "translation": "ri"
+    },
+    {
+      "original": "る",
+      "translation": "ru"
+    },
+    {
+      "original": "れ",
+      "translation": "re"
+    },
+    {
+      "original": "ろ",
+      "translation": "ro"
+    },
+    {
+      "original": "わ",
+      "translation": "wa"
+    },
+    {
+      "original": "を",
+      "translation": "wo"
+    },
+    {
+      "original": "ん",
+      "translation": "n"
+    }
+  ]
+}

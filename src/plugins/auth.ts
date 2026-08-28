@@ -22,7 +22,6 @@ declare module 'fastify' {
   }
 }
 
-/** Подключает JWT и даёт app.authenticate — хук для защищённых роутов. */
 export const authPlugin = fp(async (app) => {
   await app.register(fastifyJwt, {
     secret: env.JWT_SECRET,

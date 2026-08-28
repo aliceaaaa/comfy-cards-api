@@ -3,10 +3,6 @@ import { env } from '../lib/env.js';
 
 const { Pool } = pg;
 
-/**
- * Внутри Railway база доступна по приватному хосту без TLS,
- * снаружи (и у любого облачного провайдера) — только с TLS.
- */
 function needsSsl(connectionString: string): boolean {
   if (connectionString.includes('sslmode=disable')) {
     return false;
@@ -30,7 +26,6 @@ export const pool = new Pool({
   ssl: needsSsl(env.DATABASE_URL) ? { rejectUnauthorized: false } : undefined,
 });
 
-/** Выполняет работу в транзакции: коммит при успехе, откат при любой ошибке. */
 export async function withTransaction<T>(
   run: (client: pg.PoolClient) => Promise<T>,
 ): Promise<T> {

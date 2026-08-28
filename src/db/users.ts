@@ -25,7 +25,7 @@ export async function createUser(email: string, passwordHash: string): Promise<P
   const row = result.rows[0];
 
   if (!row) {
-    throw new Error('не удалось создать пользователя');
+    throw new Error('user was not created');
   }
 
   return row;

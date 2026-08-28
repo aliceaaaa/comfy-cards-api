@@ -1,4 +1,4 @@
-/** Ошибка с http-статусом: обработчик в server.ts превращает её в ответ. */
+
 export class HttpError extends Error {
   readonly statusCode: number;
 

@@ -4,15 +4,15 @@ import { getAllowedOrigins } from './lib/env.js';
 import { HttpError } from './lib/http-error.js';
 import { authPlugin } from './plugins/auth.js';
 import { authRoutes } from './routes/auth.js';
+import { catalogRoutes } from './routes/catalog.js';
 import { deckRoutes } from './routes/decks.js';
 
-export async function buildServer(): Promise<FastifyInstance> {
-  const app = Fastify({ logger: true });
+export async function buildServer(options: { logger?: boolean } = {}): Promise<FastifyInstance> {
+  const app = Fastify({ logger: options.logger ?? true });
 
   await app.register(cors, { origin: getAllowedOrigins() });
   await app.register(authPlugin);
 
-  // Ставится до роутов: дочерние контексты наследуют обработчик на момент регистрации.
   app.setErrorHandler((error: FastifyError, request, reply) => {
     if (error instanceof HttpError) {
       return reply.status(error.statusCode).send({ error: error.message });
@@ -34,6 +34,7 @@ export async function buildServer(): Promise<FastifyInstance> {
 
   await app.register(authRoutes);
   await app.register(deckRoutes);
+  await app.register(catalogRoutes);
 
   return app;
 }

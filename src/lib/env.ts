@@ -3,7 +3,7 @@ import { z } from 'zod';
 
 const envSchema = z.object({
   DATABASE_URL: z.string().min(1),
-  JWT_SECRET: z.string().min(32, 'нужна строка не короче 32 символов'),
+  JWT_SECRET: z.string().min(32, 'must be at least 32 characters'),
   PORT: z.coerce.number().int().positive().default(3001),
   WEB_ORIGIN: z.string().optional(),
 });
@@ -15,13 +15,12 @@ if (!parsed.success) {
     return `  ${issue.path.join('.')}: ${issue.message}`;
   });
 
-  console.error(`Неверные переменные окружения:\n${details.join('\n')}`);
+  console.error(`Invalid environment variables:\n${details.join('\n')}`);
   process.exit(1);
 }
 
 export const env = parsed.data;
 
-/** true — разрешить любой источник (локальная разработка без WEB_ORIGIN). */
 export function getAllowedOrigins(): string[] | true {
   if (!env.WEB_ORIGIN) {
     return true;

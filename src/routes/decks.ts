@@ -7,6 +7,7 @@ import { parseInput } from '../lib/validate.js';
 const cardSchema = z.object({
   original: z.string().trim().min(1, 'must not be empty').max(200),
   translation: z.string().trim().min(1, 'must not be empty').max(200),
+  transcription: z.string().trim().max(200).optional(),
 });
 
 const deckSchema = z.object({
@@ -18,7 +19,6 @@ const deckParamsSchema = z.object({
   id: z.string().uuid('must be a uuid'),
 });
 
-/** Все роуты колод требуют входа: хук навешан на весь плагин. */
 export async function deckRoutes(app: FastifyInstance): Promise<void> {
   app.addHook('preHandler', app.authenticate);
 
