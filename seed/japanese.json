@@ -1,0 +1,159 @@
+{
+  "slug": "japanese",
+  "title": "Japanese basics",
+  "description": "Everyday words in kana, each with its romaji reading",
+  "language": "ja",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "こんにちは",
+      "translation": "hello",
+      "transcription": "konnichiwa"
+    },
+    {
+      "original": "おはよう",
+      "translation": "good morning",
+      "transcription": "ohayou"
+    },
+    {
+      "original": "こんばんは",
+      "translation": "good evening",
+      "transcription": "konbanwa"
+    },
+    {
+      "original": "ありがとう",
+      "translation": "thank you",
+      "transcription": "arigatou"
+    },
+    {
+      "original": "おねがいします",
+      "translation": "please",
+      "transcription": "onegaishimasu"
+    },
+    {
+      "original": "はい",
+      "translation": "yes",
+      "transcription": "hai"
+    },
+    {
+      "original": "いいえ",
+      "translation": "no",
+      "transcription": "iie"
+    },
+    {
+      "original": "さようなら",
+      "translation": "goodbye",
+      "transcription": "sayounara"
+    },
+    {
+      "original": "すみません",
+      "translation": "excuse me",
+      "transcription": "sumimasen"
+    },
+    {
+      "original": "おとこのひと",
+      "translation": "man",
+      "transcription": "otoko no hito"
+    },
+    {
+      "original": "おんなのひと",
+      "translation": "woman",
+      "transcription": "onna no hito"
+    },
+    {
+      "original": "こども",
+      "translation": "child",
+      "transcription": "kodomo"
+    },
+    {
+      "original": "ともだち",
+      "translation": "friend",
+      "transcription": "tomodachi"
+    },
+    {
+      "original": "かぞく",
+      "translation": "family",
+      "transcription": "kazoku"
+    },
+    {
+      "original": "いえ",
+      "translation": "house",
+      "transcription": "ie"
+    },
+    {
+      "original": "まち",
+      "translation": "city",
+      "transcription": "machi"
+    },
+    {
+      "original": "みず",
+      "translation": "water",
+      "transcription": "mizu"
+    },
+    {
+      "original": "パン",
+      "translation": "bread",
+      "transcription": "pan"
+    },
+    {
+      "original": "りんご",
+      "translation": "apple",
+      "transcription": "ringo"
+    },
+    {
+      "original": "ぎゅうにゅう",
+      "translation": "milk",
+      "transcription": "gyuunyuu"
+    },
+    {
+      "original": "コーヒー",
+      "translation": "coffee",
+      "transcription": "koohii"
+    },
+    {
+      "original": "おちゃ",
+      "translation": "tea",
+      "transcription": "ocha"
+    },
+    {
+      "original": "ほん",
+      "translation": "book",
+      "transcription": "hon"
+    },
+    {
+      "original": "がっこう",
+      "translation": "school",
+      "transcription": "gakkou"
+    },
+    {
+      "original": "しごと",
+      "translation": "work",
+      "transcription": "shigoto"
+    },
+    {
+      "original": "ひ",
+      "translation": "day",
+      "transcription": "hi"
+    },
+    {
+      "original": "よる",
+      "translation": "night",
+      "transcription": "yoru"
+    },
+    {
+      "original": "じかん",
+      "translation": "time",
+      "transcription": "jikan"
+    },
+    {
+      "original": "とし",
+      "translation": "year",
+      "transcription": "toshi"
+    },
+    {
+      "original": "いぬ",
+      "translation": "dog",
+      "transcription": "inu"
+    }
+  ]
+}

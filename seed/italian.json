@@ -1,128 +1,128 @@
 {
-  "slug": "german",
-  "title": "German basics",
+  "slug": "italian",
+  "title": "Italian basics",
   "description": "Everyday words and phrases, nouns with their articles",
-  "language": "de",
+  "language": "it",
   "topic": "basics",
   "cards": [
     {
-      "original": "hallo",
+      "original": "ciao",
       "translation": "hello"
     },
     {
-      "original": "guten Morgen",
+      "original": "buongiorno",
       "translation": "good morning"
     },
     {
-      "original": "guten Abend",
+      "original": "buonasera",
       "translation": "good evening"
     },
     {
-      "original": "danke",
+      "original": "grazie",
       "translation": "thank you"
     },
     {
-      "original": "bitte",
+      "original": "per favore",
       "translation": "please"
     },
     {
-      "original": "ja",
+      "original": "sì",
       "translation": "yes"
     },
     {
-      "original": "nein",
+      "original": "no",
       "translation": "no"
     },
     {
-      "original": "tschüss",
-      "translation": "bye"
+      "original": "arrivederci",
+      "translation": "goodbye"
     },
     {
-      "original": "Entschuldigung",
+      "original": "scusi",
       "translation": "excuse me"
     },
     {
-      "original": "der Mann",
+      "original": "l'uomo",
       "translation": "man"
     },
     {
-      "original": "die Frau",
+      "original": "la donna",
       "translation": "woman"
     },
     {
-      "original": "das Kind",
+      "original": "il bambino",
       "translation": "child"
     },
     {
-      "original": "der Freund",
+      "original": "l'amico",
       "translation": "friend"
     },
     {
-      "original": "die Familie",
+      "original": "la famiglia",
       "translation": "family"
     },
     {
-      "original": "das Haus",
+      "original": "la casa",
       "translation": "house"
     },
     {
-      "original": "die Stadt",
+      "original": "la città",
       "translation": "city"
     },
     {
-      "original": "das Wasser",
+      "original": "l'acqua",
       "translation": "water"
     },
     {
-      "original": "das Brot",
+      "original": "il pane",
       "translation": "bread"
     },
     {
-      "original": "der Apfel",
+      "original": "la mela",
       "translation": "apple"
     },
     {
-      "original": "die Milch",
+      "original": "il latte",
       "translation": "milk"
     },
     {
-      "original": "der Kaffee",
+      "original": "il caffè",
       "translation": "coffee"
     },
     {
-      "original": "der Tee",
+      "original": "il tè",
       "translation": "tea"
     },
     {
-      "original": "das Buch",
+      "original": "il libro",
       "translation": "book"
     },
     {
-      "original": "die Schule",
+      "original": "la scuola",
       "translation": "school"
     },
     {
-      "original": "die Arbeit",
+      "original": "il lavoro",
       "translation": "work"
     },
     {
-      "original": "der Tag",
+      "original": "il giorno",
       "translation": "day"
     },
     {
-      "original": "die Nacht",
+      "original": "la notte",
       "translation": "night"
     },
     {
-      "original": "die Zeit",
+      "original": "il tempo",
       "translation": "time"
     },
     {
-      "original": "das Jahr",
+      "original": "l'anno",
       "translation": "year"
     },
     {
-      "original": "der Hund",
+      "original": "il cane",
       "translation": "dog"
     }
   ]

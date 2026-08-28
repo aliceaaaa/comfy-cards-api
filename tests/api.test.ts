@@ -106,8 +106,8 @@ describe('catalog', () => {
       total: number;
     }>();
 
-    assert.equal(body.total, 5);
-    assert.equal(body.decks.length, 5);
+    assert.equal(body.total, 8);
+    assert.equal(body.decks.length, 8);
 
     const hiragana = body.decks.find((deck) => {
       return deck.slug === 'hiragana';
@@ -214,7 +214,7 @@ describe('seed', () => {
     await seed();
 
     assert.equal(await countDecks(), afterSecondRun);
-    assert.equal(afterSecondRun, 5);
+    assert.equal(afterSecondRun, 8);
 
     const ownerId = await ensureCatalogOwner();
 
@@ -232,7 +232,7 @@ describe('seed', () => {
 
     assert.equal(deck.title, 'Hiragana edited');
     assert.equal(deck.cardCount, 1);
-    assert.equal(await countDecks(), 5);
+    assert.equal(await countDecks(), 8);
 
     await seed();
 

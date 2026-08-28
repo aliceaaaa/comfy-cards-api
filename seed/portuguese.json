@@ -1,128 +1,128 @@
 {
-  "slug": "german",
-  "title": "German basics",
+  "slug": "portuguese",
+  "title": "Portuguese basics",
   "description": "Everyday words and phrases, nouns with their articles",
-  "language": "de",
+  "language": "pt",
   "topic": "basics",
   "cards": [
     {
-      "original": "hallo",
+      "original": "olá",
       "translation": "hello"
     },
     {
-      "original": "guten Morgen",
+      "original": "bom dia",
       "translation": "good morning"
     },
     {
-      "original": "guten Abend",
+      "original": "boa noite",
       "translation": "good evening"
     },
     {
-      "original": "danke",
+      "original": "obrigado",
       "translation": "thank you"
     },
     {
-      "original": "bitte",
+      "original": "por favor",
       "translation": "please"
     },
     {
-      "original": "ja",
+      "original": "sim",
       "translation": "yes"
     },
     {
-      "original": "nein",
+      "original": "não",
       "translation": "no"
     },
     {
-      "original": "tschüss",
-      "translation": "bye"
+      "original": "adeus",
+      "translation": "goodbye"
     },
     {
-      "original": "Entschuldigung",
+      "original": "desculpe",
       "translation": "excuse me"
     },
     {
-      "original": "der Mann",
+      "original": "o homem",
       "translation": "man"
     },
     {
-      "original": "die Frau",
+      "original": "a mulher",
       "translation": "woman"
     },
     {
-      "original": "das Kind",
+      "original": "a criança",
       "translation": "child"
     },
     {
-      "original": "der Freund",
+      "original": "o amigo",
       "translation": "friend"
     },
     {
-      "original": "die Familie",
+      "original": "a família",
       "translation": "family"
     },
     {
-      "original": "das Haus",
+      "original": "a casa",
       "translation": "house"
     },
     {
-      "original": "die Stadt",
+      "original": "a cidade",
       "translation": "city"
     },
     {
-      "original": "das Wasser",
+      "original": "a água",
       "translation": "water"
     },
     {
-      "original": "das Brot",
+      "original": "o pão",
       "translation": "bread"
     },
     {
-      "original": "der Apfel",
+      "original": "a maçã",
       "translation": "apple"
     },
     {
-      "original": "die Milch",
+      "original": "o leite",
       "translation": "milk"
     },
     {
-      "original": "der Kaffee",
+      "original": "o café",
       "translation": "coffee"
     },
     {
-      "original": "der Tee",
+      "original": "o chá",
       "translation": "tea"
     },
     {
-      "original": "das Buch",
+      "original": "o livro",
       "translation": "book"
     },
     {
-      "original": "die Schule",
+      "original": "a escola",
       "translation": "school"
     },
     {
-      "original": "die Arbeit",
+      "original": "o trabalho",
       "translation": "work"
     },
     {
-      "original": "der Tag",
+      "original": "o dia",
       "translation": "day"
     },
     {
-      "original": "die Nacht",
+      "original": "a noite",
       "translation": "night"
     },
     {
-      "original": "die Zeit",
+      "original": "o tempo",
       "translation": "time"
     },
     {
-      "original": "das Jahr",
+      "original": "o ano",
       "translation": "year"
     },
     {
-      "original": "der Hund",
+      "original": "o cão",
       "translation": "dog"
     }
   ]
