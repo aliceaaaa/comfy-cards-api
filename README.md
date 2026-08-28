@@ -109,8 +109,15 @@ npm run seed
 }
 ```
 
-Чтобы наполнить прод, подставьте публичный `DATABASE_URL` сервиса Postgres
-из Railway:
+Наполнить прод проще всего изнутри Railway — во вкладке **Console** сервиса
+API, где `DATABASE_URL` уже подставлен, и пароль базы никуда не уезжает:
+
+```bash
+npm run seed:dist
+```
+
+Тот же скрипт, но из собранного кода: `tsx` для него не нужен. Снаружи можно
+и так, подставив публичный `DATABASE_URL` сервиса Postgres:
 
 ```bash
 DATABASE_URL="<public url>" npm run seed
