@@ -1,4 +1,2 @@
-# Тот же урок, что и на фронте: `npm ci` падает, если lock-файл собран
-# другой версией npm. Версия Node берётся из .nvmrc.
 [phases.install]
 cmds = ["npm install --no-audit --no-fund"]

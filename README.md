@@ -154,3 +154,7 @@ JWT_SECRET="local-test-secret-at-least-32-characters" npm test
 
 Конфиг в `railway.json`: сборка `npm run build`, запуск `npm start`,
 healthcheck на `/health`. Node берётся из `.nvmrc`.
+
+В `nixpacks.toml` фаза установки переопределена на `npm install`: штатный
+`npm ci` падает, если lock-файл собран другой версией npm, чем стоит в
+образе сборки.
