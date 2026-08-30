@@ -17,6 +17,11 @@ export interface DueCard extends Card {
   dueAt: number | null;
 }
 
+export interface DueCardWithDeck extends DueCard {
+  deckId: string;
+  deckTitle: string;
+}
+
 interface ReviewRow {
   card_id: string;
   box: number;
@@ -35,6 +40,12 @@ interface DueRow {
   box: number;
   due_at: Date | null;
 }
+
+interface DueRowWithDeck extends DueRow {
+  deck_title: string;
+}
+
+const DUE_CONDITION = '(r.due_at IS NULL OR r.due_at <= now())';
 
 function toReview(row: ReviewRow): CardReview {
   return {
@@ -119,8 +130,8 @@ export async function listDueCards(userId: string, deckId: string): Promise<DueC
      FROM cards c
      JOIN decks d ON d.id = c.deck_id
      LEFT JOIN card_reviews r ON r.card_id = c.id AND r.user_id = $1
-     WHERE d.id = $2 AND d.user_id = $1 AND (r.due_at IS NULL OR r.due_at <= now())
-     ORDER BY r.due_at NULLS FIRST, c.position`,
+     WHERE d.id = $2 AND d.user_id = $1 AND ${DUE_CONDITION}
+     ORDER BY r.due_at NULLS LAST, c.position`,
     [userId, deckId],
   );
 
@@ -131,4 +142,43 @@ export async function listDueCards(userId: string, deckId: string): Promise<DueC
       dueAt: row.due_at === null ? null : row.due_at.getTime(),
     };
   });
+}
+
+export async function listAllDueCards(
+  userId: string,
+  limit: number,
+): Promise<{ cards: DueCardWithDeck[]; total: number }> {
+  const cards = await pool.query<DueRowWithDeck>(
+    `SELECT c.id, c.deck_id, c.original, c.translation, c.transcription,
+            COALESCE(r.box, 0) AS box, r.due_at, d.title AS deck_title
+     FROM cards c
+     JOIN decks d ON d.id = c.deck_id
+     LEFT JOIN card_reviews r ON r.card_id = c.id AND r.user_id = $1
+     WHERE d.user_id = $1 AND ${DUE_CONDITION}
+     ORDER BY r.due_at NULLS LAST, d.created_at DESC, c.position
+     LIMIT $2`,
+    [userId, limit],
+  );
+
+  const total = await pool.query<{ count: number }>(
+    `SELECT COUNT(*)::int AS count
+     FROM cards c
+     JOIN decks d ON d.id = c.deck_id
+     LEFT JOIN card_reviews r ON r.card_id = c.id AND r.user_id = $1
+     WHERE d.user_id = $1 AND ${DUE_CONDITION}`,
+    [userId],
+  );
+
+  return {
+    cards: cards.rows.map((row) => {
+      return {
+        ...toCard(row),
+        box: row.box,
+        dueAt: row.due_at === null ? null : row.due_at.getTime(),
+        deckId: row.deck_id,
+        deckTitle: row.deck_title,
+      };
+    }),
+    total: total.rows[0]?.count ?? 0,
+  };
 }

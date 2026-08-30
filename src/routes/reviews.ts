@@ -1,6 +1,6 @@
 import type { FastifyInstance } from 'fastify';
 import { z } from 'zod';
-import { listDueCards, ownsDeck, recordReview } from '../db/reviews.js';
+import { listAllDueCards, listDueCards, ownsDeck, recordReview } from '../db/reviews.js';
 import { notFound } from '../lib/http-error.js';
 import { parseInput } from '../lib/validate.js';
 
@@ -10,6 +10,10 @@ const idParamsSchema = z.object({
 
 const answerSchema = z.object({
   correct: z.boolean(),
+});
+
+const dueQuerySchema = z.object({
+  limit: z.coerce.number().int().positive().max(200).default(50),
 });
 
 export async function reviewRoutes(app: FastifyInstance): Promise<void> {
@@ -35,5 +39,11 @@ export async function reviewRoutes(app: FastifyInstance): Promise<void> {
     }
 
     return { cards: await listDueCards(request.user.sub, id) };
+  });
+
+  app.get('/review/due', async (request) => {
+    const { limit } = parseInput(dueQuerySchema, request.query);
+
+    return listAllDueCards(request.user.sub, limit);
   });
 }

@@ -37,7 +37,7 @@ async function register(email: string): Promise<string> {
 async function createDeck(
   authToken: string,
   cards: { original: string; translation: string }[],
-): Promise<{ id: string; cards: { id: string; original: string }[] }> {
+): Promise<{ id: string; dueCount: number; cards: { id: string; original: string }[] }> {
   const response = await app.inject({
     method: 'POST',
     url: '/decks',
@@ -47,8 +47,9 @@ async function createDeck(
 
   assert.equal(response.statusCode, 201);
 
-  return response.json<{ deck: { id: string; cards: { id: string; original: string }[] } }>()
-    .deck;
+  return response.json<{
+    deck: { id: string; dueCount: number; cards: { id: string; original: string }[] };
+  }>().deck;
 }
 
 async function review(authToken: string, cardId: string, correct: boolean) {
@@ -72,9 +73,10 @@ before(async () => {
   app = await buildServer({ logger: false });
   await app.ready();
   await migrate();
-  await pool.query('DELETE FROM users WHERE email IN ($1, $2)', [
+  await pool.query('DELETE FROM users WHERE email IN ($1, $2, $3)', [
     'reviewer@example.com',
     'stranger@example.com',
+    'planner@example.com',
   ]);
 
   token = await register('reviewer@example.com');
@@ -241,5 +243,104 @@ describe('editing a deck', () => {
     const removed = await pool.query('SELECT 1 FROM cards WHERE id = $1', [deck.cards[1]!.id]);
 
     assert.equal(removed.rowCount, 0);
+  });
+});
+
+describe('due counts', () => {
+  it('reports how many cards a deck has waiting', async () => {
+    const deck = await createDeck(token, [
+      { original: 'neun', translation: 'nine' },
+      { original: 'zehn', translation: 'ten' },
+    ]);
+
+    assert.equal(deck.dueCount, 2);
+
+    await review(token, deck.cards[0]!.id, true);
+
+    const single = await app.inject({
+      method: 'GET',
+      url: `/decks/${deck.id}`,
+      headers: { authorization: `Bearer ${token}` },
+    });
+
+    assert.equal(single.json<{ deck: { dueCount: number } }>().deck.dueCount, 1);
+
+    const list = await app.inject({
+      method: 'GET',
+      url: '/decks',
+      headers: { authorization: `Bearer ${token}` },
+    });
+
+    const listed = list
+      .json<{ decks: { id: string; dueCount: number }[] }>()
+      .decks.find((item) => {
+        return item.id === deck.id;
+      });
+
+    assert.equal(listed?.dueCount, 1);
+  });
+});
+
+describe('review across all decks', () => {
+  it('collects due cards from every deck and respects the limit', async () => {
+    const planner = await register('planner@example.com');
+
+    const first = await createDeck(planner, [
+      { original: 'uno', translation: 'one' },
+      { original: 'dos', translation: 'two' },
+    ]);
+    await createDeck(planner, [{ original: 'tres', translation: 'three' }]);
+
+    const all = await app.inject({
+      method: 'GET',
+      url: '/review/due',
+      headers: { authorization: `Bearer ${planner}` },
+    });
+
+    const body = all.json<{
+      cards: { original: string; deckId: string; deckTitle: string }[];
+      total: number;
+    }>();
+
+    assert.equal(body.total, 3);
+    assert.equal(body.cards.length, 3);
+    assert.ok(body.cards.every((card) => {
+      return card.deckTitle === 'Review deck' && typeof card.deckId === 'string';
+    }));
+
+    const limited = await app.inject({
+      method: 'GET',
+      url: '/review/due?limit=2',
+      headers: { authorization: `Bearer ${planner}` },
+    });
+
+    const limitedBody = limited.json<{ cards: unknown[]; total: number }>();
+
+    assert.equal(limitedBody.cards.length, 2);
+    assert.equal(limitedBody.total, 3);
+
+    await review(planner, first.cards[0]!.id, true);
+
+    const afterReview = await app.inject({
+      method: 'GET',
+      url: '/review/due',
+      headers: { authorization: `Bearer ${planner}` },
+    });
+
+    assert.equal(afterReview.json<{ total: number }>().total, 2);
+  });
+
+  it('does not reach into other accounts', async () => {
+    const stranger = await app.inject({
+      method: 'GET',
+      url: '/review/due',
+      headers: { authorization: `Bearer ${otherToken}` },
+    });
+
+    assert.equal(stranger.json<{ total: number }>().total, 0);
+
+    const anonymous = await app.inject({ method: 'GET', url: '/review/due' });
+
+    assert.equal(anonymous.statusCode, 401);
   });
 });

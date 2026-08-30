@@ -140,6 +140,8 @@ export async function copyCatalogDeck(
       [row.id],
     );
 
-    return toDeck(row, cards.rows.map(toCard));
+    const copied = cards.rows.map(toCard);
+
+    return toDeck(row, copied, copied.length);
   });
 }

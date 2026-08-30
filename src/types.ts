@@ -10,6 +10,7 @@ export interface Deck {
   title: string;
   cards: Card[];
   createdAt: number;
+  dueCount: number;
 }
 
 export type CardSide = 'original' | 'translation';

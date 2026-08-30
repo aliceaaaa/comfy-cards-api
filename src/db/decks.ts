@@ -1,4 +1,4 @@
-import type { PoolClient } from 'pg';
+import type { Pool, PoolClient } from 'pg';
 import { pool, withTransaction } from './pool.js';
 import { Card, Deck } from '../types.js';
 
@@ -22,13 +22,41 @@ export interface CardRow {
   transcription: string | null;
 }
 
-export function toDeck(row: DeckRow, cards: Card[]): Deck {
+export function toDeck(row: DeckRow, cards: Card[], dueCount: number): Deck {
   return {
     id: row.id,
     title: row.title,
     cards,
     createdAt: row.created_at.getTime(),
+    dueCount,
   };
+}
+
+export async function readDueCounts(
+  executor: Pool | PoolClient,
+  userId: string,
+  deckIds: string[],
+): Promise<Map<string, number>> {
+  const counts = new Map<string, number>();
+
+  if (deckIds.length === 0) {
+    return counts;
+  }
+
+  const result = await executor.query<{ deck_id: string; due_count: number }>(
+    `SELECT c.deck_id, COUNT(*)::int AS due_count
+     FROM cards c
+     LEFT JOIN card_reviews r ON r.card_id = c.id AND r.user_id = $1
+     WHERE c.deck_id = ANY ($2::uuid[]) AND (r.due_at IS NULL OR r.due_at <= now())
+     GROUP BY c.deck_id`,
+    [userId, deckIds],
+  );
+
+  for (const row of result.rows) {
+    counts.set(row.deck_id, row.due_count);
+  }
+
+  return counts;
 }
 
 export function toCard(row: CardRow): Card {
@@ -186,14 +214,14 @@ export async function listDecks(userId: string): Promise<Deck[]> {
     [userId],
   );
 
-  const cardsByDeck = await readCards(
-    result.rows.map((row) => {
-      return row.id;
-    }),
-  );
+  const deckIds = result.rows.map((row) => {
+    return row.id;
+  });
+  const cardsByDeck = await readCards(deckIds);
+  const dueByDeck = await readDueCounts(pool, userId, deckIds);
 
   return result.rows.map((row) => {
-    return toDeck(row, cardsByDeck.get(row.id) ?? []);
+    return toDeck(row, cardsByDeck.get(row.id) ?? [], dueByDeck.get(row.id) ?? 0);
   });
 }
 
@@ -210,8 +238,9 @@ export async function getDeck(userId: string, deckId: string): Promise<Deck | un
   }
 
   const cardsByDeck = await readCards([row.id]);
+  const dueByDeck = await readDueCounts(pool, userId, [row.id]);
 
-  return toDeck(row, cardsByDeck.get(row.id) ?? []);
+  return toDeck(row, cardsByDeck.get(row.id) ?? [], dueByDeck.get(row.id) ?? 0);
 }
 
 export async function createDeck(
@@ -231,7 +260,9 @@ export async function createDeck(
       throw new Error('deck was not created');
     }
 
-    return toDeck(row, await syncCards(client, row.id, cards));
+    const written = await syncCards(client, row.id, cards);
+
+    return toDeck(row, written, written.length);
   });
 }
 
@@ -253,7 +284,10 @@ export async function updateDeck(
       return undefined;
     }
 
-    return toDeck(row, await syncCards(client, row.id, cards));
+    const written = await syncCards(client, row.id, cards);
+    const dueByDeck = await readDueCounts(client, userId, [row.id]);
+
+    return toDeck(row, written, dueByDeck.get(row.id) ?? 0);
   });
 }
 
