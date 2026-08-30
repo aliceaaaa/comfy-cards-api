@@ -10,7 +10,7 @@
     "seed": "tsx src/db/seed.ts",
     "seed:dist": "node dist/db/seed.js",
     "start": "node dist/index.js",
-    "test": "node --import tsx --test tests/*.test.ts",
+    "test": "node --import tsx --test --test-concurrency=1 tests/*.test.ts",
     "typecheck": "tsc --noEmit -p tsconfig.test.json"
   },
   "dependencies": {

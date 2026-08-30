@@ -80,44 +80,104 @@ async function readCards(deckIds: string[]): Promise<Map<string, Card[]>> {
   return byDeck;
 }
 
-async function replaceCards(
+function cardKey(original: string, translation: string, transcription: string | null): string {
+  return [original, translation, transcription ?? ''].join('\u0000');
+}
+
+async function syncCards(
   client: PoolClient,
   deckId: string,
   cards: CardInput[],
 ): Promise<Card[]> {
-  await client.query('DELETE FROM cards WHERE deck_id = $1', [deckId]);
-
-  if (cards.length === 0) {
-    return [];
-  }
-
-  const originals = cards.map((card) => {
-    return card.original;
-  });
-  const translations = cards.map((card) => {
-    return card.translation;
-  });
-  const transcriptions = cards.map((card) => {
-    return toStoredTranscription(card.transcription);
-  });
-  const positions = cards.map((card, index) => {
-    return index;
-  });
-
-  const result = await client.query<CardRow & { position: number }>(
-    `INSERT INTO cards (deck_id, original, translation, transcription, position)
-     SELECT $1, original, translation, transcription, position
-     FROM unnest($2::text[], $3::text[], $4::text[], $5::int[])
-       AS input (original, translation, transcription, position)
-     RETURNING id, deck_id, original, translation, transcription, position`,
-    [deckId, originals, translations, transcriptions, positions],
+  const existing = await client.query<CardRow>(
+    `SELECT id, deck_id, original, translation, transcription
+     FROM cards
+     WHERE deck_id = $1
+     ORDER BY position`,
+    [deckId],
   );
 
-  return result.rows
-    .sort((left, right) => {
-      return left.position - right.position;
-    })
-    .map(toCard);
+  const reusableIds = new Map<string, string[]>();
+
+  for (const row of existing.rows) {
+    const key = cardKey(row.original, row.translation, row.transcription);
+    const ids = reusableIds.get(key) ?? [];
+
+    ids.push(row.id);
+    reusableIds.set(key, ids);
+  }
+
+  const result: Card[] = new Array(cards.length);
+  const keptIds: string[] = [];
+  const keptPositions: number[] = [];
+  const insertedCards: CardInput[] = [];
+  const insertedPositions: number[] = [];
+
+  cards.forEach((card, position) => {
+    const transcription = toStoredTranscription(card.transcription);
+    const key = cardKey(card.original, card.translation, transcription);
+    const reusedId = reusableIds.get(key)?.shift();
+
+    if (reusedId === undefined) {
+      insertedCards.push(card);
+      insertedPositions.push(position);
+      return;
+    }
+
+    keptIds.push(reusedId);
+    keptPositions.push(position);
+    result[position] = toCard({
+      id: reusedId,
+      deck_id: deckId,
+      original: card.original,
+      translation: card.translation,
+      transcription,
+    });
+  });
+
+  const staleIds = Array.from(reusableIds.values()).flat();
+
+  if (staleIds.length > 0) {
+    await client.query('DELETE FROM cards WHERE id = ANY ($1::uuid[])', [staleIds]);
+  }
+
+  if (keptIds.length > 0) {
+    await client.query(
+      `UPDATE cards SET position = input.position
+       FROM unnest($1::uuid[], $2::int[]) AS input (id, position)
+       WHERE cards.id = input.id`,
+      [keptIds, keptPositions],
+    );
+  }
+
+  if (insertedCards.length > 0) {
+    const inserted = await client.query<CardRow & { position: number }>(
+      `INSERT INTO cards (deck_id, original, translation, transcription, position)
+       SELECT $1, original, translation, transcription, position
+       FROM unnest($2::text[], $3::text[], $4::text[], $5::int[])
+         AS input (original, translation, transcription, position)
+       RETURNING id, deck_id, original, translation, transcription, position`,
+      [
+        deckId,
+        insertedCards.map((card) => {
+          return card.original;
+        }),
+        insertedCards.map((card) => {
+          return card.translation;
+        }),
+        insertedCards.map((card) => {
+          return toStoredTranscription(card.transcription);
+        }),
+        insertedPositions,
+      ],
+    );
+
+    for (const row of inserted.rows) {
+      result[row.position] = toCard(row);
+    }
+  }
+
+  return result;
 }
 
 export async function listDecks(userId: string): Promise<Deck[]> {
@@ -171,7 +231,7 @@ export async function createDeck(
       throw new Error('deck was not created');
     }
 
-    return toDeck(row, await replaceCards(client, row.id, cards));
+    return toDeck(row, await syncCards(client, row.id, cards));
   });
 }
 
@@ -193,7 +253,7 @@ export async function updateDeck(
       return undefined;
     }
 
-    return toDeck(row, await replaceCards(client, row.id, cards));
+    return toDeck(row, await syncCards(client, row.id, cards));
   });
 }
 

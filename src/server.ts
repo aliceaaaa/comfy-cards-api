@@ -6,6 +6,7 @@ import { authPlugin } from './plugins/auth.js';
 import { authRoutes } from './routes/auth.js';
 import { catalogRoutes } from './routes/catalog.js';
 import { deckRoutes } from './routes/decks.js';
+import { reviewRoutes } from './routes/reviews.js';
 
 export async function buildServer(options: { logger?: boolean } = {}): Promise<FastifyInstance> {
   const app = Fastify({ logger: options.logger ?? true });
@@ -35,6 +36,7 @@ export async function buildServer(options: { logger?: boolean } = {}): Promise<F
   await app.register(authRoutes);
   await app.register(deckRoutes);
   await app.register(catalogRoutes);
+  await app.register(reviewRoutes);
 
   return app;
 }
