@@ -1,0 +1,129 @@
+{
+  "slug": "german-home",
+  "title": "German home and things",
+  "description": "German words for rooms, furniture and the objects you use at home.",
+  "language": "de",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "die Wohnung",
+      "translation": "flat"
+    },
+    {
+      "original": "die Küche",
+      "translation": "kitchen"
+    },
+    {
+      "original": "das Schlafzimmer",
+      "translation": "bedroom"
+    },
+    {
+      "original": "das Badezimmer",
+      "translation": "bathroom"
+    },
+    {
+      "original": "das Wohnzimmer",
+      "translation": "living room"
+    },
+    {
+      "original": "die Tür",
+      "translation": "door"
+    },
+    {
+      "original": "das Fenster",
+      "translation": "window"
+    },
+    {
+      "original": "der Boden",
+      "translation": "floor"
+    },
+    {
+      "original": "die Wand",
+      "translation": "wall"
+    },
+    {
+      "original": "das Dach",
+      "translation": "roof"
+    },
+    {
+      "original": "die Treppe",
+      "translation": "stairs"
+    },
+    {
+      "original": "der Tisch",
+      "translation": "table"
+    },
+    {
+      "original": "der Stuhl",
+      "translation": "chair"
+    },
+    {
+      "original": "das Bett",
+      "translation": "bed"
+    },
+    {
+      "original": "das Sofa",
+      "translation": "sofa"
+    },
+    {
+      "original": "der Schrank",
+      "translation": "cupboard"
+    },
+    {
+      "original": "das Regal",
+      "translation": "shelf"
+    },
+    {
+      "original": "die Lampe",
+      "translation": "lamp"
+    },
+    {
+      "original": "der Teppich",
+      "translation": "carpet"
+    },
+    {
+      "original": "der Spiegel",
+      "translation": "mirror"
+    },
+    {
+      "original": "der Kühlschrank",
+      "translation": "fridge"
+    },
+    {
+      "original": "der Herd",
+      "translation": "stove"
+    },
+    {
+      "original": "die Dusche",
+      "translation": "shower"
+    },
+    {
+      "original": "die Seife",
+      "translation": "soap"
+    },
+    {
+      "original": "das Handtuch",
+      "translation": "towel"
+    },
+    {
+      "original": "der Löffel",
+      "translation": "spoon"
+    },
+    {
+      "original": "das Messer",
+      "translation": "knife"
+    },
+    {
+      "original": "die Tasse",
+      "translation": "cup"
+    },
+    {
+      "original": "das Glas",
+      "translation": "glass"
+    },
+    {
+      "original": "der Garten",
+      "translation": "garden"
+    }
+  ]
+}

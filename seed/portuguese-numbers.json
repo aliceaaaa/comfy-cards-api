@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-numbers",
+  "title": "Portuguese numbers",
+  "description": "Numbers in Portuguese from zero to a thousand, with the words you count things by.",
+  "language": "pt",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "zero",
+      "translation": "zero"
+    },
+    {
+      "original": "um",
+      "translation": "one"
+    },
+    {
+      "original": "dois",
+      "translation": "two"
+    },
+    {
+      "original": "três",
+      "translation": "three"
+    },
+    {
+      "original": "quatro",
+      "translation": "four"
+    },
+    {
+      "original": "cinco",
+      "translation": "five"
+    },
+    {
+      "original": "seis",
+      "translation": "six"
+    },
+    {
+      "original": "sete",
+      "translation": "seven"
+    },
+    {
+      "original": "oito",
+      "translation": "eight"
+    },
+    {
+      "original": "nove",
+      "translation": "nine"
+    },
+    {
+      "original": "dez",
+      "translation": "ten"
+    },
+    {
+      "original": "onze",
+      "translation": "eleven"
+    },
+    {
+      "original": "doze",
+      "translation": "twelve"
+    },
+    {
+      "original": "treze",
+      "translation": "thirteen"
+    },
+    {
+      "original": "catorze",
+      "translation": "fourteen"
+    },
+    {
+      "original": "quinze",
+      "translation": "fifteen"
+    },
+    {
+      "original": "dezesseis",
+      "translation": "sixteen"
+    },
+    {
+      "original": "dezessete",
+      "translation": "seventeen"
+    },
+    {
+      "original": "dezoito",
+      "translation": "eighteen"
+    },
+    {
+      "original": "dezenove",
+      "translation": "nineteen"
+    },
+    {
+      "original": "vinte",
+      "translation": "twenty"
+    },
+    {
+      "original": "trinta",
+      "translation": "thirty"
+    },
+    {
+      "original": "quarenta",
+      "translation": "forty"
+    },
+    {
+      "original": "cinquenta",
+      "translation": "fifty"
+    },
+    {
+      "original": "cem",
+      "translation": "hundred"
+    },
+    {
+      "original": "mil",
+      "translation": "thousand"
+    },
+    {
+      "original": "o número",
+      "translation": "number"
+    },
+    {
+      "original": "a metade",
+      "translation": "half"
+    },
+    {
+      "original": "a dúzia",
+      "translation": "dozen"
+    },
+    {
+      "original": "o par",
+      "translation": "pair"
+    }
+  ]
+}

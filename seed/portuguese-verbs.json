@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-verbs",
+  "title": "Portuguese common verbs",
+  "description": "The Portuguese verbs you meet first, all in the infinitive.",
+  "language": "pt",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "ser",
+      "translation": "to be"
+    },
+    {
+      "original": "ter",
+      "translation": "to have"
+    },
+    {
+      "original": "fazer",
+      "translation": "to do"
+    },
+    {
+      "original": "ir",
+      "translation": "to go"
+    },
+    {
+      "original": "vir",
+      "translation": "to come"
+    },
+    {
+      "original": "ver",
+      "translation": "to see"
+    },
+    {
+      "original": "ouvir",
+      "translation": "to hear"
+    },
+    {
+      "original": "falar",
+      "translation": "to speak"
+    },
+    {
+      "original": "dizer",
+      "translation": "to say"
+    },
+    {
+      "original": "comer",
+      "translation": "to eat"
+    },
+    {
+      "original": "beber",
+      "translation": "to drink"
+    },
+    {
+      "original": "dormir",
+      "translation": "to sleep"
+    },
+    {
+      "original": "ler",
+      "translation": "to read"
+    },
+    {
+      "original": "escrever",
+      "translation": "to write"
+    },
+    {
+      "original": "aprender",
+      "translation": "to learn"
+    },
+    {
+      "original": "trabalhar",
+      "translation": "to work"
+    },
+    {
+      "original": "jogar",
+      "translation": "to play"
+    },
+    {
+      "original": "comprar",
+      "translation": "to buy"
+    },
+    {
+      "original": "dar",
+      "translation": "to give"
+    },
+    {
+      "original": "pegar",
+      "translation": "to take"
+    },
+    {
+      "original": "encontrar",
+      "translation": "to find"
+    },
+    {
+      "original": "dirigir",
+      "translation": "to drive"
+    },
+    {
+      "original": "correr",
+      "translation": "to run"
+    },
+    {
+      "original": "esperar",
+      "translation": "to wait"
+    },
+    {
+      "original": "pensar",
+      "translation": "to think"
+    },
+    {
+      "original": "saber",
+      "translation": "to know"
+    },
+    {
+      "original": "entender",
+      "translation": "to understand"
+    },
+    {
+      "original": "ajudar",
+      "translation": "to help"
+    },
+    {
+      "original": "amar",
+      "translation": "to love"
+    },
+    {
+      "original": "viver",
+      "translation": "to live"
+    }
+  ]
+}

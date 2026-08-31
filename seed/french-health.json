@@ -1,0 +1,129 @@
+{
+  "slug": "french-health",
+  "title": "French body and health",
+  "description": "French words for the body, feeling unwell and going to the doctor.",
+  "language": "fr",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "le corps",
+      "translation": "body"
+    },
+    {
+      "original": "la tête",
+      "translation": "head"
+    },
+    {
+      "original": "l'œil",
+      "translation": "eye"
+    },
+    {
+      "original": "l'oreille",
+      "translation": "ear"
+    },
+    {
+      "original": "le nez",
+      "translation": "nose"
+    },
+    {
+      "original": "la bouche",
+      "translation": "mouth"
+    },
+    {
+      "original": "la dent",
+      "translation": "tooth"
+    },
+    {
+      "original": "les cheveux",
+      "translation": "hair"
+    },
+    {
+      "original": "le cou",
+      "translation": "neck"
+    },
+    {
+      "original": "l'épaule",
+      "translation": "shoulder"
+    },
+    {
+      "original": "le bras",
+      "translation": "arm"
+    },
+    {
+      "original": "la main",
+      "translation": "hand"
+    },
+    {
+      "original": "le doigt",
+      "translation": "finger"
+    },
+    {
+      "original": "la jambe",
+      "translation": "leg"
+    },
+    {
+      "original": "le pied",
+      "translation": "foot"
+    },
+    {
+      "original": "le cœur",
+      "translation": "heart"
+    },
+    {
+      "original": "le dos",
+      "translation": "back"
+    },
+    {
+      "original": "le ventre",
+      "translation": "belly"
+    },
+    {
+      "original": "la peau",
+      "translation": "skin"
+    },
+    {
+      "original": "le sang",
+      "translation": "blood"
+    },
+    {
+      "original": "le médecin",
+      "translation": "doctor"
+    },
+    {
+      "original": "l'infirmière",
+      "translation": "nurse"
+    },
+    {
+      "original": "l'hôpital",
+      "translation": "hospital"
+    },
+    {
+      "original": "la pharmacie",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "le médicament",
+      "translation": "medicine"
+    },
+    {
+      "original": "la maladie",
+      "translation": "illness"
+    },
+    {
+      "original": "la fièvre",
+      "translation": "fever"
+    },
+    {
+      "original": "la douleur",
+      "translation": "pain"
+    },
+    {
+      "original": "le rhume",
+      "translation": "a cold"
+    },
+    {
+      "original": "la santé",
+      "translation": "health"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "polish-time",
+  "title": "Polish time and weather",
+  "description": "Polish words for days, months, the clock and the weather.",
+  "language": "pl",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "godzina",
+      "translation": "hour"
+    },
+    {
+      "original": "minuta",
+      "translation": "minute"
+    },
+    {
+      "original": "sekunda",
+      "translation": "second"
+    },
+    {
+      "original": "tydzień",
+      "translation": "week"
+    },
+    {
+      "original": "miesiąc",
+      "translation": "month"
+    },
+    {
+      "original": "rano",
+      "translation": "morning"
+    },
+    {
+      "original": "południe",
+      "translation": "midday"
+    },
+    {
+      "original": "wieczór",
+      "translation": "evening"
+    },
+    {
+      "original": "dzisiaj",
+      "translation": "today"
+    },
+    {
+      "original": "jutro",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "wczoraj",
+      "translation": "yesterday"
+    },
+    {
+      "original": "teraz",
+      "translation": "now"
+    },
+    {
+      "original": "wcześnie",
+      "translation": "early"
+    },
+    {
+      "original": "późno",
+      "translation": "late"
+    },
+    {
+      "original": "poniedziałek",
+      "translation": "Monday"
+    },
+    {
+      "original": "wtorek",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "środa",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "czwartek",
+      "translation": "Thursday"
+    },
+    {
+      "original": "piątek",
+      "translation": "Friday"
+    },
+    {
+      "original": "sobota",
+      "translation": "Saturday"
+    },
+    {
+      "original": "niedziela",
+      "translation": "Sunday"
+    },
+    {
+      "original": "wiosna",
+      "translation": "spring"
+    },
+    {
+      "original": "lato",
+      "translation": "summer"
+    },
+    {
+      "original": "jesień",
+      "translation": "autumn"
+    },
+    {
+      "original": "zima",
+      "translation": "winter"
+    },
+    {
+      "original": "pogoda",
+      "translation": "weather"
+    },
+    {
+      "original": "słońce",
+      "translation": "sun"
+    },
+    {
+      "original": "deszcz",
+      "translation": "rain"
+    },
+    {
+      "original": "śnieg",
+      "translation": "snow"
+    },
+    {
+      "original": "wiatr",
+      "translation": "wind"
+    }
+  ]
+}

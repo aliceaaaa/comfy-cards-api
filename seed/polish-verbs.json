@@ -1,0 +1,129 @@
+{
+  "slug": "polish-verbs",
+  "title": "Polish common verbs",
+  "description": "The Polish verbs you meet first, all in the infinitive.",
+  "language": "pl",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "być",
+      "translation": "to be"
+    },
+    {
+      "original": "mieć",
+      "translation": "to have"
+    },
+    {
+      "original": "robić",
+      "translation": "to do"
+    },
+    {
+      "original": "iść",
+      "translation": "to go"
+    },
+    {
+      "original": "przyjść",
+      "translation": "to come"
+    },
+    {
+      "original": "widzieć",
+      "translation": "to see"
+    },
+    {
+      "original": "słyszeć",
+      "translation": "to hear"
+    },
+    {
+      "original": "mówić",
+      "translation": "to speak"
+    },
+    {
+      "original": "powiedzieć",
+      "translation": "to say"
+    },
+    {
+      "original": "jeść",
+      "translation": "to eat"
+    },
+    {
+      "original": "pić",
+      "translation": "to drink"
+    },
+    {
+      "original": "spać",
+      "translation": "to sleep"
+    },
+    {
+      "original": "czytać",
+      "translation": "to read"
+    },
+    {
+      "original": "pisać",
+      "translation": "to write"
+    },
+    {
+      "original": "uczyć się",
+      "translation": "to learn"
+    },
+    {
+      "original": "pracować",
+      "translation": "to work"
+    },
+    {
+      "original": "grać",
+      "translation": "to play"
+    },
+    {
+      "original": "kupować",
+      "translation": "to buy"
+    },
+    {
+      "original": "dawać",
+      "translation": "to give"
+    },
+    {
+      "original": "brać",
+      "translation": "to take"
+    },
+    {
+      "original": "znaleźć",
+      "translation": "to find"
+    },
+    {
+      "original": "prowadzić",
+      "translation": "to drive"
+    },
+    {
+      "original": "biegać",
+      "translation": "to run"
+    },
+    {
+      "original": "czekać",
+      "translation": "to wait"
+    },
+    {
+      "original": "myśleć",
+      "translation": "to think"
+    },
+    {
+      "original": "wiedzieć",
+      "translation": "to know"
+    },
+    {
+      "original": "rozumieć",
+      "translation": "to understand"
+    },
+    {
+      "original": "pomagać",
+      "translation": "to help"
+    },
+    {
+      "original": "kochać",
+      "translation": "to love"
+    },
+    {
+      "original": "mieszkać",
+      "translation": "to live"
+    }
+  ]
+}

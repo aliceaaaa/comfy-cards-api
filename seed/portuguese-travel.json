@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-travel",
+  "title": "Portuguese travel and directions",
+  "description": "The Portuguese words you need to get around, ask the way and catch a train.",
+  "language": "pt",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "a viagem",
+      "translation": "trip"
+    },
+    {
+      "original": "o trem",
+      "translation": "train"
+    },
+    {
+      "original": "o ônibus",
+      "translation": "bus"
+    },
+    {
+      "original": "o avião",
+      "translation": "plane"
+    },
+    {
+      "original": "o aeroporto",
+      "translation": "airport"
+    },
+    {
+      "original": "a estação",
+      "translation": "railway station"
+    },
+    {
+      "original": "o bilhete",
+      "translation": "ticket"
+    },
+    {
+      "original": "a mala",
+      "translation": "suitcase"
+    },
+    {
+      "original": "o mapa",
+      "translation": "map"
+    },
+    {
+      "original": "o caminho",
+      "translation": "way"
+    },
+    {
+      "original": "a rua",
+      "translation": "street"
+    },
+    {
+      "original": "a esquerda",
+      "translation": "left"
+    },
+    {
+      "original": "a direita",
+      "translation": "right"
+    },
+    {
+      "original": "em frente",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "a esquina",
+      "translation": "corner"
+    },
+    {
+      "original": "a praça",
+      "translation": "square"
+    },
+    {
+      "original": "a ponte",
+      "translation": "bridge"
+    },
+    {
+      "original": "o hotel",
+      "translation": "hotel"
+    },
+    {
+      "original": "o quarto",
+      "translation": "room"
+    },
+    {
+      "original": "a chave",
+      "translation": "key"
+    },
+    {
+      "original": "a fronteira",
+      "translation": "border"
+    },
+    {
+      "original": "o passaporte",
+      "translation": "passport"
+    },
+    {
+      "original": "o mar",
+      "translation": "sea"
+    },
+    {
+      "original": "a montanha",
+      "translation": "mountain"
+    },
+    {
+      "original": "o lago",
+      "translation": "lake"
+    },
+    {
+      "original": "a praia",
+      "translation": "beach"
+    },
+    {
+      "original": "a partida",
+      "translation": "departure"
+    },
+    {
+      "original": "a chegada",
+      "translation": "arrival"
+    },
+    {
+      "original": "o atraso",
+      "translation": "delay"
+    },
+    {
+      "original": "a bagagem",
+      "translation": "luggage"
+    }
+  ]
+}

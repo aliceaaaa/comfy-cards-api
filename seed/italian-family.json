@@ -1,0 +1,129 @@
+{
+  "slug": "italian-family",
+  "title": "Italian family and people",
+  "description": "Italian words for relatives, friends and the people around you.",
+  "language": "it",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "la madre",
+      "translation": "mother"
+    },
+    {
+      "original": "il padre",
+      "translation": "father"
+    },
+    {
+      "original": "i genitori",
+      "translation": "parents"
+    },
+    {
+      "original": "il figlio",
+      "translation": "son"
+    },
+    {
+      "original": "la figlia",
+      "translation": "daughter"
+    },
+    {
+      "original": "il fratello",
+      "translation": "brother"
+    },
+    {
+      "original": "la sorella",
+      "translation": "sister"
+    },
+    {
+      "original": "la nonna",
+      "translation": "grandmother"
+    },
+    {
+      "original": "il nonno",
+      "translation": "grandfather"
+    },
+    {
+      "original": "lo zio",
+      "translation": "uncle"
+    },
+    {
+      "original": "la zia",
+      "translation": "aunt"
+    },
+    {
+      "original": "il cugino",
+      "translation": "cousin"
+    },
+    {
+      "original": "il neonato",
+      "translation": "baby"
+    },
+    {
+      "original": "il ragazzo",
+      "translation": "boy"
+    },
+    {
+      "original": "la ragazza",
+      "translation": "girl"
+    },
+    {
+      "original": "la gente",
+      "translation": "people"
+    },
+    {
+      "original": "la persona",
+      "translation": "person"
+    },
+    {
+      "original": "il vicino",
+      "translation": "neighbour"
+    },
+    {
+      "original": "l'ospite",
+      "translation": "guest"
+    },
+    {
+      "original": "la moglie",
+      "translation": "wife"
+    },
+    {
+      "original": "il marito",
+      "translation": "husband"
+    },
+    {
+      "original": "il matrimonio",
+      "translation": "wedding"
+    },
+    {
+      "original": "il compleanno",
+      "translation": "birthday"
+    },
+    {
+      "original": "il nome",
+      "translation": "name"
+    },
+    {
+      "original": "l'età",
+      "translation": "age"
+    },
+    {
+      "original": "l'amore",
+      "translation": "love"
+    },
+    {
+      "original": "l'amicizia",
+      "translation": "friendship"
+    },
+    {
+      "original": "il collega",
+      "translation": "colleague"
+    },
+    {
+      "original": "il gruppo",
+      "translation": "group"
+    },
+    {
+      "original": "il nipote",
+      "translation": "grandson"
+    }
+  ]
+}

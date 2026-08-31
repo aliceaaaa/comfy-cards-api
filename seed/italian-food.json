@@ -1,0 +1,129 @@
+{
+  "slug": "italian-food",
+  "title": "Italian food and drink",
+  "description": "Everyday Italian words for food, drink and eating out.",
+  "language": "it",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "il cibo",
+      "translation": "food"
+    },
+    {
+      "original": "la bevanda",
+      "translation": "drink"
+    },
+    {
+      "original": "la colazione",
+      "translation": "breakfast"
+    },
+    {
+      "original": "il pranzo",
+      "translation": "lunch"
+    },
+    {
+      "original": "la cena",
+      "translation": "dinner"
+    },
+    {
+      "original": "la carne",
+      "translation": "meat"
+    },
+    {
+      "original": "il pesce",
+      "translation": "fish"
+    },
+    {
+      "original": "la verdura",
+      "translation": "vegetable"
+    },
+    {
+      "original": "la frutta",
+      "translation": "fruit"
+    },
+    {
+      "original": "il formaggio",
+      "translation": "cheese"
+    },
+    {
+      "original": "il burro",
+      "translation": "butter"
+    },
+    {
+      "original": "l'uovo",
+      "translation": "egg"
+    },
+    {
+      "original": "il riso",
+      "translation": "rice"
+    },
+    {
+      "original": "la patata",
+      "translation": "potato"
+    },
+    {
+      "original": "il pomodoro",
+      "translation": "tomato"
+    },
+    {
+      "original": "la cipolla",
+      "translation": "onion"
+    },
+    {
+      "original": "l'insalata",
+      "translation": "salad"
+    },
+    {
+      "original": "la zuppa",
+      "translation": "soup"
+    },
+    {
+      "original": "lo zucchero",
+      "translation": "sugar"
+    },
+    {
+      "original": "il sale",
+      "translation": "salt"
+    },
+    {
+      "original": "il pepe",
+      "translation": "pepper"
+    },
+    {
+      "original": "il succo",
+      "translation": "juice"
+    },
+    {
+      "original": "la birra",
+      "translation": "beer"
+    },
+    {
+      "original": "il vino",
+      "translation": "wine"
+    },
+    {
+      "original": "la torta",
+      "translation": "cake"
+    },
+    {
+      "original": "il cioccolato",
+      "translation": "chocolate"
+    },
+    {
+      "original": "il ristorante",
+      "translation": "restaurant"
+    },
+    {
+      "original": "il conto",
+      "translation": "bill"
+    },
+    {
+      "original": "il piatto",
+      "translation": "plate"
+    },
+    {
+      "original": "la forchetta",
+      "translation": "fork"
+    }
+  ]
+}

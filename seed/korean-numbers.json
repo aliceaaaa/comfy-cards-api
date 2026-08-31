@@ -1,0 +1,159 @@
+{
+  "slug": "korean-numbers",
+  "title": "Korean numbers",
+  "description": "Numbers in Korean from zero to a thousand, with the words you count things by.",
+  "language": "ko",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "영",
+      "translation": "zero",
+      "transcription": "yeong"
+    },
+    {
+      "original": "하나",
+      "translation": "one",
+      "transcription": "hana"
+    },
+    {
+      "original": "둘",
+      "translation": "two",
+      "transcription": "dul"
+    },
+    {
+      "original": "셋",
+      "translation": "three",
+      "transcription": "set"
+    },
+    {
+      "original": "넷",
+      "translation": "four",
+      "transcription": "net"
+    },
+    {
+      "original": "다섯",
+      "translation": "five",
+      "transcription": "daseot"
+    },
+    {
+      "original": "여섯",
+      "translation": "six",
+      "transcription": "yeoseot"
+    },
+    {
+      "original": "일곱",
+      "translation": "seven",
+      "transcription": "ilgop"
+    },
+    {
+      "original": "여덟",
+      "translation": "eight",
+      "transcription": "yeodeol"
+    },
+    {
+      "original": "아홉",
+      "translation": "nine",
+      "transcription": "ahop"
+    },
+    {
+      "original": "열",
+      "translation": "ten",
+      "transcription": "yeol"
+    },
+    {
+      "original": "열하나",
+      "translation": "eleven",
+      "transcription": "yeolhana"
+    },
+    {
+      "original": "열둘",
+      "translation": "twelve",
+      "transcription": "yeoldul"
+    },
+    {
+      "original": "스물",
+      "translation": "twenty",
+      "transcription": "seumul"
+    },
+    {
+      "original": "서른",
+      "translation": "thirty",
+      "transcription": "seoreun"
+    },
+    {
+      "original": "마흔",
+      "translation": "forty",
+      "transcription": "maheun"
+    },
+    {
+      "original": "쉰",
+      "translation": "fifty",
+      "transcription": "swin"
+    },
+    {
+      "original": "예순",
+      "translation": "sixty",
+      "transcription": "yesun"
+    },
+    {
+      "original": "일흔",
+      "translation": "seventy",
+      "transcription": "ilheun"
+    },
+    {
+      "original": "여든",
+      "translation": "eighty",
+      "transcription": "yeodeun"
+    },
+    {
+      "original": "아흔",
+      "translation": "ninety",
+      "transcription": "aheun"
+    },
+    {
+      "original": "백",
+      "translation": "hundred",
+      "transcription": "baek"
+    },
+    {
+      "original": "천",
+      "translation": "thousand",
+      "transcription": "cheon"
+    },
+    {
+      "original": "만",
+      "translation": "ten thousand",
+      "transcription": "man"
+    },
+    {
+      "original": "숫자",
+      "translation": "number",
+      "transcription": "sutja"
+    },
+    {
+      "original": "반",
+      "translation": "half",
+      "transcription": "ban"
+    },
+    {
+      "original": "몇",
+      "translation": "how many",
+      "transcription": "myeot"
+    },
+    {
+      "original": "첫째",
+      "translation": "first",
+      "transcription": "cheotjjae"
+    },
+    {
+      "original": "둘째",
+      "translation": "second",
+      "transcription": "duljjae"
+    },
+    {
+      "original": "마지막",
+      "translation": "last",
+      "transcription": "majimak"
+    }
+  ]
+}

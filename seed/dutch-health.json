@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-health",
+  "title": "Dutch body and health",
+  "description": "Dutch words for the body, feeling unwell and going to the doctor.",
+  "language": "nl",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "het lichaam",
+      "translation": "body"
+    },
+    {
+      "original": "het hoofd",
+      "translation": "head"
+    },
+    {
+      "original": "het oog",
+      "translation": "eye"
+    },
+    {
+      "original": "het oor",
+      "translation": "ear"
+    },
+    {
+      "original": "de neus",
+      "translation": "nose"
+    },
+    {
+      "original": "de mond",
+      "translation": "mouth"
+    },
+    {
+      "original": "de tand",
+      "translation": "tooth"
+    },
+    {
+      "original": "het haar",
+      "translation": "hair"
+    },
+    {
+      "original": "de nek",
+      "translation": "neck"
+    },
+    {
+      "original": "de schouder",
+      "translation": "shoulder"
+    },
+    {
+      "original": "de arm",
+      "translation": "arm"
+    },
+    {
+      "original": "de hand",
+      "translation": "hand"
+    },
+    {
+      "original": "de vinger",
+      "translation": "finger"
+    },
+    {
+      "original": "het been",
+      "translation": "leg"
+    },
+    {
+      "original": "de voet",
+      "translation": "foot"
+    },
+    {
+      "original": "het hart",
+      "translation": "heart"
+    },
+    {
+      "original": "de rug",
+      "translation": "back"
+    },
+    {
+      "original": "de buik",
+      "translation": "belly"
+    },
+    {
+      "original": "de huid",
+      "translation": "skin"
+    },
+    {
+      "original": "het bloed",
+      "translation": "blood"
+    },
+    {
+      "original": "de dokter",
+      "translation": "doctor"
+    },
+    {
+      "original": "de verpleegster",
+      "translation": "nurse"
+    },
+    {
+      "original": "het ziekenhuis",
+      "translation": "hospital"
+    },
+    {
+      "original": "de apotheek",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "het medicijn",
+      "translation": "medicine"
+    },
+    {
+      "original": "de ziekte",
+      "translation": "illness"
+    },
+    {
+      "original": "de koorts",
+      "translation": "fever"
+    },
+    {
+      "original": "de pijn",
+      "translation": "pain"
+    },
+    {
+      "original": "de verkoudheid",
+      "translation": "a cold"
+    },
+    {
+      "original": "de gezondheid",
+      "translation": "health"
+    }
+  ]
+}

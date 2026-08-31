@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-health",
+  "title": "Swedish body and health",
+  "description": "Swedish words for the body, feeling unwell and going to the doctor.",
+  "language": "sv",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "en kropp",
+      "translation": "body"
+    },
+    {
+      "original": "ett huvud",
+      "translation": "head"
+    },
+    {
+      "original": "ett öga",
+      "translation": "eye"
+    },
+    {
+      "original": "ett öra",
+      "translation": "ear"
+    },
+    {
+      "original": "en näsa",
+      "translation": "nose"
+    },
+    {
+      "original": "en mun",
+      "translation": "mouth"
+    },
+    {
+      "original": "en tand",
+      "translation": "tooth"
+    },
+    {
+      "original": "ett hår",
+      "translation": "hair"
+    },
+    {
+      "original": "en hals",
+      "translation": "neck"
+    },
+    {
+      "original": "en axel",
+      "translation": "shoulder"
+    },
+    {
+      "original": "en arm",
+      "translation": "arm"
+    },
+    {
+      "original": "en hand",
+      "translation": "hand"
+    },
+    {
+      "original": "ett finger",
+      "translation": "finger"
+    },
+    {
+      "original": "ett ben",
+      "translation": "leg"
+    },
+    {
+      "original": "en fot",
+      "translation": "foot"
+    },
+    {
+      "original": "ett hjärta",
+      "translation": "heart"
+    },
+    {
+      "original": "en rygg",
+      "translation": "back"
+    },
+    {
+      "original": "en mage",
+      "translation": "belly"
+    },
+    {
+      "original": "en hud",
+      "translation": "skin"
+    },
+    {
+      "original": "blod",
+      "translation": "blood"
+    },
+    {
+      "original": "en läkare",
+      "translation": "doctor"
+    },
+    {
+      "original": "en sjuksköterska",
+      "translation": "nurse"
+    },
+    {
+      "original": "ett sjukhus",
+      "translation": "hospital"
+    },
+    {
+      "original": "ett apotek",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "en medicin",
+      "translation": "medicine"
+    },
+    {
+      "original": "en sjukdom",
+      "translation": "illness"
+    },
+    {
+      "original": "feber",
+      "translation": "fever"
+    },
+    {
+      "original": "en smärta",
+      "translation": "pain"
+    },
+    {
+      "original": "en förkylning",
+      "translation": "a cold"
+    },
+    {
+      "original": "hälsa",
+      "translation": "health"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "polish-food",
+  "title": "Polish food and drink",
+  "description": "Everyday Polish words for food, drink and eating out.",
+  "language": "pl",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "jedzenie",
+      "translation": "food"
+    },
+    {
+      "original": "napój",
+      "translation": "drink"
+    },
+    {
+      "original": "śniadanie",
+      "translation": "breakfast"
+    },
+    {
+      "original": "obiad",
+      "translation": "lunch"
+    },
+    {
+      "original": "kolacja",
+      "translation": "dinner"
+    },
+    {
+      "original": "mięso",
+      "translation": "meat"
+    },
+    {
+      "original": "ryba",
+      "translation": "fish"
+    },
+    {
+      "original": "warzywo",
+      "translation": "vegetable"
+    },
+    {
+      "original": "owoc",
+      "translation": "fruit"
+    },
+    {
+      "original": "ser",
+      "translation": "cheese"
+    },
+    {
+      "original": "masło",
+      "translation": "butter"
+    },
+    {
+      "original": "jajko",
+      "translation": "egg"
+    },
+    {
+      "original": "ryż",
+      "translation": "rice"
+    },
+    {
+      "original": "ziemniak",
+      "translation": "potato"
+    },
+    {
+      "original": "pomidor",
+      "translation": "tomato"
+    },
+    {
+      "original": "cebula",
+      "translation": "onion"
+    },
+    {
+      "original": "sałatka",
+      "translation": "salad"
+    },
+    {
+      "original": "zupa",
+      "translation": "soup"
+    },
+    {
+      "original": "cukier",
+      "translation": "sugar"
+    },
+    {
+      "original": "sól",
+      "translation": "salt"
+    },
+    {
+      "original": "pieprz",
+      "translation": "pepper"
+    },
+    {
+      "original": "sok",
+      "translation": "juice"
+    },
+    {
+      "original": "piwo",
+      "translation": "beer"
+    },
+    {
+      "original": "wino",
+      "translation": "wine"
+    },
+    {
+      "original": "ciasto",
+      "translation": "cake"
+    },
+    {
+      "original": "czekolada",
+      "translation": "chocolate"
+    },
+    {
+      "original": "restauracja",
+      "translation": "restaurant"
+    },
+    {
+      "original": "rachunek",
+      "translation": "bill"
+    },
+    {
+      "original": "talerz",
+      "translation": "plate"
+    },
+    {
+      "original": "widelec",
+      "translation": "fork"
+    }
+  ]
+}

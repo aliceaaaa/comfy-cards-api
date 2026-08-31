@@ -1,0 +1,129 @@
+{
+  "slug": "polish-home",
+  "title": "Polish home and things",
+  "description": "Polish words for rooms, furniture and the objects you use at home.",
+  "language": "pl",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "mieszkanie",
+      "translation": "flat"
+    },
+    {
+      "original": "kuchnia",
+      "translation": "kitchen"
+    },
+    {
+      "original": "sypialnia",
+      "translation": "bedroom"
+    },
+    {
+      "original": "łazienka",
+      "translation": "bathroom"
+    },
+    {
+      "original": "salon",
+      "translation": "living room"
+    },
+    {
+      "original": "drzwi",
+      "translation": "door"
+    },
+    {
+      "original": "okno",
+      "translation": "window"
+    },
+    {
+      "original": "podłoga",
+      "translation": "floor"
+    },
+    {
+      "original": "ściana",
+      "translation": "wall"
+    },
+    {
+      "original": "dach",
+      "translation": "roof"
+    },
+    {
+      "original": "schody",
+      "translation": "stairs"
+    },
+    {
+      "original": "stół",
+      "translation": "table"
+    },
+    {
+      "original": "krzesło",
+      "translation": "chair"
+    },
+    {
+      "original": "łóżko",
+      "translation": "bed"
+    },
+    {
+      "original": "kanapa",
+      "translation": "sofa"
+    },
+    {
+      "original": "szafa",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "półka",
+      "translation": "shelf"
+    },
+    {
+      "original": "lampa",
+      "translation": "lamp"
+    },
+    {
+      "original": "dywan",
+      "translation": "carpet"
+    },
+    {
+      "original": "lustro",
+      "translation": "mirror"
+    },
+    {
+      "original": "lodówka",
+      "translation": "fridge"
+    },
+    {
+      "original": "piekarnik",
+      "translation": "oven"
+    },
+    {
+      "original": "prysznic",
+      "translation": "shower"
+    },
+    {
+      "original": "mydło",
+      "translation": "soap"
+    },
+    {
+      "original": "ręcznik",
+      "translation": "towel"
+    },
+    {
+      "original": "łyżka",
+      "translation": "spoon"
+    },
+    {
+      "original": "nóż",
+      "translation": "knife"
+    },
+    {
+      "original": "filiżanka",
+      "translation": "cup"
+    },
+    {
+      "original": "szklanka",
+      "translation": "glass"
+    },
+    {
+      "original": "ogród",
+      "translation": "garden"
+    }
+  ]
+}

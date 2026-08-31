@@ -1,0 +1,129 @@
+{
+  "slug": "polish-family",
+  "title": "Polish family and people",
+  "description": "Polish words for relatives, friends and the people around you.",
+  "language": "pl",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "matka",
+      "translation": "mother"
+    },
+    {
+      "original": "ojciec",
+      "translation": "father"
+    },
+    {
+      "original": "rodzice",
+      "translation": "parents"
+    },
+    {
+      "original": "syn",
+      "translation": "son"
+    },
+    {
+      "original": "córka",
+      "translation": "daughter"
+    },
+    {
+      "original": "brat",
+      "translation": "brother"
+    },
+    {
+      "original": "siostra",
+      "translation": "sister"
+    },
+    {
+      "original": "babcia",
+      "translation": "grandmother"
+    },
+    {
+      "original": "dziadek",
+      "translation": "grandfather"
+    },
+    {
+      "original": "wujek",
+      "translation": "uncle"
+    },
+    {
+      "original": "ciocia",
+      "translation": "aunt"
+    },
+    {
+      "original": "kuzyn",
+      "translation": "cousin"
+    },
+    {
+      "original": "niemowlę",
+      "translation": "baby"
+    },
+    {
+      "original": "chłopiec",
+      "translation": "boy"
+    },
+    {
+      "original": "dziewczyna",
+      "translation": "girl"
+    },
+    {
+      "original": "ludzie",
+      "translation": "people"
+    },
+    {
+      "original": "osoba",
+      "translation": "person"
+    },
+    {
+      "original": "sąsiad",
+      "translation": "neighbour"
+    },
+    {
+      "original": "gość",
+      "translation": "guest"
+    },
+    {
+      "original": "żona",
+      "translation": "wife"
+    },
+    {
+      "original": "mąż",
+      "translation": "husband"
+    },
+    {
+      "original": "wesele",
+      "translation": "wedding"
+    },
+    {
+      "original": "urodziny",
+      "translation": "birthday"
+    },
+    {
+      "original": "imię",
+      "translation": "name"
+    },
+    {
+      "original": "wiek",
+      "translation": "age"
+    },
+    {
+      "original": "miłość",
+      "translation": "love"
+    },
+    {
+      "original": "przyjaźń",
+      "translation": "friendship"
+    },
+    {
+      "original": "kolega",
+      "translation": "colleague"
+    },
+    {
+      "original": "grupa",
+      "translation": "group"
+    },
+    {
+      "original": "wnuk",
+      "translation": "grandson"
+    }
+  ]
+}

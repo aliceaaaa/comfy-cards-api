@@ -1,0 +1,129 @@
+{
+  "slug": "polish-work",
+  "title": "Polish work and study",
+  "description": "Polish words for the office, the classroom and the things you do there.",
+  "language": "pl",
+  "topic": "work",
+  "cards": [
+    {
+      "original": "biuro",
+      "translation": "office"
+    },
+    {
+      "original": "szef",
+      "translation": "boss"
+    },
+    {
+      "original": "zawód",
+      "translation": "profession"
+    },
+    {
+      "original": "firma",
+      "translation": "company"
+    },
+    {
+      "original": "pieniądze",
+      "translation": "money"
+    },
+    {
+      "original": "pensja",
+      "translation": "salary"
+    },
+    {
+      "original": "zadanie",
+      "translation": "task"
+    },
+    {
+      "original": "projekt",
+      "translation": "project"
+    },
+    {
+      "original": "spotkanie",
+      "translation": "meeting"
+    },
+    {
+      "original": "komputer",
+      "translation": "computer"
+    },
+    {
+      "original": "ekran",
+      "translation": "screen"
+    },
+    {
+      "original": "klawiatura",
+      "translation": "keyboard"
+    },
+    {
+      "original": "mysz",
+      "translation": "mouse"
+    },
+    {
+      "original": "papier",
+      "translation": "paper"
+    },
+    {
+      "original": "długopis",
+      "translation": "pen"
+    },
+    {
+      "original": "ołówek",
+      "translation": "pencil"
+    },
+    {
+      "original": "zeszyt",
+      "translation": "notebook"
+    },
+    {
+      "original": "uniwersytet",
+      "translation": "university"
+    },
+    {
+      "original": "student",
+      "translation": "student"
+    },
+    {
+      "original": "nauczyciel",
+      "translation": "teacher"
+    },
+    {
+      "original": "egzamin",
+      "translation": "exam"
+    },
+    {
+      "original": "ocena",
+      "translation": "grade"
+    },
+    {
+      "original": "praca domowa",
+      "translation": "homework"
+    },
+    {
+      "original": "biblioteka",
+      "translation": "library"
+    },
+    {
+      "original": "słownik",
+      "translation": "dictionary"
+    },
+    {
+      "original": "język",
+      "translation": "language"
+    },
+    {
+      "original": "pytanie",
+      "translation": "question"
+    },
+    {
+      "original": "odpowiedź",
+      "translation": "answer"
+    },
+    {
+      "original": "kurs",
+      "translation": "course"
+    },
+    {
+      "original": "wiedza",
+      "translation": "knowledge"
+    }
+  ]
+}

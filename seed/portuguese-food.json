@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-food",
+  "title": "Portuguese food and drink",
+  "description": "Everyday Portuguese words for food, drink and eating out.",
+  "language": "pt",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "a comida",
+      "translation": "food"
+    },
+    {
+      "original": "a bebida",
+      "translation": "drink"
+    },
+    {
+      "original": "o café da manhã",
+      "translation": "breakfast"
+    },
+    {
+      "original": "o almoço",
+      "translation": "lunch"
+    },
+    {
+      "original": "o jantar",
+      "translation": "dinner"
+    },
+    {
+      "original": "a carne",
+      "translation": "meat"
+    },
+    {
+      "original": "o peixe",
+      "translation": "fish"
+    },
+    {
+      "original": "o legume",
+      "translation": "vegetable"
+    },
+    {
+      "original": "a fruta",
+      "translation": "fruit"
+    },
+    {
+      "original": "o queijo",
+      "translation": "cheese"
+    },
+    {
+      "original": "a manteiga",
+      "translation": "butter"
+    },
+    {
+      "original": "o ovo",
+      "translation": "egg"
+    },
+    {
+      "original": "o arroz",
+      "translation": "rice"
+    },
+    {
+      "original": "a batata",
+      "translation": "potato"
+    },
+    {
+      "original": "o tomate",
+      "translation": "tomato"
+    },
+    {
+      "original": "a cebola",
+      "translation": "onion"
+    },
+    {
+      "original": "a salada",
+      "translation": "salad"
+    },
+    {
+      "original": "a sopa",
+      "translation": "soup"
+    },
+    {
+      "original": "o açúcar",
+      "translation": "sugar"
+    },
+    {
+      "original": "o sal",
+      "translation": "salt"
+    },
+    {
+      "original": "a pimenta",
+      "translation": "pepper"
+    },
+    {
+      "original": "o suco",
+      "translation": "juice"
+    },
+    {
+      "original": "a cerveja",
+      "translation": "beer"
+    },
+    {
+      "original": "o vinho",
+      "translation": "wine"
+    },
+    {
+      "original": "o bolo",
+      "translation": "cake"
+    },
+    {
+      "original": "o chocolate",
+      "translation": "chocolate"
+    },
+    {
+      "original": "o restaurante",
+      "translation": "restaurant"
+    },
+    {
+      "original": "a conta",
+      "translation": "bill"
+    },
+    {
+      "original": "o prato",
+      "translation": "plate"
+    },
+    {
+      "original": "o garfo",
+      "translation": "fork"
+    }
+  ]
+}

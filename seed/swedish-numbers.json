@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-numbers",
+  "title": "Swedish numbers",
+  "description": "Numbers in Swedish from zero to a thousand, with the words you count things by.",
+  "language": "sv",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "noll",
+      "translation": "zero"
+    },
+    {
+      "original": "ett",
+      "translation": "one"
+    },
+    {
+      "original": "två",
+      "translation": "two"
+    },
+    {
+      "original": "tre",
+      "translation": "three"
+    },
+    {
+      "original": "fyra",
+      "translation": "four"
+    },
+    {
+      "original": "fem",
+      "translation": "five"
+    },
+    {
+      "original": "sex",
+      "translation": "six"
+    },
+    {
+      "original": "sju",
+      "translation": "seven"
+    },
+    {
+      "original": "åtta",
+      "translation": "eight"
+    },
+    {
+      "original": "nio",
+      "translation": "nine"
+    },
+    {
+      "original": "tio",
+      "translation": "ten"
+    },
+    {
+      "original": "elva",
+      "translation": "eleven"
+    },
+    {
+      "original": "tolv",
+      "translation": "twelve"
+    },
+    {
+      "original": "tretton",
+      "translation": "thirteen"
+    },
+    {
+      "original": "fjorton",
+      "translation": "fourteen"
+    },
+    {
+      "original": "femton",
+      "translation": "fifteen"
+    },
+    {
+      "original": "sexton",
+      "translation": "sixteen"
+    },
+    {
+      "original": "sjutton",
+      "translation": "seventeen"
+    },
+    {
+      "original": "arton",
+      "translation": "eighteen"
+    },
+    {
+      "original": "nitton",
+      "translation": "nineteen"
+    },
+    {
+      "original": "tjugo",
+      "translation": "twenty"
+    },
+    {
+      "original": "trettio",
+      "translation": "thirty"
+    },
+    {
+      "original": "fyrtio",
+      "translation": "forty"
+    },
+    {
+      "original": "femtio",
+      "translation": "fifty"
+    },
+    {
+      "original": "hundra",
+      "translation": "hundred"
+    },
+    {
+      "original": "tusen",
+      "translation": "thousand"
+    },
+    {
+      "original": "ett tal",
+      "translation": "number"
+    },
+    {
+      "original": "en halva",
+      "translation": "half"
+    },
+    {
+      "original": "ett dussin",
+      "translation": "dozen"
+    },
+    {
+      "original": "ett par",
+      "translation": "pair"
+    }
+  ]
+}

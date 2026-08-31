@@ -1,0 +1,129 @@
+{
+  "slug": "polish-travel",
+  "title": "Polish travel and directions",
+  "description": "The Polish words you need to get around, ask the way and catch a train.",
+  "language": "pl",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "podróż",
+      "translation": "trip"
+    },
+    {
+      "original": "pociąg",
+      "translation": "train"
+    },
+    {
+      "original": "autobus",
+      "translation": "bus"
+    },
+    {
+      "original": "samolot",
+      "translation": "plane"
+    },
+    {
+      "original": "lotnisko",
+      "translation": "airport"
+    },
+    {
+      "original": "dworzec",
+      "translation": "railway station"
+    },
+    {
+      "original": "bilet",
+      "translation": "ticket"
+    },
+    {
+      "original": "walizka",
+      "translation": "suitcase"
+    },
+    {
+      "original": "mapa",
+      "translation": "map"
+    },
+    {
+      "original": "droga",
+      "translation": "way"
+    },
+    {
+      "original": "ulica",
+      "translation": "street"
+    },
+    {
+      "original": "lewo",
+      "translation": "left"
+    },
+    {
+      "original": "prawo",
+      "translation": "right"
+    },
+    {
+      "original": "prosto",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "róg",
+      "translation": "corner"
+    },
+    {
+      "original": "plac",
+      "translation": "square"
+    },
+    {
+      "original": "most",
+      "translation": "bridge"
+    },
+    {
+      "original": "hotel",
+      "translation": "hotel"
+    },
+    {
+      "original": "pokój",
+      "translation": "room"
+    },
+    {
+      "original": "klucz",
+      "translation": "key"
+    },
+    {
+      "original": "granica",
+      "translation": "border"
+    },
+    {
+      "original": "paszport",
+      "translation": "passport"
+    },
+    {
+      "original": "morze",
+      "translation": "sea"
+    },
+    {
+      "original": "góra",
+      "translation": "mountain"
+    },
+    {
+      "original": "jezioro",
+      "translation": "lake"
+    },
+    {
+      "original": "plaża",
+      "translation": "beach"
+    },
+    {
+      "original": "odjazd",
+      "translation": "departure"
+    },
+    {
+      "original": "przyjazd",
+      "translation": "arrival"
+    },
+    {
+      "original": "opóźnienie",
+      "translation": "delay"
+    },
+    {
+      "original": "bagaż",
+      "translation": "luggage"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-health",
+  "title": "Portuguese body and health",
+  "description": "Portuguese words for the body, feeling unwell and going to the doctor.",
+  "language": "pt",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "o corpo",
+      "translation": "body"
+    },
+    {
+      "original": "a cabeça",
+      "translation": "head"
+    },
+    {
+      "original": "o olho",
+      "translation": "eye"
+    },
+    {
+      "original": "a orelha",
+      "translation": "ear"
+    },
+    {
+      "original": "o nariz",
+      "translation": "nose"
+    },
+    {
+      "original": "a boca",
+      "translation": "mouth"
+    },
+    {
+      "original": "o dente",
+      "translation": "tooth"
+    },
+    {
+      "original": "o cabelo",
+      "translation": "hair"
+    },
+    {
+      "original": "o pescoço",
+      "translation": "neck"
+    },
+    {
+      "original": "o ombro",
+      "translation": "shoulder"
+    },
+    {
+      "original": "o braço",
+      "translation": "arm"
+    },
+    {
+      "original": "a mão",
+      "translation": "hand"
+    },
+    {
+      "original": "o dedo",
+      "translation": "finger"
+    },
+    {
+      "original": "a perna",
+      "translation": "leg"
+    },
+    {
+      "original": "o pé",
+      "translation": "foot"
+    },
+    {
+      "original": "o coração",
+      "translation": "heart"
+    },
+    {
+      "original": "as costas",
+      "translation": "back"
+    },
+    {
+      "original": "a barriga",
+      "translation": "belly"
+    },
+    {
+      "original": "a pele",
+      "translation": "skin"
+    },
+    {
+      "original": "o sangue",
+      "translation": "blood"
+    },
+    {
+      "original": "o médico",
+      "translation": "doctor"
+    },
+    {
+      "original": "a enfermeira",
+      "translation": "nurse"
+    },
+    {
+      "original": "o hospital",
+      "translation": "hospital"
+    },
+    {
+      "original": "a farmácia",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "o remédio",
+      "translation": "medicine"
+    },
+    {
+      "original": "a doença",
+      "translation": "illness"
+    },
+    {
+      "original": "a febre",
+      "translation": "fever"
+    },
+    {
+      "original": "a dor",
+      "translation": "pain"
+    },
+    {
+      "original": "o resfriado",
+      "translation": "a cold"
+    },
+    {
+      "original": "a saúde",
+      "translation": "health"
+    }
+  ]
+}

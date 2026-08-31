@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-travel",
+  "title": "Dutch travel and directions",
+  "description": "The Dutch words you need to get around, ask the way and catch a train.",
+  "language": "nl",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "de reis",
+      "translation": "trip"
+    },
+    {
+      "original": "de trein",
+      "translation": "train"
+    },
+    {
+      "original": "de bus",
+      "translation": "bus"
+    },
+    {
+      "original": "het vliegtuig",
+      "translation": "plane"
+    },
+    {
+      "original": "de luchthaven",
+      "translation": "airport"
+    },
+    {
+      "original": "het station",
+      "translation": "railway station"
+    },
+    {
+      "original": "het kaartje",
+      "translation": "ticket"
+    },
+    {
+      "original": "de koffer",
+      "translation": "suitcase"
+    },
+    {
+      "original": "de kaart",
+      "translation": "map"
+    },
+    {
+      "original": "de weg",
+      "translation": "way"
+    },
+    {
+      "original": "de straat",
+      "translation": "street"
+    },
+    {
+      "original": "links",
+      "translation": "left"
+    },
+    {
+      "original": "rechts",
+      "translation": "right"
+    },
+    {
+      "original": "rechtdoor",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "de hoek",
+      "translation": "corner"
+    },
+    {
+      "original": "het plein",
+      "translation": "square"
+    },
+    {
+      "original": "de brug",
+      "translation": "bridge"
+    },
+    {
+      "original": "het hotel",
+      "translation": "hotel"
+    },
+    {
+      "original": "de kamer",
+      "translation": "room"
+    },
+    {
+      "original": "de sleutel",
+      "translation": "key"
+    },
+    {
+      "original": "de grens",
+      "translation": "border"
+    },
+    {
+      "original": "het paspoort",
+      "translation": "passport"
+    },
+    {
+      "original": "de zee",
+      "translation": "sea"
+    },
+    {
+      "original": "de berg",
+      "translation": "mountain"
+    },
+    {
+      "original": "het meer",
+      "translation": "lake"
+    },
+    {
+      "original": "het strand",
+      "translation": "beach"
+    },
+    {
+      "original": "het vertrek",
+      "translation": "departure"
+    },
+    {
+      "original": "de aankomst",
+      "translation": "arrival"
+    },
+    {
+      "original": "de vertraging",
+      "translation": "delay"
+    },
+    {
+      "original": "de bagage",
+      "translation": "luggage"
+    }
+  ]
+}

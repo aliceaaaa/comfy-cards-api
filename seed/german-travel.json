@@ -1,0 +1,129 @@
+{
+  "slug": "german-travel",
+  "title": "German travel and directions",
+  "description": "The German words you need to get around, ask the way and catch a train.",
+  "language": "de",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "die Reise",
+      "translation": "trip"
+    },
+    {
+      "original": "der Zug",
+      "translation": "train"
+    },
+    {
+      "original": "der Bus",
+      "translation": "bus"
+    },
+    {
+      "original": "das Flugzeug",
+      "translation": "plane"
+    },
+    {
+      "original": "der Flughafen",
+      "translation": "airport"
+    },
+    {
+      "original": "der Bahnhof",
+      "translation": "railway station"
+    },
+    {
+      "original": "die Fahrkarte",
+      "translation": "ticket"
+    },
+    {
+      "original": "der Koffer",
+      "translation": "suitcase"
+    },
+    {
+      "original": "die Karte",
+      "translation": "map"
+    },
+    {
+      "original": "der Weg",
+      "translation": "way"
+    },
+    {
+      "original": "die Straße",
+      "translation": "street"
+    },
+    {
+      "original": "links",
+      "translation": "left"
+    },
+    {
+      "original": "rechts",
+      "translation": "right"
+    },
+    {
+      "original": "geradeaus",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "die Ecke",
+      "translation": "corner"
+    },
+    {
+      "original": "der Platz",
+      "translation": "square"
+    },
+    {
+      "original": "die Brücke",
+      "translation": "bridge"
+    },
+    {
+      "original": "das Hotel",
+      "translation": "hotel"
+    },
+    {
+      "original": "das Zimmer",
+      "translation": "room"
+    },
+    {
+      "original": "der Schlüssel",
+      "translation": "key"
+    },
+    {
+      "original": "die Grenze",
+      "translation": "border"
+    },
+    {
+      "original": "der Pass",
+      "translation": "passport"
+    },
+    {
+      "original": "das Meer",
+      "translation": "sea"
+    },
+    {
+      "original": "der Berg",
+      "translation": "mountain"
+    },
+    {
+      "original": "der See",
+      "translation": "lake"
+    },
+    {
+      "original": "der Strand",
+      "translation": "beach"
+    },
+    {
+      "original": "die Abfahrt",
+      "translation": "departure"
+    },
+    {
+      "original": "die Ankunft",
+      "translation": "arrival"
+    },
+    {
+      "original": "die Verspätung",
+      "translation": "delay"
+    },
+    {
+      "original": "das Gepäck",
+      "translation": "luggage"
+    }
+  ]
+}

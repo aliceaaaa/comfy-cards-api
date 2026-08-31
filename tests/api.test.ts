@@ -4,7 +4,7 @@ import type { FastifyInstance } from 'fastify';
 import { buildServer } from '../src/server.js';
 import { pool } from '../src/db/pool.js';
 import { env } from '../src/lib/env.js';
-import { ensureCatalogOwner, seed, upsertCatalogDeck } from '../src/db/seed.js';
+import { ensureCatalogOwner, readSeedDecks, seed, upsertCatalogDeck } from '../src/db/seed.js';
 
 function assertDisposableDatabase(url: string): void {
   const { hostname, pathname } = new URL(url);
@@ -20,6 +20,7 @@ function assertDisposableDatabase(url: string): void {
 
 let app: FastifyInstance;
 let token: string;
+let seedDeckCount: number;
 
 async function register(email: string): Promise<string> {
   const response = await app.inject({
@@ -40,6 +41,7 @@ before(async () => {
   await app.ready();
 
   await seed();
+  seedDeckCount = (await readSeedDecks()).length;
   await pool.query('DELETE FROM users WHERE email <> $1', ['catalog@comfy-cards.local']);
 
   token = await register('learner@example.com');
@@ -97,7 +99,7 @@ describe('transcription', () => {
 
 describe('catalog', () => {
   it('is readable without a token and hides cards', async () => {
-    const response = await app.inject({ method: 'GET', url: '/catalog' });
+    const response = await app.inject({ method: 'GET', url: '/catalog?limit=200' });
 
     assert.equal(response.statusCode, 200);
 
@@ -106,8 +108,9 @@ describe('catalog', () => {
       total: number;
     }>();
 
-    assert.equal(body.total, 8);
-    assert.equal(body.decks.length, 8);
+    assert.equal(body.total, seedDeckCount);
+    assert.equal(body.decks.length, seedDeckCount);
+    assert.ok(seedDeckCount > 100);
 
     const hiragana = body.decks.find((deck) => {
       return deck.slug === 'hiragana';
@@ -183,6 +186,40 @@ describe('catalog', () => {
     assert.equal(owned.statusCode, 200);
   });
 
+  it('exports every deck with its cards in one response', async () => {
+    const response = await app.inject({ method: 'GET', url: '/catalog/export' });
+
+    assert.equal(response.statusCode, 200);
+
+    const exported = response.json<{
+      decks: { slug: string; cards: unknown[]; cardCount: number }[];
+    }>().decks;
+
+    assert.equal(exported.length, seedDeckCount);
+
+    const hiragana = exported.find((deck) => {
+      return deck.slug === 'hiragana';
+    });
+
+    assert.equal(hiragana?.cards.length, 46);
+    assert.equal(hiragana?.cardCount, 46);
+
+    for (const deck of exported) {
+      assert.ok(deck.cards.length >= 30, `${deck.slug} came back with ${deck.cards.length} cards`);
+    }
+  });
+
+  it('allows a limit above a hundred and refuses an absurd one', async () => {
+    const wide = await app.inject({ method: 'GET', url: '/catalog?limit=500' });
+
+    assert.equal(wide.statusCode, 200);
+    assert.equal(wide.json<{ decks: unknown[] }>().decks.length, seedDeckCount);
+
+    const tooWide = await app.inject({ method: 'GET', url: '/catalog?limit=501' });
+
+    assert.equal(tooWide.statusCode, 400);
+  });
+
   it('refuses an unknown slug and requires a token to copy', async () => {
     const missing = await app.inject({
       method: 'POST',
@@ -214,7 +251,7 @@ describe('seed', () => {
     await seed();
 
     assert.equal(await countDecks(), afterSecondRun);
-    assert.equal(afterSecondRun, 8);
+    assert.equal(afterSecondRun, seedDeckCount);
 
     const ownerId = await ensureCatalogOwner();
 
@@ -232,7 +269,7 @@ describe('seed', () => {
 
     assert.equal(deck.title, 'Hiragana edited');
     assert.equal(deck.cardCount, 1);
-    assert.equal(await countDecks(), 8);
+    assert.equal(await countDecks(), seedDeckCount);
 
     await seed();
 

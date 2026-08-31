@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-travel",
+  "title": "Japanese travel and directions",
+  "description": "The Japanese words you need to get around, ask the way and catch a train.",
+  "language": "ja",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "りょこう",
+      "translation": "trip",
+      "transcription": "ryokou"
+    },
+    {
+      "original": "でんしゃ",
+      "translation": "train",
+      "transcription": "densha"
+    },
+    {
+      "original": "バス",
+      "translation": "bus",
+      "transcription": "basu"
+    },
+    {
+      "original": "ひこうき",
+      "translation": "plane",
+      "transcription": "hikouki"
+    },
+    {
+      "original": "くうこう",
+      "translation": "airport",
+      "transcription": "kuukou"
+    },
+    {
+      "original": "えき",
+      "translation": "railway station",
+      "transcription": "eki"
+    },
+    {
+      "original": "きっぷ",
+      "translation": "ticket",
+      "transcription": "kippu"
+    },
+    {
+      "original": "スーツケース",
+      "translation": "suitcase",
+      "transcription": "suutsukeesu"
+    },
+    {
+      "original": "ちず",
+      "translation": "map",
+      "transcription": "chizu"
+    },
+    {
+      "original": "みち",
+      "translation": "way",
+      "transcription": "michi"
+    },
+    {
+      "original": "とおり",
+      "translation": "street",
+      "transcription": "toori"
+    },
+    {
+      "original": "ひだり",
+      "translation": "left",
+      "transcription": "hidari"
+    },
+    {
+      "original": "みぎ",
+      "translation": "right",
+      "transcription": "migi"
+    },
+    {
+      "original": "まっすぐ",
+      "translation": "straight ahead",
+      "transcription": "massugu"
+    },
+    {
+      "original": "かど",
+      "translation": "corner",
+      "transcription": "kado"
+    },
+    {
+      "original": "ひろば",
+      "translation": "square",
+      "transcription": "hiroba"
+    },
+    {
+      "original": "はし",
+      "translation": "bridge",
+      "transcription": "hashi"
+    },
+    {
+      "original": "ホテル",
+      "translation": "hotel",
+      "transcription": "hoteru"
+    },
+    {
+      "original": "へや",
+      "translation": "room",
+      "transcription": "heya"
+    },
+    {
+      "original": "かぎ",
+      "translation": "key",
+      "transcription": "kagi"
+    },
+    {
+      "original": "こっきょう",
+      "translation": "border",
+      "transcription": "kokkyou"
+    },
+    {
+      "original": "パスポート",
+      "translation": "passport",
+      "transcription": "pasupooto"
+    },
+    {
+      "original": "うみ",
+      "translation": "sea",
+      "transcription": "umi"
+    },
+    {
+      "original": "やま",
+      "translation": "mountain",
+      "transcription": "yama"
+    },
+    {
+      "original": "みずうみ",
+      "translation": "lake",
+      "transcription": "mizuumi"
+    },
+    {
+      "original": "ビーチ",
+      "translation": "beach",
+      "transcription": "biichi"
+    },
+    {
+      "original": "しゅっぱつ",
+      "translation": "departure",
+      "transcription": "shuppatsu"
+    },
+    {
+      "original": "とうちゃく",
+      "translation": "arrival",
+      "transcription": "touchaku"
+    },
+    {
+      "original": "ちえん",
+      "translation": "delay",
+      "transcription": "chien"
+    },
+    {
+      "original": "にもつ",
+      "translation": "luggage",
+      "transcription": "nimotsu"
+    }
+  ]
+}

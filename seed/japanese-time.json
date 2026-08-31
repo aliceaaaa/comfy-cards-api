@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-time",
+  "title": "Japanese time and weather",
+  "description": "Japanese words for days, months, the clock and the weather.",
+  "language": "ja",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "ふん",
+      "translation": "minute",
+      "transcription": "fun"
+    },
+    {
+      "original": "びょう",
+      "translation": "second",
+      "transcription": "byou"
+    },
+    {
+      "original": "しゅう",
+      "translation": "week",
+      "transcription": "shuu"
+    },
+    {
+      "original": "つき",
+      "translation": "month",
+      "transcription": "tsuki"
+    },
+    {
+      "original": "あさ",
+      "translation": "morning",
+      "transcription": "asa"
+    },
+    {
+      "original": "ひる",
+      "translation": "midday",
+      "transcription": "hiru"
+    },
+    {
+      "original": "ゆうがた",
+      "translation": "evening",
+      "transcription": "yuugata"
+    },
+    {
+      "original": "きょう",
+      "translation": "today",
+      "transcription": "kyou"
+    },
+    {
+      "original": "あした",
+      "translation": "tomorrow",
+      "transcription": "ashita"
+    },
+    {
+      "original": "きのう",
+      "translation": "yesterday",
+      "transcription": "kinou"
+    },
+    {
+      "original": "いまは",
+      "translation": "now",
+      "transcription": "ima wa"
+    },
+    {
+      "original": "はやい",
+      "translation": "early",
+      "transcription": "hayai"
+    },
+    {
+      "original": "おそい",
+      "translation": "late",
+      "transcription": "osoi"
+    },
+    {
+      "original": "げつようび",
+      "translation": "Monday",
+      "transcription": "getsuyoubi"
+    },
+    {
+      "original": "かようび",
+      "translation": "Tuesday",
+      "transcription": "kayoubi"
+    },
+    {
+      "original": "すいようび",
+      "translation": "Wednesday",
+      "transcription": "suiyoubi"
+    },
+    {
+      "original": "もくようび",
+      "translation": "Thursday",
+      "transcription": "mokuyoubi"
+    },
+    {
+      "original": "きんようび",
+      "translation": "Friday",
+      "transcription": "kinyoubi"
+    },
+    {
+      "original": "どようび",
+      "translation": "Saturday",
+      "transcription": "doyoubi"
+    },
+    {
+      "original": "にちようび",
+      "translation": "Sunday",
+      "transcription": "nichiyoubi"
+    },
+    {
+      "original": "はる",
+      "translation": "spring",
+      "transcription": "haru"
+    },
+    {
+      "original": "なつ",
+      "translation": "summer",
+      "transcription": "natsu"
+    },
+    {
+      "original": "あき",
+      "translation": "autumn",
+      "transcription": "aki"
+    },
+    {
+      "original": "ふゆ",
+      "translation": "winter",
+      "transcription": "fuyu"
+    },
+    {
+      "original": "てんき",
+      "translation": "weather",
+      "transcription": "tenki"
+    },
+    {
+      "original": "たいよう",
+      "translation": "sun",
+      "transcription": "taiyou"
+    },
+    {
+      "original": "あめ",
+      "translation": "rain",
+      "transcription": "ame"
+    },
+    {
+      "original": "ゆき",
+      "translation": "snow",
+      "transcription": "yuki"
+    },
+    {
+      "original": "かぜ",
+      "translation": "wind",
+      "transcription": "kaze"
+    },
+    {
+      "original": "くも",
+      "translation": "cloud",
+      "transcription": "kumo"
+    }
+  ]
+}

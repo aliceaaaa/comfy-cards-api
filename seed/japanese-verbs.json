@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-verbs",
+  "title": "Japanese common verbs",
+  "description": "The Japanese verbs you meet first, all in the infinitive.",
+  "language": "ja",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "いく",
+      "translation": "to go",
+      "transcription": "iku"
+    },
+    {
+      "original": "くる",
+      "translation": "to come",
+      "transcription": "kuru"
+    },
+    {
+      "original": "する",
+      "translation": "to do",
+      "transcription": "suru"
+    },
+    {
+      "original": "ある",
+      "translation": "to exist",
+      "transcription": "aru"
+    },
+    {
+      "original": "みる",
+      "translation": "to see",
+      "transcription": "miru"
+    },
+    {
+      "original": "きく",
+      "translation": "to hear",
+      "transcription": "kiku"
+    },
+    {
+      "original": "はなす",
+      "translation": "to speak",
+      "transcription": "hanasu"
+    },
+    {
+      "original": "いう",
+      "translation": "to say",
+      "transcription": "iu"
+    },
+    {
+      "original": "たべる",
+      "translation": "to eat",
+      "transcription": "taberu"
+    },
+    {
+      "original": "のむ",
+      "translation": "to drink",
+      "transcription": "nomu"
+    },
+    {
+      "original": "ねる",
+      "translation": "to sleep",
+      "transcription": "neru"
+    },
+    {
+      "original": "よむ",
+      "translation": "to read",
+      "transcription": "yomu"
+    },
+    {
+      "original": "かく",
+      "translation": "to write",
+      "transcription": "kaku"
+    },
+    {
+      "original": "ならう",
+      "translation": "to learn",
+      "transcription": "narau"
+    },
+    {
+      "original": "はたらく",
+      "translation": "to work",
+      "transcription": "hataraku"
+    },
+    {
+      "original": "あそぶ",
+      "translation": "to play",
+      "transcription": "asobu"
+    },
+    {
+      "original": "かう",
+      "translation": "to buy",
+      "transcription": "kau"
+    },
+    {
+      "original": "あげる",
+      "translation": "to give",
+      "transcription": "ageru"
+    },
+    {
+      "original": "とる",
+      "translation": "to take",
+      "transcription": "toru"
+    },
+    {
+      "original": "みつける",
+      "translation": "to find",
+      "transcription": "mitsukeru"
+    },
+    {
+      "original": "うんてんする",
+      "translation": "to drive",
+      "transcription": "unten suru"
+    },
+    {
+      "original": "はしる",
+      "translation": "to run",
+      "transcription": "hashiru"
+    },
+    {
+      "original": "まつ",
+      "translation": "to wait",
+      "transcription": "matsu"
+    },
+    {
+      "original": "かんがえる",
+      "translation": "to think",
+      "transcription": "kangaeru"
+    },
+    {
+      "original": "しる",
+      "translation": "to know",
+      "transcription": "shiru"
+    },
+    {
+      "original": "わかる",
+      "translation": "to understand",
+      "transcription": "wakaru"
+    },
+    {
+      "original": "てつだう",
+      "translation": "to help",
+      "transcription": "tetsudau"
+    },
+    {
+      "original": "あいする",
+      "translation": "to love",
+      "transcription": "ai suru"
+    },
+    {
+      "original": "すむ",
+      "translation": "to live",
+      "transcription": "sumu"
+    },
+    {
+      "original": "おぼえる",
+      "translation": "to memorise",
+      "transcription": "oboeru"
+    }
+  ]
+}

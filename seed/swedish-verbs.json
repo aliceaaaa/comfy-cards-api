@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-verbs",
+  "title": "Swedish common verbs",
+  "description": "The Swedish verbs you meet first, all in the infinitive.",
+  "language": "sv",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "vara",
+      "translation": "to be"
+    },
+    {
+      "original": "ha",
+      "translation": "to have"
+    },
+    {
+      "original": "göra",
+      "translation": "to do"
+    },
+    {
+      "original": "gå",
+      "translation": "to go"
+    },
+    {
+      "original": "komma",
+      "translation": "to come"
+    },
+    {
+      "original": "se",
+      "translation": "to see"
+    },
+    {
+      "original": "höra",
+      "translation": "to hear"
+    },
+    {
+      "original": "tala",
+      "translation": "to speak"
+    },
+    {
+      "original": "säga",
+      "translation": "to say"
+    },
+    {
+      "original": "äta",
+      "translation": "to eat"
+    },
+    {
+      "original": "dricka",
+      "translation": "to drink"
+    },
+    {
+      "original": "sova",
+      "translation": "to sleep"
+    },
+    {
+      "original": "läsa",
+      "translation": "to read"
+    },
+    {
+      "original": "skriva",
+      "translation": "to write"
+    },
+    {
+      "original": "lära",
+      "translation": "to learn"
+    },
+    {
+      "original": "arbeta",
+      "translation": "to work"
+    },
+    {
+      "original": "leka",
+      "translation": "to play"
+    },
+    {
+      "original": "köpa",
+      "translation": "to buy"
+    },
+    {
+      "original": "ge",
+      "translation": "to give"
+    },
+    {
+      "original": "ta",
+      "translation": "to take"
+    },
+    {
+      "original": "hitta",
+      "translation": "to find"
+    },
+    {
+      "original": "köra",
+      "translation": "to drive"
+    },
+    {
+      "original": "springa",
+      "translation": "to run"
+    },
+    {
+      "original": "vänta",
+      "translation": "to wait"
+    },
+    {
+      "original": "tänka",
+      "translation": "to think"
+    },
+    {
+      "original": "veta",
+      "translation": "to know"
+    },
+    {
+      "original": "förstå",
+      "translation": "to understand"
+    },
+    {
+      "original": "hjälpa",
+      "translation": "to help"
+    },
+    {
+      "original": "älska",
+      "translation": "to love"
+    },
+    {
+      "original": "bo",
+      "translation": "to live"
+    }
+  ]
+}

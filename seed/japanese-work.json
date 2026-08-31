@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-work",
+  "title": "Japanese work and study",
+  "description": "Japanese words for the office, the classroom and the things you do there.",
+  "language": "ja",
+  "topic": "work",
+  "cards": [
+    {
+      "original": "オフィス",
+      "translation": "office",
+      "transcription": "ofisu"
+    },
+    {
+      "original": "じょうし",
+      "translation": "boss",
+      "transcription": "joushi"
+    },
+    {
+      "original": "しょくぎょう",
+      "translation": "profession",
+      "transcription": "shokugyou"
+    },
+    {
+      "original": "かいしゃ",
+      "translation": "company",
+      "transcription": "kaisha"
+    },
+    {
+      "original": "おかね",
+      "translation": "money",
+      "transcription": "okane"
+    },
+    {
+      "original": "きゅうりょう",
+      "translation": "salary",
+      "transcription": "kyuuryou"
+    },
+    {
+      "original": "しゅくだい",
+      "translation": "homework",
+      "transcription": "shukudai"
+    },
+    {
+      "original": "プロジェクト",
+      "translation": "project",
+      "transcription": "purojekuto"
+    },
+    {
+      "original": "かいぎ",
+      "translation": "meeting",
+      "transcription": "kaigi"
+    },
+    {
+      "original": "コンピューター",
+      "translation": "computer",
+      "transcription": "konpyuutaa"
+    },
+    {
+      "original": "がめん",
+      "translation": "screen",
+      "transcription": "gamen"
+    },
+    {
+      "original": "キーボード",
+      "translation": "keyboard",
+      "transcription": "kiiboodo"
+    },
+    {
+      "original": "マウス",
+      "translation": "mouse",
+      "transcription": "mausu"
+    },
+    {
+      "original": "かみ",
+      "translation": "paper",
+      "transcription": "kami"
+    },
+    {
+      "original": "ペン",
+      "translation": "pen",
+      "transcription": "pen"
+    },
+    {
+      "original": "えんぴつ",
+      "translation": "pencil",
+      "transcription": "enpitsu"
+    },
+    {
+      "original": "ノート",
+      "translation": "notebook",
+      "transcription": "nooto"
+    },
+    {
+      "original": "だいがく",
+      "translation": "university",
+      "transcription": "daigaku"
+    },
+    {
+      "original": "がくせい",
+      "translation": "student",
+      "transcription": "gakusei"
+    },
+    {
+      "original": "せんせい",
+      "translation": "teacher",
+      "transcription": "sensei"
+    },
+    {
+      "original": "しけん",
+      "translation": "exam",
+      "transcription": "shiken"
+    },
+    {
+      "original": "せいせき",
+      "translation": "grade",
+      "transcription": "seiseki"
+    },
+    {
+      "original": "としょかん",
+      "translation": "library",
+      "transcription": "toshokan"
+    },
+    {
+      "original": "じしょ",
+      "translation": "dictionary",
+      "transcription": "jisho"
+    },
+    {
+      "original": "げんご",
+      "translation": "language",
+      "transcription": "gengo"
+    },
+    {
+      "original": "しつもん",
+      "translation": "question",
+      "transcription": "shitsumon"
+    },
+    {
+      "original": "こたえ",
+      "translation": "answer",
+      "transcription": "kotae"
+    },
+    {
+      "original": "コース",
+      "translation": "course",
+      "transcription": "koosu"
+    },
+    {
+      "original": "ちしき",
+      "translation": "knowledge",
+      "transcription": "chishiki"
+    },
+    {
+      "original": "つくえ",
+      "translation": "desk",
+      "transcription": "tsukue"
+    }
+  ]
+}

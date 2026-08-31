@@ -1,0 +1,129 @@
+{
+  "slug": "french-travel",
+  "title": "French travel and directions",
+  "description": "The French words you need to get around, ask the way and catch a train.",
+  "language": "fr",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "le voyage",
+      "translation": "trip"
+    },
+    {
+      "original": "le train",
+      "translation": "train"
+    },
+    {
+      "original": "le bus",
+      "translation": "bus"
+    },
+    {
+      "original": "l'avion",
+      "translation": "plane"
+    },
+    {
+      "original": "l'aéroport",
+      "translation": "airport"
+    },
+    {
+      "original": "la gare",
+      "translation": "railway station"
+    },
+    {
+      "original": "le billet",
+      "translation": "ticket"
+    },
+    {
+      "original": "la valise",
+      "translation": "suitcase"
+    },
+    {
+      "original": "la carte",
+      "translation": "map"
+    },
+    {
+      "original": "le chemin",
+      "translation": "way"
+    },
+    {
+      "original": "la rue",
+      "translation": "street"
+    },
+    {
+      "original": "la gauche",
+      "translation": "left"
+    },
+    {
+      "original": "la droite",
+      "translation": "right"
+    },
+    {
+      "original": "tout droit",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "le coin",
+      "translation": "corner"
+    },
+    {
+      "original": "la place",
+      "translation": "square"
+    },
+    {
+      "original": "le pont",
+      "translation": "bridge"
+    },
+    {
+      "original": "l'hôtel",
+      "translation": "hotel"
+    },
+    {
+      "original": "la chambre",
+      "translation": "room"
+    },
+    {
+      "original": "la clé",
+      "translation": "key"
+    },
+    {
+      "original": "la frontière",
+      "translation": "border"
+    },
+    {
+      "original": "le passeport",
+      "translation": "passport"
+    },
+    {
+      "original": "la mer",
+      "translation": "sea"
+    },
+    {
+      "original": "la montagne",
+      "translation": "mountain"
+    },
+    {
+      "original": "le lac",
+      "translation": "lake"
+    },
+    {
+      "original": "la plage",
+      "translation": "beach"
+    },
+    {
+      "original": "le départ",
+      "translation": "departure"
+    },
+    {
+      "original": "l'arrivée",
+      "translation": "arrival"
+    },
+    {
+      "original": "le retard",
+      "translation": "delay"
+    },
+    {
+      "original": "les bagages",
+      "translation": "luggage"
+    }
+  ]
+}

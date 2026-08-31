@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-health",
+  "title": "Japanese body and health",
+  "description": "Japanese words for the body, feeling unwell and going to the doctor.",
+  "language": "ja",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "からだ",
+      "translation": "body",
+      "transcription": "karada"
+    },
+    {
+      "original": "あたま",
+      "translation": "head",
+      "transcription": "atama"
+    },
+    {
+      "original": "め",
+      "translation": "eye",
+      "transcription": "me"
+    },
+    {
+      "original": "みみ",
+      "translation": "ear",
+      "transcription": "mimi"
+    },
+    {
+      "original": "はな",
+      "translation": "nose",
+      "transcription": "hana"
+    },
+    {
+      "original": "くち",
+      "translation": "mouth",
+      "transcription": "kuchi"
+    },
+    {
+      "original": "は",
+      "translation": "tooth",
+      "transcription": "ha"
+    },
+    {
+      "original": "かみのけ",
+      "translation": "hair",
+      "transcription": "kaminoke"
+    },
+    {
+      "original": "くび",
+      "translation": "neck",
+      "transcription": "kubi"
+    },
+    {
+      "original": "かた",
+      "translation": "shoulder",
+      "transcription": "kata"
+    },
+    {
+      "original": "うで",
+      "translation": "arm",
+      "transcription": "ude"
+    },
+    {
+      "original": "て",
+      "translation": "hand",
+      "transcription": "te"
+    },
+    {
+      "original": "ゆび",
+      "translation": "finger",
+      "transcription": "yubi"
+    },
+    {
+      "original": "あし",
+      "translation": "leg",
+      "transcription": "ashi"
+    },
+    {
+      "original": "しんぞう",
+      "translation": "heart",
+      "transcription": "shinzou"
+    },
+    {
+      "original": "せなか",
+      "translation": "back",
+      "transcription": "senaka"
+    },
+    {
+      "original": "おなか",
+      "translation": "belly",
+      "transcription": "onaka"
+    },
+    {
+      "original": "ひふ",
+      "translation": "skin",
+      "transcription": "hifu"
+    },
+    {
+      "original": "ち",
+      "translation": "blood",
+      "transcription": "chi"
+    },
+    {
+      "original": "いしゃ",
+      "translation": "doctor",
+      "transcription": "isha"
+    },
+    {
+      "original": "かんごし",
+      "translation": "nurse",
+      "transcription": "kangoshi"
+    },
+    {
+      "original": "びょういん",
+      "translation": "hospital",
+      "transcription": "byouin"
+    },
+    {
+      "original": "やっきょく",
+      "translation": "pharmacy",
+      "transcription": "yakkyoku"
+    },
+    {
+      "original": "くすり",
+      "translation": "medicine",
+      "transcription": "kusuri"
+    },
+    {
+      "original": "びょうき",
+      "translation": "illness",
+      "transcription": "byouki"
+    },
+    {
+      "original": "ねつ",
+      "translation": "fever",
+      "transcription": "netsu"
+    },
+    {
+      "original": "いたみ",
+      "translation": "pain",
+      "transcription": "itami"
+    },
+    {
+      "original": "インフルエンザ",
+      "translation": "flu",
+      "transcription": "infuruenza"
+    },
+    {
+      "original": "ちりょう",
+      "translation": "treatment",
+      "transcription": "chiryou"
+    },
+    {
+      "original": "けんこう",
+      "translation": "health",
+      "transcription": "kenkou"
+    }
+  ]
+}

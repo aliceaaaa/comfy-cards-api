@@ -1,0 +1,129 @@
+{
+  "slug": "italian-home",
+  "title": "Italian home and things",
+  "description": "Italian words for rooms, furniture and the objects you use at home.",
+  "language": "it",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "l'appartamento",
+      "translation": "flat"
+    },
+    {
+      "original": "la cucina",
+      "translation": "kitchen"
+    },
+    {
+      "original": "la camera da letto",
+      "translation": "bedroom"
+    },
+    {
+      "original": "il bagno",
+      "translation": "bathroom"
+    },
+    {
+      "original": "il soggiorno",
+      "translation": "living room"
+    },
+    {
+      "original": "la porta",
+      "translation": "door"
+    },
+    {
+      "original": "la finestra",
+      "translation": "window"
+    },
+    {
+      "original": "il pavimento",
+      "translation": "floor"
+    },
+    {
+      "original": "il muro",
+      "translation": "wall"
+    },
+    {
+      "original": "il tetto",
+      "translation": "roof"
+    },
+    {
+      "original": "le scale",
+      "translation": "stairs"
+    },
+    {
+      "original": "il tavolo",
+      "translation": "table"
+    },
+    {
+      "original": "la sedia",
+      "translation": "chair"
+    },
+    {
+      "original": "il letto",
+      "translation": "bed"
+    },
+    {
+      "original": "il divano",
+      "translation": "sofa"
+    },
+    {
+      "original": "l'armadio",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "lo scaffale",
+      "translation": "shelf"
+    },
+    {
+      "original": "la lampada",
+      "translation": "lamp"
+    },
+    {
+      "original": "il tappeto",
+      "translation": "carpet"
+    },
+    {
+      "original": "lo specchio",
+      "translation": "mirror"
+    },
+    {
+      "original": "il frigorifero",
+      "translation": "fridge"
+    },
+    {
+      "original": "il forno",
+      "translation": "oven"
+    },
+    {
+      "original": "la doccia",
+      "translation": "shower"
+    },
+    {
+      "original": "il sapone",
+      "translation": "soap"
+    },
+    {
+      "original": "l'asciugamano",
+      "translation": "towel"
+    },
+    {
+      "original": "il cucchiaio",
+      "translation": "spoon"
+    },
+    {
+      "original": "il coltello",
+      "translation": "knife"
+    },
+    {
+      "original": "la tazza",
+      "translation": "cup"
+    },
+    {
+      "original": "il bicchiere",
+      "translation": "glass"
+    },
+    {
+      "original": "il giardino",
+      "translation": "garden"
+    }
+  ]
+}

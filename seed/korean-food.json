@@ -1,0 +1,159 @@
+{
+  "slug": "korean-food",
+  "title": "Korean food and drink",
+  "description": "Everyday Korean words for food, drink and eating out.",
+  "language": "ko",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "음식",
+      "translation": "food",
+      "transcription": "eumsik"
+    },
+    {
+      "original": "음료",
+      "translation": "drink",
+      "transcription": "eumnyo"
+    },
+    {
+      "original": "아침 식사",
+      "translation": "breakfast",
+      "transcription": "achim siksa"
+    },
+    {
+      "original": "점심",
+      "translation": "lunch",
+      "transcription": "jeomsim"
+    },
+    {
+      "original": "저녁 식사",
+      "translation": "dinner",
+      "transcription": "jeonyeok siksa"
+    },
+    {
+      "original": "고기",
+      "translation": "meat",
+      "transcription": "gogi"
+    },
+    {
+      "original": "생선",
+      "translation": "fish",
+      "transcription": "saengseon"
+    },
+    {
+      "original": "채소",
+      "translation": "vegetable",
+      "transcription": "chaeso"
+    },
+    {
+      "original": "과일",
+      "translation": "fruit",
+      "transcription": "gwail"
+    },
+    {
+      "original": "치즈",
+      "translation": "cheese",
+      "transcription": "chijeu"
+    },
+    {
+      "original": "버터",
+      "translation": "butter",
+      "transcription": "beoteo"
+    },
+    {
+      "original": "달걀",
+      "translation": "egg",
+      "transcription": "dalgyal"
+    },
+    {
+      "original": "밥",
+      "translation": "rice",
+      "transcription": "bap"
+    },
+    {
+      "original": "감자",
+      "translation": "potato",
+      "transcription": "gamja"
+    },
+    {
+      "original": "토마토",
+      "translation": "tomato",
+      "transcription": "tomato"
+    },
+    {
+      "original": "양파",
+      "translation": "onion",
+      "transcription": "yangpa"
+    },
+    {
+      "original": "샐러드",
+      "translation": "salad",
+      "transcription": "saelleodeu"
+    },
+    {
+      "original": "국",
+      "translation": "soup",
+      "transcription": "guk"
+    },
+    {
+      "original": "설탕",
+      "translation": "sugar",
+      "transcription": "seoltang"
+    },
+    {
+      "original": "소금",
+      "translation": "salt",
+      "transcription": "sogeum"
+    },
+    {
+      "original": "후추",
+      "translation": "pepper",
+      "transcription": "huchu"
+    },
+    {
+      "original": "주스",
+      "translation": "juice",
+      "transcription": "juseu"
+    },
+    {
+      "original": "맥주",
+      "translation": "beer",
+      "transcription": "maekju"
+    },
+    {
+      "original": "와인",
+      "translation": "wine",
+      "transcription": "wain"
+    },
+    {
+      "original": "케이크",
+      "translation": "cake",
+      "transcription": "keikeu"
+    },
+    {
+      "original": "초콜릿",
+      "translation": "chocolate",
+      "transcription": "chokollit"
+    },
+    {
+      "original": "식당",
+      "translation": "restaurant",
+      "transcription": "sikdang"
+    },
+    {
+      "original": "계산서",
+      "translation": "bill",
+      "transcription": "gyesanseo"
+    },
+    {
+      "original": "접시",
+      "translation": "plate",
+      "transcription": "jeopsi"
+    },
+    {
+      "original": "포크",
+      "translation": "fork",
+      "transcription": "pokeu"
+    }
+  ]
+}

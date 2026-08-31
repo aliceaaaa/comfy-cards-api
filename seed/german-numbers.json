@@ -1,0 +1,129 @@
+{
+  "slug": "german-numbers",
+  "title": "German numbers",
+  "description": "Numbers in German from zero to a thousand, with the words you count things by.",
+  "language": "de",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "null",
+      "translation": "zero"
+    },
+    {
+      "original": "eins",
+      "translation": "one"
+    },
+    {
+      "original": "zwei",
+      "translation": "two"
+    },
+    {
+      "original": "drei",
+      "translation": "three"
+    },
+    {
+      "original": "vier",
+      "translation": "four"
+    },
+    {
+      "original": "fünf",
+      "translation": "five"
+    },
+    {
+      "original": "sechs",
+      "translation": "six"
+    },
+    {
+      "original": "sieben",
+      "translation": "seven"
+    },
+    {
+      "original": "acht",
+      "translation": "eight"
+    },
+    {
+      "original": "neun",
+      "translation": "nine"
+    },
+    {
+      "original": "zehn",
+      "translation": "ten"
+    },
+    {
+      "original": "elf",
+      "translation": "eleven"
+    },
+    {
+      "original": "zwölf",
+      "translation": "twelve"
+    },
+    {
+      "original": "dreizehn",
+      "translation": "thirteen"
+    },
+    {
+      "original": "vierzehn",
+      "translation": "fourteen"
+    },
+    {
+      "original": "fünfzehn",
+      "translation": "fifteen"
+    },
+    {
+      "original": "sechzehn",
+      "translation": "sixteen"
+    },
+    {
+      "original": "siebzehn",
+      "translation": "seventeen"
+    },
+    {
+      "original": "achtzehn",
+      "translation": "eighteen"
+    },
+    {
+      "original": "neunzehn",
+      "translation": "nineteen"
+    },
+    {
+      "original": "zwanzig",
+      "translation": "twenty"
+    },
+    {
+      "original": "dreißig",
+      "translation": "thirty"
+    },
+    {
+      "original": "vierzig",
+      "translation": "forty"
+    },
+    {
+      "original": "fünfzig",
+      "translation": "fifty"
+    },
+    {
+      "original": "hundert",
+      "translation": "hundred"
+    },
+    {
+      "original": "tausend",
+      "translation": "thousand"
+    },
+    {
+      "original": "die Zahl",
+      "translation": "number"
+    },
+    {
+      "original": "die Hälfte",
+      "translation": "half"
+    },
+    {
+      "original": "das Paar",
+      "translation": "pair"
+    },
+    {
+      "original": "das Dutzend",
+      "translation": "dozen"
+    }
+  ]
+}

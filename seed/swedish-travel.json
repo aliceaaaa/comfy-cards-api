@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-travel",
+  "title": "Swedish travel and directions",
+  "description": "The Swedish words you need to get around, ask the way and catch a train.",
+  "language": "sv",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "en resa",
+      "translation": "trip"
+    },
+    {
+      "original": "ett tåg",
+      "translation": "train"
+    },
+    {
+      "original": "en buss",
+      "translation": "bus"
+    },
+    {
+      "original": "ett flygplan",
+      "translation": "plane"
+    },
+    {
+      "original": "en flygplats",
+      "translation": "airport"
+    },
+    {
+      "original": "en station",
+      "translation": "railway station"
+    },
+    {
+      "original": "en biljett",
+      "translation": "ticket"
+    },
+    {
+      "original": "en resväska",
+      "translation": "suitcase"
+    },
+    {
+      "original": "en karta",
+      "translation": "map"
+    },
+    {
+      "original": "en väg",
+      "translation": "way"
+    },
+    {
+      "original": "en gata",
+      "translation": "street"
+    },
+    {
+      "original": "vänster",
+      "translation": "left"
+    },
+    {
+      "original": "höger",
+      "translation": "right"
+    },
+    {
+      "original": "rakt fram",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "ett hörn",
+      "translation": "corner"
+    },
+    {
+      "original": "ett torg",
+      "translation": "square"
+    },
+    {
+      "original": "en bro",
+      "translation": "bridge"
+    },
+    {
+      "original": "ett hotell",
+      "translation": "hotel"
+    },
+    {
+      "original": "ett rum",
+      "translation": "room"
+    },
+    {
+      "original": "en nyckel",
+      "translation": "key"
+    },
+    {
+      "original": "en gräns",
+      "translation": "border"
+    },
+    {
+      "original": "ett pass",
+      "translation": "passport"
+    },
+    {
+      "original": "ett hav",
+      "translation": "sea"
+    },
+    {
+      "original": "ett berg",
+      "translation": "mountain"
+    },
+    {
+      "original": "en sjö",
+      "translation": "lake"
+    },
+    {
+      "original": "en strand",
+      "translation": "beach"
+    },
+    {
+      "original": "en avgång",
+      "translation": "departure"
+    },
+    {
+      "original": "en ankomst",
+      "translation": "arrival"
+    },
+    {
+      "original": "en försening",
+      "translation": "delay"
+    },
+    {
+      "original": "ett bagage",
+      "translation": "luggage"
+    }
+  ]
+}

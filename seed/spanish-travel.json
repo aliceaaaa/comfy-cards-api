@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-travel",
+  "title": "Spanish travel and directions",
+  "description": "The Spanish words you need to get around, ask the way and catch a train.",
+  "language": "es",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "el viaje",
+      "translation": "trip"
+    },
+    {
+      "original": "el tren",
+      "translation": "train"
+    },
+    {
+      "original": "el autobús",
+      "translation": "bus"
+    },
+    {
+      "original": "el avión",
+      "translation": "plane"
+    },
+    {
+      "original": "el aeropuerto",
+      "translation": "airport"
+    },
+    {
+      "original": "la estación",
+      "translation": "railway station"
+    },
+    {
+      "original": "el billete",
+      "translation": "ticket"
+    },
+    {
+      "original": "la maleta",
+      "translation": "suitcase"
+    },
+    {
+      "original": "el mapa",
+      "translation": "map"
+    },
+    {
+      "original": "el camino",
+      "translation": "way"
+    },
+    {
+      "original": "la calle",
+      "translation": "street"
+    },
+    {
+      "original": "la izquierda",
+      "translation": "left"
+    },
+    {
+      "original": "la derecha",
+      "translation": "right"
+    },
+    {
+      "original": "todo recto",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "la esquina",
+      "translation": "corner"
+    },
+    {
+      "original": "la plaza",
+      "translation": "square"
+    },
+    {
+      "original": "el puente",
+      "translation": "bridge"
+    },
+    {
+      "original": "el hotel",
+      "translation": "hotel"
+    },
+    {
+      "original": "la habitación",
+      "translation": "room"
+    },
+    {
+      "original": "la llave",
+      "translation": "key"
+    },
+    {
+      "original": "la frontera",
+      "translation": "border"
+    },
+    {
+      "original": "el pasaporte",
+      "translation": "passport"
+    },
+    {
+      "original": "el mar",
+      "translation": "sea"
+    },
+    {
+      "original": "la montaña",
+      "translation": "mountain"
+    },
+    {
+      "original": "el lago",
+      "translation": "lake"
+    },
+    {
+      "original": "la playa",
+      "translation": "beach"
+    },
+    {
+      "original": "la salida",
+      "translation": "departure"
+    },
+    {
+      "original": "la llegada",
+      "translation": "arrival"
+    },
+    {
+      "original": "el retraso",
+      "translation": "delay"
+    },
+    {
+      "original": "el equipaje",
+      "translation": "luggage"
+    }
+  ]
+}

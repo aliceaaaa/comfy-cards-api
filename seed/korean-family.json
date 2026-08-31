@@ -1,0 +1,159 @@
+{
+  "slug": "korean-family",
+  "title": "Korean family and people",
+  "description": "Korean words for relatives, friends and the people around you.",
+  "language": "ko",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "어머니",
+      "translation": "mother",
+      "transcription": "eomeoni"
+    },
+    {
+      "original": "아버지",
+      "translation": "father",
+      "transcription": "abeoji"
+    },
+    {
+      "original": "부모님",
+      "translation": "parents",
+      "transcription": "bumonim"
+    },
+    {
+      "original": "아들",
+      "translation": "son",
+      "transcription": "adeul"
+    },
+    {
+      "original": "딸",
+      "translation": "daughter",
+      "transcription": "ttal"
+    },
+    {
+      "original": "형",
+      "translation": "older brother",
+      "transcription": "hyeong"
+    },
+    {
+      "original": "누나",
+      "translation": "older sister",
+      "transcription": "nuna"
+    },
+    {
+      "original": "남동생",
+      "translation": "younger brother",
+      "transcription": "namdongsaeng"
+    },
+    {
+      "original": "여동생",
+      "translation": "younger sister",
+      "transcription": "yeodongsaeng"
+    },
+    {
+      "original": "할머니",
+      "translation": "grandmother",
+      "transcription": "halmeoni"
+    },
+    {
+      "original": "할아버지",
+      "translation": "grandfather",
+      "transcription": "harabeoji"
+    },
+    {
+      "original": "삼촌",
+      "translation": "uncle",
+      "transcription": "samchon"
+    },
+    {
+      "original": "이모",
+      "translation": "aunt",
+      "transcription": "imo"
+    },
+    {
+      "original": "사촌",
+      "translation": "cousin",
+      "transcription": "sachon"
+    },
+    {
+      "original": "아기",
+      "translation": "baby",
+      "transcription": "agi"
+    },
+    {
+      "original": "소년",
+      "translation": "boy",
+      "transcription": "sonyeon"
+    },
+    {
+      "original": "소녀",
+      "translation": "girl",
+      "transcription": "sonyeo"
+    },
+    {
+      "original": "사람들",
+      "translation": "people",
+      "transcription": "saramdeul"
+    },
+    {
+      "original": "사람",
+      "translation": "person",
+      "transcription": "saram"
+    },
+    {
+      "original": "이웃",
+      "translation": "neighbour",
+      "transcription": "iut"
+    },
+    {
+      "original": "손님",
+      "translation": "guest",
+      "transcription": "sonnim"
+    },
+    {
+      "original": "아내",
+      "translation": "wife",
+      "transcription": "anae"
+    },
+    {
+      "original": "남편",
+      "translation": "husband",
+      "transcription": "nampyeon"
+    },
+    {
+      "original": "결혼식",
+      "translation": "wedding",
+      "transcription": "gyeolhonsik"
+    },
+    {
+      "original": "생일",
+      "translation": "birthday",
+      "transcription": "saengil"
+    },
+    {
+      "original": "이름",
+      "translation": "name",
+      "transcription": "ireum"
+    },
+    {
+      "original": "나이",
+      "translation": "age",
+      "transcription": "nai"
+    },
+    {
+      "original": "사랑",
+      "translation": "love",
+      "transcription": "sarang"
+    },
+    {
+      "original": "우정",
+      "translation": "friendship",
+      "transcription": "ujeong"
+    },
+    {
+      "original": "동료",
+      "translation": "colleague",
+      "transcription": "dongnyo"
+    }
+  ]
+}

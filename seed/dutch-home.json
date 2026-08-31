@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-home",
+  "title": "Dutch home and things",
+  "description": "Dutch words for rooms, furniture and the objects you use at home.",
+  "language": "nl",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "het appartement",
+      "translation": "flat"
+    },
+    {
+      "original": "de keuken",
+      "translation": "kitchen"
+    },
+    {
+      "original": "de slaapkamer",
+      "translation": "bedroom"
+    },
+    {
+      "original": "de badkamer",
+      "translation": "bathroom"
+    },
+    {
+      "original": "de woonkamer",
+      "translation": "living room"
+    },
+    {
+      "original": "de deur",
+      "translation": "door"
+    },
+    {
+      "original": "het raam",
+      "translation": "window"
+    },
+    {
+      "original": "de vloer",
+      "translation": "floor"
+    },
+    {
+      "original": "de muur",
+      "translation": "wall"
+    },
+    {
+      "original": "het dak",
+      "translation": "roof"
+    },
+    {
+      "original": "de trap",
+      "translation": "stairs"
+    },
+    {
+      "original": "de tafel",
+      "translation": "table"
+    },
+    {
+      "original": "de stoel",
+      "translation": "chair"
+    },
+    {
+      "original": "het bed",
+      "translation": "bed"
+    },
+    {
+      "original": "de bank",
+      "translation": "sofa"
+    },
+    {
+      "original": "de kast",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "de plank",
+      "translation": "shelf"
+    },
+    {
+      "original": "de lamp",
+      "translation": "lamp"
+    },
+    {
+      "original": "het tapijt",
+      "translation": "carpet"
+    },
+    {
+      "original": "de spiegel",
+      "translation": "mirror"
+    },
+    {
+      "original": "de koelkast",
+      "translation": "fridge"
+    },
+    {
+      "original": "de oven",
+      "translation": "oven"
+    },
+    {
+      "original": "de douche",
+      "translation": "shower"
+    },
+    {
+      "original": "de zeep",
+      "translation": "soap"
+    },
+    {
+      "original": "de handdoek",
+      "translation": "towel"
+    },
+    {
+      "original": "de lepel",
+      "translation": "spoon"
+    },
+    {
+      "original": "het mes",
+      "translation": "knife"
+    },
+    {
+      "original": "de kop",
+      "translation": "cup"
+    },
+    {
+      "original": "het glas",
+      "translation": "glass"
+    },
+    {
+      "original": "de tuin",
+      "translation": "garden"
+    }
+  ]
+}

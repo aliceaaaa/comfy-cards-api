@@ -1,0 +1,129 @@
+{
+  "slug": "french-verbs",
+  "title": "French common verbs",
+  "description": "The French verbs you meet first, all in the infinitive.",
+  "language": "fr",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "être",
+      "translation": "to be"
+    },
+    {
+      "original": "avoir",
+      "translation": "to have"
+    },
+    {
+      "original": "faire",
+      "translation": "to do"
+    },
+    {
+      "original": "aller",
+      "translation": "to go"
+    },
+    {
+      "original": "venir",
+      "translation": "to come"
+    },
+    {
+      "original": "voir",
+      "translation": "to see"
+    },
+    {
+      "original": "entendre",
+      "translation": "to hear"
+    },
+    {
+      "original": "parler",
+      "translation": "to speak"
+    },
+    {
+      "original": "dire",
+      "translation": "to say"
+    },
+    {
+      "original": "manger",
+      "translation": "to eat"
+    },
+    {
+      "original": "boire",
+      "translation": "to drink"
+    },
+    {
+      "original": "dormir",
+      "translation": "to sleep"
+    },
+    {
+      "original": "lire",
+      "translation": "to read"
+    },
+    {
+      "original": "écrire",
+      "translation": "to write"
+    },
+    {
+      "original": "apprendre",
+      "translation": "to learn"
+    },
+    {
+      "original": "travailler",
+      "translation": "to work"
+    },
+    {
+      "original": "jouer",
+      "translation": "to play"
+    },
+    {
+      "original": "acheter",
+      "translation": "to buy"
+    },
+    {
+      "original": "donner",
+      "translation": "to give"
+    },
+    {
+      "original": "prendre",
+      "translation": "to take"
+    },
+    {
+      "original": "trouver",
+      "translation": "to find"
+    },
+    {
+      "original": "conduire",
+      "translation": "to drive"
+    },
+    {
+      "original": "courir",
+      "translation": "to run"
+    },
+    {
+      "original": "attendre",
+      "translation": "to wait"
+    },
+    {
+      "original": "penser",
+      "translation": "to think"
+    },
+    {
+      "original": "savoir",
+      "translation": "to know"
+    },
+    {
+      "original": "comprendre",
+      "translation": "to understand"
+    },
+    {
+      "original": "aider",
+      "translation": "to help"
+    },
+    {
+      "original": "aimer",
+      "translation": "to love"
+    },
+    {
+      "original": "vivre",
+      "translation": "to live"
+    }
+  ]
+}

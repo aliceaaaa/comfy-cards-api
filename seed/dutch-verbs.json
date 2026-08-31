@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-verbs",
+  "title": "Dutch common verbs",
+  "description": "The Dutch verbs you meet first, all in the infinitive.",
+  "language": "nl",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "zijn",
+      "translation": "to be"
+    },
+    {
+      "original": "hebben",
+      "translation": "to have"
+    },
+    {
+      "original": "doen",
+      "translation": "to do"
+    },
+    {
+      "original": "gaan",
+      "translation": "to go"
+    },
+    {
+      "original": "komen",
+      "translation": "to come"
+    },
+    {
+      "original": "zien",
+      "translation": "to see"
+    },
+    {
+      "original": "horen",
+      "translation": "to hear"
+    },
+    {
+      "original": "spreken",
+      "translation": "to speak"
+    },
+    {
+      "original": "zeggen",
+      "translation": "to say"
+    },
+    {
+      "original": "eten",
+      "translation": "to eat"
+    },
+    {
+      "original": "drinken",
+      "translation": "to drink"
+    },
+    {
+      "original": "slapen",
+      "translation": "to sleep"
+    },
+    {
+      "original": "lezen",
+      "translation": "to read"
+    },
+    {
+      "original": "schrijven",
+      "translation": "to write"
+    },
+    {
+      "original": "leren",
+      "translation": "to learn"
+    },
+    {
+      "original": "werken",
+      "translation": "to work"
+    },
+    {
+      "original": "spelen",
+      "translation": "to play"
+    },
+    {
+      "original": "kopen",
+      "translation": "to buy"
+    },
+    {
+      "original": "geven",
+      "translation": "to give"
+    },
+    {
+      "original": "nemen",
+      "translation": "to take"
+    },
+    {
+      "original": "vinden",
+      "translation": "to find"
+    },
+    {
+      "original": "rijden",
+      "translation": "to drive"
+    },
+    {
+      "original": "rennen",
+      "translation": "to run"
+    },
+    {
+      "original": "wachten",
+      "translation": "to wait"
+    },
+    {
+      "original": "denken",
+      "translation": "to think"
+    },
+    {
+      "original": "weten",
+      "translation": "to know"
+    },
+    {
+      "original": "begrijpen",
+      "translation": "to understand"
+    },
+    {
+      "original": "helpen",
+      "translation": "to help"
+    },
+    {
+      "original": "houden van",
+      "translation": "to love"
+    },
+    {
+      "original": "wonen",
+      "translation": "to live"
+    }
+  ]
+}

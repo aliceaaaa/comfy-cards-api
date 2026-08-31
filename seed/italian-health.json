@@ -1,0 +1,129 @@
+{
+  "slug": "italian-health",
+  "title": "Italian body and health",
+  "description": "Italian words for the body, feeling unwell and going to the doctor.",
+  "language": "it",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "il corpo",
+      "translation": "body"
+    },
+    {
+      "original": "la testa",
+      "translation": "head"
+    },
+    {
+      "original": "l'occhio",
+      "translation": "eye"
+    },
+    {
+      "original": "l'orecchio",
+      "translation": "ear"
+    },
+    {
+      "original": "il naso",
+      "translation": "nose"
+    },
+    {
+      "original": "la bocca",
+      "translation": "mouth"
+    },
+    {
+      "original": "il dente",
+      "translation": "tooth"
+    },
+    {
+      "original": "i capelli",
+      "translation": "hair"
+    },
+    {
+      "original": "il collo",
+      "translation": "neck"
+    },
+    {
+      "original": "la spalla",
+      "translation": "shoulder"
+    },
+    {
+      "original": "il braccio",
+      "translation": "arm"
+    },
+    {
+      "original": "la mano",
+      "translation": "hand"
+    },
+    {
+      "original": "il dito",
+      "translation": "finger"
+    },
+    {
+      "original": "la gamba",
+      "translation": "leg"
+    },
+    {
+      "original": "il piede",
+      "translation": "foot"
+    },
+    {
+      "original": "il cuore",
+      "translation": "heart"
+    },
+    {
+      "original": "la schiena",
+      "translation": "back"
+    },
+    {
+      "original": "la pancia",
+      "translation": "belly"
+    },
+    {
+      "original": "la pelle",
+      "translation": "skin"
+    },
+    {
+      "original": "il sangue",
+      "translation": "blood"
+    },
+    {
+      "original": "il medico",
+      "translation": "doctor"
+    },
+    {
+      "original": "l'infermiera",
+      "translation": "nurse"
+    },
+    {
+      "original": "l'ospedale",
+      "translation": "hospital"
+    },
+    {
+      "original": "la farmacia",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "la medicina",
+      "translation": "medicine"
+    },
+    {
+      "original": "la malattia",
+      "translation": "illness"
+    },
+    {
+      "original": "la febbre",
+      "translation": "fever"
+    },
+    {
+      "original": "il dolore",
+      "translation": "pain"
+    },
+    {
+      "original": "il raffreddore",
+      "translation": "a cold"
+    },
+    {
+      "original": "la salute",
+      "translation": "health"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-home",
+  "title": "Spanish home and things",
+  "description": "Spanish words for rooms, furniture and the objects you use at home.",
+  "language": "es",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "el piso",
+      "translation": "flat"
+    },
+    {
+      "original": "la cocina",
+      "translation": "kitchen"
+    },
+    {
+      "original": "el dormitorio",
+      "translation": "bedroom"
+    },
+    {
+      "original": "el baño",
+      "translation": "bathroom"
+    },
+    {
+      "original": "el salón",
+      "translation": "living room"
+    },
+    {
+      "original": "la puerta",
+      "translation": "door"
+    },
+    {
+      "original": "la ventana",
+      "translation": "window"
+    },
+    {
+      "original": "el suelo",
+      "translation": "floor"
+    },
+    {
+      "original": "la pared",
+      "translation": "wall"
+    },
+    {
+      "original": "el techo",
+      "translation": "roof"
+    },
+    {
+      "original": "la escalera",
+      "translation": "stairs"
+    },
+    {
+      "original": "la mesa",
+      "translation": "table"
+    },
+    {
+      "original": "la silla",
+      "translation": "chair"
+    },
+    {
+      "original": "la cama",
+      "translation": "bed"
+    },
+    {
+      "original": "el sofá",
+      "translation": "sofa"
+    },
+    {
+      "original": "el armario",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "la estantería",
+      "translation": "shelf"
+    },
+    {
+      "original": "la lámpara",
+      "translation": "lamp"
+    },
+    {
+      "original": "la alfombra",
+      "translation": "carpet"
+    },
+    {
+      "original": "el espejo",
+      "translation": "mirror"
+    },
+    {
+      "original": "la nevera",
+      "translation": "fridge"
+    },
+    {
+      "original": "el horno",
+      "translation": "oven"
+    },
+    {
+      "original": "la ducha",
+      "translation": "shower"
+    },
+    {
+      "original": "el jabón",
+      "translation": "soap"
+    },
+    {
+      "original": "la toalla",
+      "translation": "towel"
+    },
+    {
+      "original": "la cuchara",
+      "translation": "spoon"
+    },
+    {
+      "original": "el cuchillo",
+      "translation": "knife"
+    },
+    {
+      "original": "la taza",
+      "translation": "cup"
+    },
+    {
+      "original": "el vaso",
+      "translation": "glass"
+    },
+    {
+      "original": "el jardín",
+      "translation": "garden"
+    }
+  ]
+}

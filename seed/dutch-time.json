@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-time",
+  "title": "Dutch time and weather",
+  "description": "Dutch words for days, months, the clock and the weather.",
+  "language": "nl",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "het uur",
+      "translation": "hour"
+    },
+    {
+      "original": "de minuut",
+      "translation": "minute"
+    },
+    {
+      "original": "de seconde",
+      "translation": "second"
+    },
+    {
+      "original": "de week",
+      "translation": "week"
+    },
+    {
+      "original": "de maand",
+      "translation": "month"
+    },
+    {
+      "original": "de ochtend",
+      "translation": "morning"
+    },
+    {
+      "original": "de middag",
+      "translation": "midday"
+    },
+    {
+      "original": "de avond",
+      "translation": "evening"
+    },
+    {
+      "original": "vandaag",
+      "translation": "today"
+    },
+    {
+      "original": "morgen",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "gisteren",
+      "translation": "yesterday"
+    },
+    {
+      "original": "nu",
+      "translation": "now"
+    },
+    {
+      "original": "vroeg",
+      "translation": "early"
+    },
+    {
+      "original": "laat",
+      "translation": "late"
+    },
+    {
+      "original": "maandag",
+      "translation": "Monday"
+    },
+    {
+      "original": "dinsdag",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "woensdag",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "donderdag",
+      "translation": "Thursday"
+    },
+    {
+      "original": "vrijdag",
+      "translation": "Friday"
+    },
+    {
+      "original": "zaterdag",
+      "translation": "Saturday"
+    },
+    {
+      "original": "zondag",
+      "translation": "Sunday"
+    },
+    {
+      "original": "de lente",
+      "translation": "spring"
+    },
+    {
+      "original": "de zomer",
+      "translation": "summer"
+    },
+    {
+      "original": "de herfst",
+      "translation": "autumn"
+    },
+    {
+      "original": "de winter",
+      "translation": "winter"
+    },
+    {
+      "original": "het weer",
+      "translation": "weather"
+    },
+    {
+      "original": "de zon",
+      "translation": "sun"
+    },
+    {
+      "original": "de regen",
+      "translation": "rain"
+    },
+    {
+      "original": "de sneeuw",
+      "translation": "snow"
+    },
+    {
+      "original": "de wind",
+      "translation": "wind"
+    }
+  ]
+}

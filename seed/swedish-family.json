@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-family",
+  "title": "Swedish family and people",
+  "description": "Swedish words for relatives, friends and the people around you.",
+  "language": "sv",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "en mamma",
+      "translation": "mother"
+    },
+    {
+      "original": "en pappa",
+      "translation": "father"
+    },
+    {
+      "original": "föräldrar",
+      "translation": "parents"
+    },
+    {
+      "original": "en son",
+      "translation": "son"
+    },
+    {
+      "original": "en dotter",
+      "translation": "daughter"
+    },
+    {
+      "original": "en bror",
+      "translation": "brother"
+    },
+    {
+      "original": "en syster",
+      "translation": "sister"
+    },
+    {
+      "original": "en mormor",
+      "translation": "grandmother"
+    },
+    {
+      "original": "en morfar",
+      "translation": "grandfather"
+    },
+    {
+      "original": "en farbror",
+      "translation": "uncle"
+    },
+    {
+      "original": "en faster",
+      "translation": "aunt"
+    },
+    {
+      "original": "en kusin",
+      "translation": "cousin"
+    },
+    {
+      "original": "en bebis",
+      "translation": "baby"
+    },
+    {
+      "original": "en pojke",
+      "translation": "boy"
+    },
+    {
+      "original": "en flicka",
+      "translation": "girl"
+    },
+    {
+      "original": "folk",
+      "translation": "people"
+    },
+    {
+      "original": "en person",
+      "translation": "person"
+    },
+    {
+      "original": "en granne",
+      "translation": "neighbour"
+    },
+    {
+      "original": "en gäst",
+      "translation": "guest"
+    },
+    {
+      "original": "en fru",
+      "translation": "wife"
+    },
+    {
+      "original": "en make",
+      "translation": "husband"
+    },
+    {
+      "original": "ett bröllop",
+      "translation": "wedding"
+    },
+    {
+      "original": "en födelsedag",
+      "translation": "birthday"
+    },
+    {
+      "original": "ett namn",
+      "translation": "name"
+    },
+    {
+      "original": "en ålder",
+      "translation": "age"
+    },
+    {
+      "original": "kärlek",
+      "translation": "love"
+    },
+    {
+      "original": "en vänskap",
+      "translation": "friendship"
+    },
+    {
+      "original": "en kollega",
+      "translation": "colleague"
+    },
+    {
+      "original": "en grupp",
+      "translation": "group"
+    },
+    {
+      "original": "ett barnbarn",
+      "translation": "grandchild"
+    }
+  ]
+}

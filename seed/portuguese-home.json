@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-home",
+  "title": "Portuguese home and things",
+  "description": "Portuguese words for rooms, furniture and the objects you use at home.",
+  "language": "pt",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "o apartamento",
+      "translation": "flat"
+    },
+    {
+      "original": "a cozinha",
+      "translation": "kitchen"
+    },
+    {
+      "original": "o quarto de dormir",
+      "translation": "bedroom"
+    },
+    {
+      "original": "o banheiro",
+      "translation": "bathroom"
+    },
+    {
+      "original": "a sala",
+      "translation": "living room"
+    },
+    {
+      "original": "a porta",
+      "translation": "door"
+    },
+    {
+      "original": "a janela",
+      "translation": "window"
+    },
+    {
+      "original": "o chão",
+      "translation": "floor"
+    },
+    {
+      "original": "a parede",
+      "translation": "wall"
+    },
+    {
+      "original": "o telhado",
+      "translation": "roof"
+    },
+    {
+      "original": "a escada",
+      "translation": "stairs"
+    },
+    {
+      "original": "a mesa",
+      "translation": "table"
+    },
+    {
+      "original": "a cadeira",
+      "translation": "chair"
+    },
+    {
+      "original": "a cama",
+      "translation": "bed"
+    },
+    {
+      "original": "o sofá",
+      "translation": "sofa"
+    },
+    {
+      "original": "o armário",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "a prateleira",
+      "translation": "shelf"
+    },
+    {
+      "original": "a lâmpada",
+      "translation": "lamp"
+    },
+    {
+      "original": "o tapete",
+      "translation": "carpet"
+    },
+    {
+      "original": "o espelho",
+      "translation": "mirror"
+    },
+    {
+      "original": "a geladeira",
+      "translation": "fridge"
+    },
+    {
+      "original": "o forno",
+      "translation": "oven"
+    },
+    {
+      "original": "o chuveiro",
+      "translation": "shower"
+    },
+    {
+      "original": "o sabonete",
+      "translation": "soap"
+    },
+    {
+      "original": "a toalha",
+      "translation": "towel"
+    },
+    {
+      "original": "a colher",
+      "translation": "spoon"
+    },
+    {
+      "original": "a faca",
+      "translation": "knife"
+    },
+    {
+      "original": "a xícara",
+      "translation": "cup"
+    },
+    {
+      "original": "o copo",
+      "translation": "glass"
+    },
+    {
+      "original": "o jardim",
+      "translation": "garden"
+    }
+  ]
+}

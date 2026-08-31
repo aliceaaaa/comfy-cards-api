@@ -1,0 +1,129 @@
+{
+  "slug": "french-work",
+  "title": "French work and study",
+  "description": "French words for the office, the classroom and the things you do there.",
+  "language": "fr",
+  "topic": "work",
+  "cards": [
+    {
+      "original": "le bureau",
+      "translation": "office"
+    },
+    {
+      "original": "le chef",
+      "translation": "boss"
+    },
+    {
+      "original": "le métier",
+      "translation": "profession"
+    },
+    {
+      "original": "l'entreprise",
+      "translation": "company"
+    },
+    {
+      "original": "l'argent",
+      "translation": "money"
+    },
+    {
+      "original": "le salaire",
+      "translation": "salary"
+    },
+    {
+      "original": "la tâche",
+      "translation": "task"
+    },
+    {
+      "original": "le projet",
+      "translation": "project"
+    },
+    {
+      "original": "la réunion",
+      "translation": "meeting"
+    },
+    {
+      "original": "l'ordinateur",
+      "translation": "computer"
+    },
+    {
+      "original": "l'écran",
+      "translation": "screen"
+    },
+    {
+      "original": "le clavier",
+      "translation": "keyboard"
+    },
+    {
+      "original": "la souris",
+      "translation": "mouse"
+    },
+    {
+      "original": "le papier",
+      "translation": "paper"
+    },
+    {
+      "original": "le stylo",
+      "translation": "pen"
+    },
+    {
+      "original": "le crayon",
+      "translation": "pencil"
+    },
+    {
+      "original": "le cahier",
+      "translation": "notebook"
+    },
+    {
+      "original": "l'université",
+      "translation": "university"
+    },
+    {
+      "original": "l'étudiant",
+      "translation": "student"
+    },
+    {
+      "original": "le professeur",
+      "translation": "teacher"
+    },
+    {
+      "original": "l'examen",
+      "translation": "exam"
+    },
+    {
+      "original": "la note",
+      "translation": "grade"
+    },
+    {
+      "original": "les devoirs",
+      "translation": "homework"
+    },
+    {
+      "original": "la bibliothèque",
+      "translation": "library"
+    },
+    {
+      "original": "le dictionnaire",
+      "translation": "dictionary"
+    },
+    {
+      "original": "la langue",
+      "translation": "language"
+    },
+    {
+      "original": "la question",
+      "translation": "question"
+    },
+    {
+      "original": "la réponse",
+      "translation": "answer"
+    },
+    {
+      "original": "le cours",
+      "translation": "course"
+    },
+    {
+      "original": "le savoir",
+      "translation": "knowledge"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "french-numbers",
+  "title": "French numbers",
+  "description": "Numbers in French from zero to a thousand, with the words you count things by.",
+  "language": "fr",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "zéro",
+      "translation": "zero"
+    },
+    {
+      "original": "un",
+      "translation": "one"
+    },
+    {
+      "original": "deux",
+      "translation": "two"
+    },
+    {
+      "original": "trois",
+      "translation": "three"
+    },
+    {
+      "original": "quatre",
+      "translation": "four"
+    },
+    {
+      "original": "cinq",
+      "translation": "five"
+    },
+    {
+      "original": "six",
+      "translation": "six"
+    },
+    {
+      "original": "sept",
+      "translation": "seven"
+    },
+    {
+      "original": "huit",
+      "translation": "eight"
+    },
+    {
+      "original": "neuf",
+      "translation": "nine"
+    },
+    {
+      "original": "dix",
+      "translation": "ten"
+    },
+    {
+      "original": "onze",
+      "translation": "eleven"
+    },
+    {
+      "original": "douze",
+      "translation": "twelve"
+    },
+    {
+      "original": "treize",
+      "translation": "thirteen"
+    },
+    {
+      "original": "quatorze",
+      "translation": "fourteen"
+    },
+    {
+      "original": "quinze",
+      "translation": "fifteen"
+    },
+    {
+      "original": "seize",
+      "translation": "sixteen"
+    },
+    {
+      "original": "dix-sept",
+      "translation": "seventeen"
+    },
+    {
+      "original": "dix-huit",
+      "translation": "eighteen"
+    },
+    {
+      "original": "dix-neuf",
+      "translation": "nineteen"
+    },
+    {
+      "original": "vingt",
+      "translation": "twenty"
+    },
+    {
+      "original": "trente",
+      "translation": "thirty"
+    },
+    {
+      "original": "quarante",
+      "translation": "forty"
+    },
+    {
+      "original": "cinquante",
+      "translation": "fifty"
+    },
+    {
+      "original": "cent",
+      "translation": "hundred"
+    },
+    {
+      "original": "mille",
+      "translation": "thousand"
+    },
+    {
+      "original": "le nombre",
+      "translation": "number"
+    },
+    {
+      "original": "la moitié",
+      "translation": "half"
+    },
+    {
+      "original": "la douzaine",
+      "translation": "dozen"
+    },
+    {
+      "original": "la paire",
+      "translation": "pair"
+    }
+  ]
+}

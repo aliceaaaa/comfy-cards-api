@@ -1,0 +1,129 @@
+{
+  "slug": "german-family",
+  "title": "German family and people",
+  "description": "German words for relatives, friends and the people around you.",
+  "language": "de",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "die Mutter",
+      "translation": "mother"
+    },
+    {
+      "original": "der Vater",
+      "translation": "father"
+    },
+    {
+      "original": "die Eltern",
+      "translation": "parents"
+    },
+    {
+      "original": "der Sohn",
+      "translation": "son"
+    },
+    {
+      "original": "die Tochter",
+      "translation": "daughter"
+    },
+    {
+      "original": "der Bruder",
+      "translation": "brother"
+    },
+    {
+      "original": "die Schwester",
+      "translation": "sister"
+    },
+    {
+      "original": "die Großmutter",
+      "translation": "grandmother"
+    },
+    {
+      "original": "der Großvater",
+      "translation": "grandfather"
+    },
+    {
+      "original": "der Onkel",
+      "translation": "uncle"
+    },
+    {
+      "original": "die Tante",
+      "translation": "aunt"
+    },
+    {
+      "original": "der Cousin",
+      "translation": "cousin"
+    },
+    {
+      "original": "das Baby",
+      "translation": "baby"
+    },
+    {
+      "original": "der Junge",
+      "translation": "boy"
+    },
+    {
+      "original": "das Mädchen",
+      "translation": "girl"
+    },
+    {
+      "original": "die Leute",
+      "translation": "people"
+    },
+    {
+      "original": "der Mensch",
+      "translation": "human being"
+    },
+    {
+      "original": "der Nachbar",
+      "translation": "neighbour"
+    },
+    {
+      "original": "der Gast",
+      "translation": "guest"
+    },
+    {
+      "original": "die Ehefrau",
+      "translation": "wife"
+    },
+    {
+      "original": "der Ehemann",
+      "translation": "husband"
+    },
+    {
+      "original": "die Hochzeit",
+      "translation": "wedding"
+    },
+    {
+      "original": "der Geburtstag",
+      "translation": "birthday"
+    },
+    {
+      "original": "der Name",
+      "translation": "name"
+    },
+    {
+      "original": "das Alter",
+      "translation": "age"
+    },
+    {
+      "original": "die Liebe",
+      "translation": "love"
+    },
+    {
+      "original": "die Freundschaft",
+      "translation": "friendship"
+    },
+    {
+      "original": "der Kollege",
+      "translation": "colleague"
+    },
+    {
+      "original": "die Gruppe",
+      "translation": "group"
+    },
+    {
+      "original": "der Enkel",
+      "translation": "grandson"
+    }
+  ]
+}

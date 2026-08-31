@@ -1,0 +1,129 @@
+{
+  "slug": "german-time",
+  "title": "German time and weather",
+  "description": "German words for days, months, the clock and the weather.",
+  "language": "de",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "die Stunde",
+      "translation": "hour"
+    },
+    {
+      "original": "die Minute",
+      "translation": "minute"
+    },
+    {
+      "original": "die Sekunde",
+      "translation": "second"
+    },
+    {
+      "original": "die Woche",
+      "translation": "week"
+    },
+    {
+      "original": "der Monat",
+      "translation": "month"
+    },
+    {
+      "original": "der Morgen",
+      "translation": "morning"
+    },
+    {
+      "original": "der Mittag",
+      "translation": "midday"
+    },
+    {
+      "original": "der Abend",
+      "translation": "evening"
+    },
+    {
+      "original": "heute",
+      "translation": "today"
+    },
+    {
+      "original": "morgen",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "gestern",
+      "translation": "yesterday"
+    },
+    {
+      "original": "jetzt",
+      "translation": "now"
+    },
+    {
+      "original": "früh",
+      "translation": "early"
+    },
+    {
+      "original": "spät",
+      "translation": "late"
+    },
+    {
+      "original": "der Montag",
+      "translation": "Monday"
+    },
+    {
+      "original": "der Dienstag",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "der Mittwoch",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "der Donnerstag",
+      "translation": "Thursday"
+    },
+    {
+      "original": "der Freitag",
+      "translation": "Friday"
+    },
+    {
+      "original": "der Samstag",
+      "translation": "Saturday"
+    },
+    {
+      "original": "der Sonntag",
+      "translation": "Sunday"
+    },
+    {
+      "original": "der Frühling",
+      "translation": "spring"
+    },
+    {
+      "original": "der Sommer",
+      "translation": "summer"
+    },
+    {
+      "original": "der Herbst",
+      "translation": "autumn"
+    },
+    {
+      "original": "der Winter",
+      "translation": "winter"
+    },
+    {
+      "original": "das Wetter",
+      "translation": "weather"
+    },
+    {
+      "original": "die Sonne",
+      "translation": "sun"
+    },
+    {
+      "original": "der Regen",
+      "translation": "rain"
+    },
+    {
+      "original": "der Schnee",
+      "translation": "snow"
+    },
+    {
+      "original": "der Wind",
+      "translation": "wind"
+    }
+  ]
+}

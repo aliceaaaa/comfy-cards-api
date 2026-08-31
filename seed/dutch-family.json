@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-family",
+  "title": "Dutch family and people",
+  "description": "Dutch words for relatives, friends and the people around you.",
+  "language": "nl",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "de moeder",
+      "translation": "mother"
+    },
+    {
+      "original": "de vader",
+      "translation": "father"
+    },
+    {
+      "original": "de ouders",
+      "translation": "parents"
+    },
+    {
+      "original": "de zoon",
+      "translation": "son"
+    },
+    {
+      "original": "de dochter",
+      "translation": "daughter"
+    },
+    {
+      "original": "de broer",
+      "translation": "brother"
+    },
+    {
+      "original": "de zus",
+      "translation": "sister"
+    },
+    {
+      "original": "de oma",
+      "translation": "grandmother"
+    },
+    {
+      "original": "de opa",
+      "translation": "grandfather"
+    },
+    {
+      "original": "de oom",
+      "translation": "uncle"
+    },
+    {
+      "original": "de tante",
+      "translation": "aunt"
+    },
+    {
+      "original": "de neef",
+      "translation": "cousin"
+    },
+    {
+      "original": "de baby",
+      "translation": "baby"
+    },
+    {
+      "original": "de jongen",
+      "translation": "boy"
+    },
+    {
+      "original": "het meisje",
+      "translation": "girl"
+    },
+    {
+      "original": "de mensen",
+      "translation": "people"
+    },
+    {
+      "original": "de persoon",
+      "translation": "person"
+    },
+    {
+      "original": "de buurman",
+      "translation": "neighbour"
+    },
+    {
+      "original": "de gast",
+      "translation": "guest"
+    },
+    {
+      "original": "de echtgenote",
+      "translation": "wife"
+    },
+    {
+      "original": "de echtgenoot",
+      "translation": "husband"
+    },
+    {
+      "original": "de bruiloft",
+      "translation": "wedding"
+    },
+    {
+      "original": "de verjaardag",
+      "translation": "birthday"
+    },
+    {
+      "original": "de naam",
+      "translation": "name"
+    },
+    {
+      "original": "de leeftijd",
+      "translation": "age"
+    },
+    {
+      "original": "de liefde",
+      "translation": "love"
+    },
+    {
+      "original": "de vriendschap",
+      "translation": "friendship"
+    },
+    {
+      "original": "de collega",
+      "translation": "colleague"
+    },
+    {
+      "original": "de groep",
+      "translation": "group"
+    },
+    {
+      "original": "de kleinzoon",
+      "translation": "grandson"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-health",
+  "title": "Spanish body and health",
+  "description": "Spanish words for the body, feeling unwell and going to the doctor.",
+  "language": "es",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "el cuerpo",
+      "translation": "body"
+    },
+    {
+      "original": "la cabeza",
+      "translation": "head"
+    },
+    {
+      "original": "el ojo",
+      "translation": "eye"
+    },
+    {
+      "original": "la oreja",
+      "translation": "ear"
+    },
+    {
+      "original": "la nariz",
+      "translation": "nose"
+    },
+    {
+      "original": "la boca",
+      "translation": "mouth"
+    },
+    {
+      "original": "el diente",
+      "translation": "tooth"
+    },
+    {
+      "original": "el pelo",
+      "translation": "hair"
+    },
+    {
+      "original": "el cuello",
+      "translation": "neck"
+    },
+    {
+      "original": "el hombro",
+      "translation": "shoulder"
+    },
+    {
+      "original": "el brazo",
+      "translation": "arm"
+    },
+    {
+      "original": "la mano",
+      "translation": "hand"
+    },
+    {
+      "original": "el dedo",
+      "translation": "finger"
+    },
+    {
+      "original": "la pierna",
+      "translation": "leg"
+    },
+    {
+      "original": "el pie",
+      "translation": "foot"
+    },
+    {
+      "original": "el corazón",
+      "translation": "heart"
+    },
+    {
+      "original": "la espalda",
+      "translation": "back"
+    },
+    {
+      "original": "el estómago",
+      "translation": "stomach"
+    },
+    {
+      "original": "la piel",
+      "translation": "skin"
+    },
+    {
+      "original": "la sangre",
+      "translation": "blood"
+    },
+    {
+      "original": "el médico",
+      "translation": "doctor"
+    },
+    {
+      "original": "la enfermera",
+      "translation": "nurse"
+    },
+    {
+      "original": "el hospital",
+      "translation": "hospital"
+    },
+    {
+      "original": "la farmacia",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "la medicina",
+      "translation": "medicine"
+    },
+    {
+      "original": "la enfermedad",
+      "translation": "illness"
+    },
+    {
+      "original": "la fiebre",
+      "translation": "fever"
+    },
+    {
+      "original": "el dolor",
+      "translation": "pain"
+    },
+    {
+      "original": "el resfriado",
+      "translation": "a cold"
+    },
+    {
+      "original": "la salud",
+      "translation": "health"
+    }
+  ]
+}

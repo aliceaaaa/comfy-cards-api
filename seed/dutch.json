@@ -1,0 +1,129 @@
+{
+  "slug": "dutch",
+  "title": "Dutch basics",
+  "description": "Everyday Dutch words and phrases to start with.",
+  "language": "nl",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "hallo",
+      "translation": "hello"
+    },
+    {
+      "original": "goedemorgen",
+      "translation": "good morning"
+    },
+    {
+      "original": "goedenavond",
+      "translation": "good evening"
+    },
+    {
+      "original": "dank je",
+      "translation": "thank you"
+    },
+    {
+      "original": "alsjeblieft",
+      "translation": "please"
+    },
+    {
+      "original": "ja",
+      "translation": "yes"
+    },
+    {
+      "original": "nee",
+      "translation": "no"
+    },
+    {
+      "original": "tot ziens",
+      "translation": "goodbye"
+    },
+    {
+      "original": "sorry",
+      "translation": "excuse me"
+    },
+    {
+      "original": "de man",
+      "translation": "man"
+    },
+    {
+      "original": "de vrouw",
+      "translation": "woman"
+    },
+    {
+      "original": "het kind",
+      "translation": "child"
+    },
+    {
+      "original": "de vriend",
+      "translation": "friend"
+    },
+    {
+      "original": "de familie",
+      "translation": "family"
+    },
+    {
+      "original": "het huis",
+      "translation": "house"
+    },
+    {
+      "original": "de stad",
+      "translation": "city"
+    },
+    {
+      "original": "het water",
+      "translation": "water"
+    },
+    {
+      "original": "het brood",
+      "translation": "bread"
+    },
+    {
+      "original": "de appel",
+      "translation": "apple"
+    },
+    {
+      "original": "de melk",
+      "translation": "milk"
+    },
+    {
+      "original": "de koffie",
+      "translation": "coffee"
+    },
+    {
+      "original": "de thee",
+      "translation": "tea"
+    },
+    {
+      "original": "het boek",
+      "translation": "book"
+    },
+    {
+      "original": "de school",
+      "translation": "school"
+    },
+    {
+      "original": "het werk",
+      "translation": "work"
+    },
+    {
+      "original": "de dag",
+      "translation": "day"
+    },
+    {
+      "original": "de nacht",
+      "translation": "night"
+    },
+    {
+      "original": "de tijd",
+      "translation": "time"
+    },
+    {
+      "original": "het jaar",
+      "translation": "year"
+    },
+    {
+      "original": "de hond",
+      "translation": "dog"
+    }
+  ]
+}

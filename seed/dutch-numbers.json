@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-numbers",
+  "title": "Dutch numbers",
+  "description": "Numbers in Dutch from zero to a thousand, with the words you count things by.",
+  "language": "nl",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "nul",
+      "translation": "zero"
+    },
+    {
+      "original": "een",
+      "translation": "one"
+    },
+    {
+      "original": "twee",
+      "translation": "two"
+    },
+    {
+      "original": "drie",
+      "translation": "three"
+    },
+    {
+      "original": "vier",
+      "translation": "four"
+    },
+    {
+      "original": "vijf",
+      "translation": "five"
+    },
+    {
+      "original": "zes",
+      "translation": "six"
+    },
+    {
+      "original": "zeven",
+      "translation": "seven"
+    },
+    {
+      "original": "acht",
+      "translation": "eight"
+    },
+    {
+      "original": "negen",
+      "translation": "nine"
+    },
+    {
+      "original": "tien",
+      "translation": "ten"
+    },
+    {
+      "original": "elf",
+      "translation": "eleven"
+    },
+    {
+      "original": "twaalf",
+      "translation": "twelve"
+    },
+    {
+      "original": "dertien",
+      "translation": "thirteen"
+    },
+    {
+      "original": "veertien",
+      "translation": "fourteen"
+    },
+    {
+      "original": "vijftien",
+      "translation": "fifteen"
+    },
+    {
+      "original": "zestien",
+      "translation": "sixteen"
+    },
+    {
+      "original": "zeventien",
+      "translation": "seventeen"
+    },
+    {
+      "original": "achttien",
+      "translation": "eighteen"
+    },
+    {
+      "original": "negentien",
+      "translation": "nineteen"
+    },
+    {
+      "original": "twintig",
+      "translation": "twenty"
+    },
+    {
+      "original": "dertig",
+      "translation": "thirty"
+    },
+    {
+      "original": "veertig",
+      "translation": "forty"
+    },
+    {
+      "original": "vijftig",
+      "translation": "fifty"
+    },
+    {
+      "original": "honderd",
+      "translation": "hundred"
+    },
+    {
+      "original": "duizend",
+      "translation": "thousand"
+    },
+    {
+      "original": "het getal",
+      "translation": "number"
+    },
+    {
+      "original": "de helft",
+      "translation": "half"
+    },
+    {
+      "original": "het dozijn",
+      "translation": "dozen"
+    },
+    {
+      "original": "het paar",
+      "translation": "pair"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "german-health",
+  "title": "German body and health",
+  "description": "German words for the body, feeling unwell and going to the doctor.",
+  "language": "de",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "der Körper",
+      "translation": "body"
+    },
+    {
+      "original": "der Kopf",
+      "translation": "head"
+    },
+    {
+      "original": "das Auge",
+      "translation": "eye"
+    },
+    {
+      "original": "das Ohr",
+      "translation": "ear"
+    },
+    {
+      "original": "die Nase",
+      "translation": "nose"
+    },
+    {
+      "original": "der Mund",
+      "translation": "mouth"
+    },
+    {
+      "original": "der Zahn",
+      "translation": "tooth"
+    },
+    {
+      "original": "das Haar",
+      "translation": "hair"
+    },
+    {
+      "original": "der Hals",
+      "translation": "neck"
+    },
+    {
+      "original": "die Schulter",
+      "translation": "shoulder"
+    },
+    {
+      "original": "der Arm",
+      "translation": "arm"
+    },
+    {
+      "original": "die Hand",
+      "translation": "hand"
+    },
+    {
+      "original": "der Finger",
+      "translation": "finger"
+    },
+    {
+      "original": "das Bein",
+      "translation": "leg"
+    },
+    {
+      "original": "der Fuß",
+      "translation": "foot"
+    },
+    {
+      "original": "das Herz",
+      "translation": "heart"
+    },
+    {
+      "original": "der Rücken",
+      "translation": "back"
+    },
+    {
+      "original": "der Bauch",
+      "translation": "belly"
+    },
+    {
+      "original": "die Haut",
+      "translation": "skin"
+    },
+    {
+      "original": "das Blut",
+      "translation": "blood"
+    },
+    {
+      "original": "der Arzt",
+      "translation": "doctor"
+    },
+    {
+      "original": "die Krankenschwester",
+      "translation": "nurse"
+    },
+    {
+      "original": "das Krankenhaus",
+      "translation": "hospital"
+    },
+    {
+      "original": "die Apotheke",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "die Medizin",
+      "translation": "medicine"
+    },
+    {
+      "original": "die Krankheit",
+      "translation": "illness"
+    },
+    {
+      "original": "das Fieber",
+      "translation": "fever"
+    },
+    {
+      "original": "der Schmerz",
+      "translation": "pain"
+    },
+    {
+      "original": "die Erkältung",
+      "translation": "a cold"
+    },
+    {
+      "original": "die Gesundheit",
+      "translation": "health"
+    }
+  ]
+}

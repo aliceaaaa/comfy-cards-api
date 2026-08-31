@@ -1,0 +1,129 @@
+{
+  "slug": "italian-verbs",
+  "title": "Italian common verbs",
+  "description": "The Italian verbs you meet first, all in the infinitive.",
+  "language": "it",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "essere",
+      "translation": "to be"
+    },
+    {
+      "original": "avere",
+      "translation": "to have"
+    },
+    {
+      "original": "fare",
+      "translation": "to do"
+    },
+    {
+      "original": "andare",
+      "translation": "to go"
+    },
+    {
+      "original": "venire",
+      "translation": "to come"
+    },
+    {
+      "original": "vedere",
+      "translation": "to see"
+    },
+    {
+      "original": "sentire",
+      "translation": "to hear"
+    },
+    {
+      "original": "parlare",
+      "translation": "to speak"
+    },
+    {
+      "original": "dire",
+      "translation": "to say"
+    },
+    {
+      "original": "mangiare",
+      "translation": "to eat"
+    },
+    {
+      "original": "bere",
+      "translation": "to drink"
+    },
+    {
+      "original": "dormire",
+      "translation": "to sleep"
+    },
+    {
+      "original": "leggere",
+      "translation": "to read"
+    },
+    {
+      "original": "scrivere",
+      "translation": "to write"
+    },
+    {
+      "original": "imparare",
+      "translation": "to learn"
+    },
+    {
+      "original": "lavorare",
+      "translation": "to work"
+    },
+    {
+      "original": "giocare",
+      "translation": "to play"
+    },
+    {
+      "original": "comprare",
+      "translation": "to buy"
+    },
+    {
+      "original": "dare",
+      "translation": "to give"
+    },
+    {
+      "original": "prendere",
+      "translation": "to take"
+    },
+    {
+      "original": "trovare",
+      "translation": "to find"
+    },
+    {
+      "original": "guidare",
+      "translation": "to drive"
+    },
+    {
+      "original": "correre",
+      "translation": "to run"
+    },
+    {
+      "original": "aspettare",
+      "translation": "to wait"
+    },
+    {
+      "original": "pensare",
+      "translation": "to think"
+    },
+    {
+      "original": "sapere",
+      "translation": "to know"
+    },
+    {
+      "original": "capire",
+      "translation": "to understand"
+    },
+    {
+      "original": "aiutare",
+      "translation": "to help"
+    },
+    {
+      "original": "amare",
+      "translation": "to love"
+    },
+    {
+      "original": "vivere",
+      "translation": "to live"
+    }
+  ]
+}

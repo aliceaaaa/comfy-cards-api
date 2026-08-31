@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-home",
+  "title": "Japanese home and things",
+  "description": "Japanese words for rooms, furniture and the objects you use at home.",
+  "language": "ja",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "アパート",
+      "translation": "flat",
+      "transcription": "apaato"
+    },
+    {
+      "original": "だいどころ",
+      "translation": "kitchen",
+      "transcription": "daidokoro"
+    },
+    {
+      "original": "しんしつ",
+      "translation": "bedroom",
+      "transcription": "shinshitsu"
+    },
+    {
+      "original": "おふろ",
+      "translation": "bathroom",
+      "transcription": "ofuro"
+    },
+    {
+      "original": "いま",
+      "translation": "living room",
+      "transcription": "ima"
+    },
+    {
+      "original": "ドア",
+      "translation": "door",
+      "transcription": "doa"
+    },
+    {
+      "original": "まど",
+      "translation": "window",
+      "transcription": "mado"
+    },
+    {
+      "original": "ゆか",
+      "translation": "floor",
+      "transcription": "yuka"
+    },
+    {
+      "original": "かべ",
+      "translation": "wall",
+      "transcription": "kabe"
+    },
+    {
+      "original": "やね",
+      "translation": "roof",
+      "transcription": "yane"
+    },
+    {
+      "original": "かいだん",
+      "translation": "stairs",
+      "transcription": "kaidan"
+    },
+    {
+      "original": "テーブル",
+      "translation": "table",
+      "transcription": "teeburu"
+    },
+    {
+      "original": "いす",
+      "translation": "chair",
+      "transcription": "isu"
+    },
+    {
+      "original": "ベッド",
+      "translation": "bed",
+      "transcription": "beddo"
+    },
+    {
+      "original": "ソファー",
+      "translation": "sofa",
+      "transcription": "sofaa"
+    },
+    {
+      "original": "たんす",
+      "translation": "wardrobe",
+      "transcription": "tansu"
+    },
+    {
+      "original": "たな",
+      "translation": "shelf",
+      "transcription": "tana"
+    },
+    {
+      "original": "ランプ",
+      "translation": "lamp",
+      "transcription": "ranpu"
+    },
+    {
+      "original": "カーペット",
+      "translation": "carpet",
+      "transcription": "kaapetto"
+    },
+    {
+      "original": "かがみ",
+      "translation": "mirror",
+      "transcription": "kagami"
+    },
+    {
+      "original": "れいぞうこ",
+      "translation": "fridge",
+      "transcription": "reizouko"
+    },
+    {
+      "original": "オーブン",
+      "translation": "oven",
+      "transcription": "oobun"
+    },
+    {
+      "original": "シャワー",
+      "translation": "shower",
+      "transcription": "shawaa"
+    },
+    {
+      "original": "せっけん",
+      "translation": "soap",
+      "transcription": "sekken"
+    },
+    {
+      "original": "タオル",
+      "translation": "towel",
+      "transcription": "taoru"
+    },
+    {
+      "original": "スプーン",
+      "translation": "spoon",
+      "transcription": "supuun"
+    },
+    {
+      "original": "ナイフ",
+      "translation": "knife",
+      "transcription": "naifu"
+    },
+    {
+      "original": "カップ",
+      "translation": "cup",
+      "transcription": "kappu"
+    },
+    {
+      "original": "コップ",
+      "translation": "glass",
+      "transcription": "koppu"
+    },
+    {
+      "original": "にわ",
+      "translation": "garden",
+      "transcription": "niwa"
+    }
+  ]
+}

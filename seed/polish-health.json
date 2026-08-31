@@ -1,0 +1,129 @@
+{
+  "slug": "polish-health",
+  "title": "Polish body and health",
+  "description": "Polish words for the body, feeling unwell and going to the doctor.",
+  "language": "pl",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "ciało",
+      "translation": "body"
+    },
+    {
+      "original": "głowa",
+      "translation": "head"
+    },
+    {
+      "original": "oko",
+      "translation": "eye"
+    },
+    {
+      "original": "ucho",
+      "translation": "ear"
+    },
+    {
+      "original": "nos",
+      "translation": "nose"
+    },
+    {
+      "original": "usta",
+      "translation": "mouth"
+    },
+    {
+      "original": "ząb",
+      "translation": "tooth"
+    },
+    {
+      "original": "włosy",
+      "translation": "hair"
+    },
+    {
+      "original": "szyja",
+      "translation": "neck"
+    },
+    {
+      "original": "ramię",
+      "translation": "shoulder"
+    },
+    {
+      "original": "ręka",
+      "translation": "hand"
+    },
+    {
+      "original": "palec",
+      "translation": "finger"
+    },
+    {
+      "original": "noga",
+      "translation": "leg"
+    },
+    {
+      "original": "stopa",
+      "translation": "foot"
+    },
+    {
+      "original": "kolano",
+      "translation": "knee"
+    },
+    {
+      "original": "serce",
+      "translation": "heart"
+    },
+    {
+      "original": "plecy",
+      "translation": "back"
+    },
+    {
+      "original": "brzuch",
+      "translation": "belly"
+    },
+    {
+      "original": "skóra",
+      "translation": "skin"
+    },
+    {
+      "original": "krew",
+      "translation": "blood"
+    },
+    {
+      "original": "lekarz",
+      "translation": "doctor"
+    },
+    {
+      "original": "pielęgniarka",
+      "translation": "nurse"
+    },
+    {
+      "original": "szpital",
+      "translation": "hospital"
+    },
+    {
+      "original": "apteka",
+      "translation": "pharmacy"
+    },
+    {
+      "original": "lekarstwo",
+      "translation": "medicine"
+    },
+    {
+      "original": "choroba",
+      "translation": "illness"
+    },
+    {
+      "original": "gorączka",
+      "translation": "fever"
+    },
+    {
+      "original": "ból",
+      "translation": "pain"
+    },
+    {
+      "original": "przeziębienie",
+      "translation": "a cold"
+    },
+    {
+      "original": "zdrowie",
+      "translation": "health"
+    }
+  ]
+}

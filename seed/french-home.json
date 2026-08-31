@@ -1,0 +1,129 @@
+{
+  "slug": "french-home",
+  "title": "French home and things",
+  "description": "French words for rooms, furniture and the objects you use at home.",
+  "language": "fr",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "l'appartement",
+      "translation": "flat"
+    },
+    {
+      "original": "la cuisine",
+      "translation": "kitchen"
+    },
+    {
+      "original": "la chambre à coucher",
+      "translation": "bedroom"
+    },
+    {
+      "original": "la salle de bains",
+      "translation": "bathroom"
+    },
+    {
+      "original": "le salon",
+      "translation": "living room"
+    },
+    {
+      "original": "la porte",
+      "translation": "door"
+    },
+    {
+      "original": "la fenêtre",
+      "translation": "window"
+    },
+    {
+      "original": "le sol",
+      "translation": "floor"
+    },
+    {
+      "original": "le mur",
+      "translation": "wall"
+    },
+    {
+      "original": "le toit",
+      "translation": "roof"
+    },
+    {
+      "original": "l'escalier",
+      "translation": "stairs"
+    },
+    {
+      "original": "la table",
+      "translation": "table"
+    },
+    {
+      "original": "la chaise",
+      "translation": "chair"
+    },
+    {
+      "original": "le lit",
+      "translation": "bed"
+    },
+    {
+      "original": "le canapé",
+      "translation": "sofa"
+    },
+    {
+      "original": "l'armoire",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "l'étagère",
+      "translation": "shelf"
+    },
+    {
+      "original": "la lampe",
+      "translation": "lamp"
+    },
+    {
+      "original": "le tapis",
+      "translation": "carpet"
+    },
+    {
+      "original": "le miroir",
+      "translation": "mirror"
+    },
+    {
+      "original": "le frigo",
+      "translation": "fridge"
+    },
+    {
+      "original": "le four",
+      "translation": "oven"
+    },
+    {
+      "original": "la douche",
+      "translation": "shower"
+    },
+    {
+      "original": "le savon",
+      "translation": "soap"
+    },
+    {
+      "original": "la serviette",
+      "translation": "towel"
+    },
+    {
+      "original": "la cuillère",
+      "translation": "spoon"
+    },
+    {
+      "original": "le couteau",
+      "translation": "knife"
+    },
+    {
+      "original": "la tasse",
+      "translation": "cup"
+    },
+    {
+      "original": "le verre",
+      "translation": "glass"
+    },
+    {
+      "original": "le jardin",
+      "translation": "garden"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { pool, withTransaction } from './pool.js';
 import { CardRow, DeckRow, toCard, toDeck } from './decks.js';
-import { CatalogDeck, CatalogDeckSummary, Deck } from '../types.js';
+import { Card, CatalogDeck, CatalogDeckSummary, Deck } from '../types.js';
 
 export interface CatalogFilters {
   language?: string;
@@ -143,5 +143,53 @@ export async function copyCatalogDeck(
     const copied = cards.rows.map(toCard);
 
     return toDeck(row, copied, copied.length);
+  });
+}
+
+export async function exportCatalog(): Promise<CatalogDeck[]> {
+  const decks = await pool.query<CatalogDeckRow>(
+    `SELECT id, title, created_at, slug, description, language, topic
+     FROM decks
+     WHERE is_public AND slug IS NOT NULL
+     ORDER BY language, title`,
+  );
+
+  if (decks.rows.length === 0) {
+    return [];
+  }
+
+  const cards = await pool.query<CardRow>(
+    `SELECT id, deck_id, original, translation, transcription
+     FROM cards
+     WHERE deck_id = ANY ($1::uuid[])
+     ORDER BY deck_id, position`,
+    [
+      decks.rows.map((row) => {
+        return row.id;
+      }),
+    ],
+  );
+
+  const byDeck = new Map<string, Card[]>();
+
+  for (const row of cards.rows) {
+    const list = byDeck.get(row.deck_id) ?? [];
+
+    list.push(toCard(row));
+    byDeck.set(row.deck_id, list);
+  }
+
+  return decks.rows.map((row) => {
+    const deckCards = byDeck.get(row.id) ?? [];
+
+    return {
+      slug: row.slug,
+      title: row.title,
+      description: row.description,
+      language: row.language,
+      topic: row.topic,
+      cardCount: deckCards.length,
+      cards: deckCards,
+    };
   });
 }

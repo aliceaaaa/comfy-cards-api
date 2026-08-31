@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-time",
+  "title": "Swedish time and weather",
+  "description": "Swedish words for days, months, the clock and the weather.",
+  "language": "sv",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "en timme",
+      "translation": "hour"
+    },
+    {
+      "original": "en minut",
+      "translation": "minute"
+    },
+    {
+      "original": "en sekund",
+      "translation": "second"
+    },
+    {
+      "original": "en vecka",
+      "translation": "week"
+    },
+    {
+      "original": "en månad",
+      "translation": "month"
+    },
+    {
+      "original": "en morgon",
+      "translation": "morning"
+    },
+    {
+      "original": "en eftermiddag",
+      "translation": "afternoon"
+    },
+    {
+      "original": "en kväll",
+      "translation": "evening"
+    },
+    {
+      "original": "idag",
+      "translation": "today"
+    },
+    {
+      "original": "imorgon",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "igår",
+      "translation": "yesterday"
+    },
+    {
+      "original": "nu",
+      "translation": "now"
+    },
+    {
+      "original": "tidigt",
+      "translation": "early"
+    },
+    {
+      "original": "sent",
+      "translation": "late"
+    },
+    {
+      "original": "måndag",
+      "translation": "Monday"
+    },
+    {
+      "original": "tisdag",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "onsdag",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "torsdag",
+      "translation": "Thursday"
+    },
+    {
+      "original": "fredag",
+      "translation": "Friday"
+    },
+    {
+      "original": "lördag",
+      "translation": "Saturday"
+    },
+    {
+      "original": "söndag",
+      "translation": "Sunday"
+    },
+    {
+      "original": "en vår",
+      "translation": "spring"
+    },
+    {
+      "original": "en sommar",
+      "translation": "summer"
+    },
+    {
+      "original": "en höst",
+      "translation": "autumn"
+    },
+    {
+      "original": "en vinter",
+      "translation": "winter"
+    },
+    {
+      "original": "ett väder",
+      "translation": "weather"
+    },
+    {
+      "original": "en sol",
+      "translation": "sun"
+    },
+    {
+      "original": "ett regn",
+      "translation": "rain"
+    },
+    {
+      "original": "en snö",
+      "translation": "snow"
+    },
+    {
+      "original": "en vind",
+      "translation": "wind"
+    }
+  ]
+}

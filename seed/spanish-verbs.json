@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-verbs",
+  "title": "Spanish common verbs",
+  "description": "The Spanish verbs you meet first, all in the infinitive.",
+  "language": "es",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "ser",
+      "translation": "to be"
+    },
+    {
+      "original": "tener",
+      "translation": "to have"
+    },
+    {
+      "original": "hacer",
+      "translation": "to do"
+    },
+    {
+      "original": "ir",
+      "translation": "to go"
+    },
+    {
+      "original": "venir",
+      "translation": "to come"
+    },
+    {
+      "original": "ver",
+      "translation": "to see"
+    },
+    {
+      "original": "oír",
+      "translation": "to hear"
+    },
+    {
+      "original": "hablar",
+      "translation": "to speak"
+    },
+    {
+      "original": "decir",
+      "translation": "to say"
+    },
+    {
+      "original": "comer",
+      "translation": "to eat"
+    },
+    {
+      "original": "beber",
+      "translation": "to drink"
+    },
+    {
+      "original": "dormir",
+      "translation": "to sleep"
+    },
+    {
+      "original": "leer",
+      "translation": "to read"
+    },
+    {
+      "original": "escribir",
+      "translation": "to write"
+    },
+    {
+      "original": "aprender",
+      "translation": "to learn"
+    },
+    {
+      "original": "trabajar",
+      "translation": "to work"
+    },
+    {
+      "original": "jugar",
+      "translation": "to play"
+    },
+    {
+      "original": "comprar",
+      "translation": "to buy"
+    },
+    {
+      "original": "dar",
+      "translation": "to give"
+    },
+    {
+      "original": "tomar",
+      "translation": "to take"
+    },
+    {
+      "original": "encontrar",
+      "translation": "to find"
+    },
+    {
+      "original": "conducir",
+      "translation": "to drive"
+    },
+    {
+      "original": "correr",
+      "translation": "to run"
+    },
+    {
+      "original": "esperar",
+      "translation": "to wait"
+    },
+    {
+      "original": "pensar",
+      "translation": "to think"
+    },
+    {
+      "original": "saber",
+      "translation": "to know"
+    },
+    {
+      "original": "entender",
+      "translation": "to understand"
+    },
+    {
+      "original": "ayudar",
+      "translation": "to help"
+    },
+    {
+      "original": "querer",
+      "translation": "to want"
+    },
+    {
+      "original": "vivir",
+      "translation": "to live"
+    }
+  ]
+}

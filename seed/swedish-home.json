@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-home",
+  "title": "Swedish home and things",
+  "description": "Swedish words for rooms, furniture and the objects you use at home.",
+  "language": "sv",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "en lägenhet",
+      "translation": "flat"
+    },
+    {
+      "original": "ett kök",
+      "translation": "kitchen"
+    },
+    {
+      "original": "ett sovrum",
+      "translation": "bedroom"
+    },
+    {
+      "original": "ett badrum",
+      "translation": "bathroom"
+    },
+    {
+      "original": "ett vardagsrum",
+      "translation": "living room"
+    },
+    {
+      "original": "en dörr",
+      "translation": "door"
+    },
+    {
+      "original": "ett fönster",
+      "translation": "window"
+    },
+    {
+      "original": "ett golv",
+      "translation": "floor"
+    },
+    {
+      "original": "en vägg",
+      "translation": "wall"
+    },
+    {
+      "original": "ett tak",
+      "translation": "roof"
+    },
+    {
+      "original": "en trappa",
+      "translation": "stairs"
+    },
+    {
+      "original": "ett bord",
+      "translation": "table"
+    },
+    {
+      "original": "en stol",
+      "translation": "chair"
+    },
+    {
+      "original": "en säng",
+      "translation": "bed"
+    },
+    {
+      "original": "en soffa",
+      "translation": "sofa"
+    },
+    {
+      "original": "en garderob",
+      "translation": "wardrobe"
+    },
+    {
+      "original": "en hylla",
+      "translation": "shelf"
+    },
+    {
+      "original": "en lampa",
+      "translation": "lamp"
+    },
+    {
+      "original": "en matta",
+      "translation": "carpet"
+    },
+    {
+      "original": "en spegel",
+      "translation": "mirror"
+    },
+    {
+      "original": "ett kylskåp",
+      "translation": "fridge"
+    },
+    {
+      "original": "en ugn",
+      "translation": "oven"
+    },
+    {
+      "original": "en dusch",
+      "translation": "shower"
+    },
+    {
+      "original": "en tvål",
+      "translation": "soap"
+    },
+    {
+      "original": "en handduk",
+      "translation": "towel"
+    },
+    {
+      "original": "en sked",
+      "translation": "spoon"
+    },
+    {
+      "original": "en kniv",
+      "translation": "knife"
+    },
+    {
+      "original": "en kopp",
+      "translation": "cup"
+    },
+    {
+      "original": "ett glas",
+      "translation": "glass"
+    },
+    {
+      "original": "en trädgård",
+      "translation": "garden"
+    }
+  ]
+}

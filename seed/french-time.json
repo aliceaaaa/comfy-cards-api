@@ -1,0 +1,129 @@
+{
+  "slug": "french-time",
+  "title": "French time and weather",
+  "description": "French words for days, months, the clock and the weather.",
+  "language": "fr",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "l'heure",
+      "translation": "hour"
+    },
+    {
+      "original": "la minute",
+      "translation": "minute"
+    },
+    {
+      "original": "la seconde",
+      "translation": "second"
+    },
+    {
+      "original": "la semaine",
+      "translation": "week"
+    },
+    {
+      "original": "le mois",
+      "translation": "month"
+    },
+    {
+      "original": "le matin",
+      "translation": "morning"
+    },
+    {
+      "original": "le midi",
+      "translation": "midday"
+    },
+    {
+      "original": "le soir",
+      "translation": "evening"
+    },
+    {
+      "original": "aujourd'hui",
+      "translation": "today"
+    },
+    {
+      "original": "demain",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "hier",
+      "translation": "yesterday"
+    },
+    {
+      "original": "maintenant",
+      "translation": "now"
+    },
+    {
+      "original": "tôt",
+      "translation": "early"
+    },
+    {
+      "original": "tard",
+      "translation": "late"
+    },
+    {
+      "original": "lundi",
+      "translation": "Monday"
+    },
+    {
+      "original": "mardi",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "mercredi",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "jeudi",
+      "translation": "Thursday"
+    },
+    {
+      "original": "vendredi",
+      "translation": "Friday"
+    },
+    {
+      "original": "samedi",
+      "translation": "Saturday"
+    },
+    {
+      "original": "dimanche",
+      "translation": "Sunday"
+    },
+    {
+      "original": "le printemps",
+      "translation": "spring"
+    },
+    {
+      "original": "l'été",
+      "translation": "summer"
+    },
+    {
+      "original": "l'automne",
+      "translation": "autumn"
+    },
+    {
+      "original": "l'hiver",
+      "translation": "winter"
+    },
+    {
+      "original": "la météo",
+      "translation": "weather"
+    },
+    {
+      "original": "le soleil",
+      "translation": "sun"
+    },
+    {
+      "original": "la pluie",
+      "translation": "rain"
+    },
+    {
+      "original": "la neige",
+      "translation": "snow"
+    },
+    {
+      "original": "le vent",
+      "translation": "wind"
+    }
+  ]
+}

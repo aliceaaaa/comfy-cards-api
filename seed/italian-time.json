@@ -1,0 +1,129 @@
+{
+  "slug": "italian-time",
+  "title": "Italian time and weather",
+  "description": "Italian words for days, months, the clock and the weather.",
+  "language": "it",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "l'ora",
+      "translation": "hour"
+    },
+    {
+      "original": "il minuto",
+      "translation": "minute"
+    },
+    {
+      "original": "il secondo",
+      "translation": "second"
+    },
+    {
+      "original": "la settimana",
+      "translation": "week"
+    },
+    {
+      "original": "il mese",
+      "translation": "month"
+    },
+    {
+      "original": "la mattina",
+      "translation": "morning"
+    },
+    {
+      "original": "il mezzogiorno",
+      "translation": "midday"
+    },
+    {
+      "original": "la sera",
+      "translation": "evening"
+    },
+    {
+      "original": "oggi",
+      "translation": "today"
+    },
+    {
+      "original": "domani",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "ieri",
+      "translation": "yesterday"
+    },
+    {
+      "original": "adesso",
+      "translation": "now"
+    },
+    {
+      "original": "presto",
+      "translation": "early"
+    },
+    {
+      "original": "tardi",
+      "translation": "late"
+    },
+    {
+      "original": "lunedì",
+      "translation": "Monday"
+    },
+    {
+      "original": "martedì",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "mercoledì",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "giovedì",
+      "translation": "Thursday"
+    },
+    {
+      "original": "venerdì",
+      "translation": "Friday"
+    },
+    {
+      "original": "sabato",
+      "translation": "Saturday"
+    },
+    {
+      "original": "domenica",
+      "translation": "Sunday"
+    },
+    {
+      "original": "la primavera",
+      "translation": "spring"
+    },
+    {
+      "original": "l'estate",
+      "translation": "summer"
+    },
+    {
+      "original": "l'autunno",
+      "translation": "autumn"
+    },
+    {
+      "original": "l'inverno",
+      "translation": "winter"
+    },
+    {
+      "original": "il meteo",
+      "translation": "weather"
+    },
+    {
+      "original": "il sole",
+      "translation": "sun"
+    },
+    {
+      "original": "la pioggia",
+      "translation": "rain"
+    },
+    {
+      "original": "la neve",
+      "translation": "snow"
+    },
+    {
+      "original": "il vento",
+      "translation": "wind"
+    }
+  ]
+}

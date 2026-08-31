@@ -1,0 +1,159 @@
+{
+  "slug": "korean-home",
+  "title": "Korean home and things",
+  "description": "Korean words for rooms, furniture and the objects you use at home.",
+  "language": "ko",
+  "topic": "home",
+  "cards": [
+    {
+      "original": "아파트",
+      "translation": "flat",
+      "transcription": "apateu"
+    },
+    {
+      "original": "부엌",
+      "translation": "kitchen",
+      "transcription": "bueok"
+    },
+    {
+      "original": "침실",
+      "translation": "bedroom",
+      "transcription": "chimsil"
+    },
+    {
+      "original": "욕실",
+      "translation": "bathroom",
+      "transcription": "yoksil"
+    },
+    {
+      "original": "거실",
+      "translation": "living room",
+      "transcription": "geosil"
+    },
+    {
+      "original": "문",
+      "translation": "door",
+      "transcription": "mun"
+    },
+    {
+      "original": "창문",
+      "translation": "window",
+      "transcription": "changmun"
+    },
+    {
+      "original": "바닥",
+      "translation": "floor",
+      "transcription": "badak"
+    },
+    {
+      "original": "벽",
+      "translation": "wall",
+      "transcription": "byeok"
+    },
+    {
+      "original": "지붕",
+      "translation": "roof",
+      "transcription": "jibung"
+    },
+    {
+      "original": "계단",
+      "translation": "stairs",
+      "transcription": "gyedan"
+    },
+    {
+      "original": "탁자",
+      "translation": "table",
+      "transcription": "takja"
+    },
+    {
+      "original": "의자",
+      "translation": "chair",
+      "transcription": "uija"
+    },
+    {
+      "original": "침대",
+      "translation": "bed",
+      "transcription": "chimdae"
+    },
+    {
+      "original": "소파",
+      "translation": "sofa",
+      "transcription": "sopa"
+    },
+    {
+      "original": "옷장",
+      "translation": "wardrobe",
+      "transcription": "otjang"
+    },
+    {
+      "original": "선반",
+      "translation": "shelf",
+      "transcription": "seonban"
+    },
+    {
+      "original": "램프",
+      "translation": "lamp",
+      "transcription": "raempeu"
+    },
+    {
+      "original": "카펫",
+      "translation": "carpet",
+      "transcription": "kapet"
+    },
+    {
+      "original": "거울",
+      "translation": "mirror",
+      "transcription": "geoul"
+    },
+    {
+      "original": "냉장고",
+      "translation": "fridge",
+      "transcription": "naengjanggo"
+    },
+    {
+      "original": "오븐",
+      "translation": "oven",
+      "transcription": "obeun"
+    },
+    {
+      "original": "샤워기",
+      "translation": "shower",
+      "transcription": "syawogi"
+    },
+    {
+      "original": "비누",
+      "translation": "soap",
+      "transcription": "binu"
+    },
+    {
+      "original": "수건",
+      "translation": "towel",
+      "transcription": "sugeon"
+    },
+    {
+      "original": "숟가락",
+      "translation": "spoon",
+      "transcription": "sutgarak"
+    },
+    {
+      "original": "칼",
+      "translation": "knife",
+      "transcription": "kal"
+    },
+    {
+      "original": "컵",
+      "translation": "cup",
+      "transcription": "keop"
+    },
+    {
+      "original": "유리잔",
+      "translation": "glass",
+      "transcription": "yurijan"
+    },
+    {
+      "original": "정원",
+      "translation": "garden",
+      "transcription": "jeongwon"
+    }
+  ]
+}

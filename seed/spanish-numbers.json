@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-numbers",
+  "title": "Spanish numbers",
+  "description": "Numbers in Spanish from zero to a thousand, with the words you count things by.",
+  "language": "es",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "cero",
+      "translation": "zero"
+    },
+    {
+      "original": "uno",
+      "translation": "one"
+    },
+    {
+      "original": "dos",
+      "translation": "two"
+    },
+    {
+      "original": "tres",
+      "translation": "three"
+    },
+    {
+      "original": "cuatro",
+      "translation": "four"
+    },
+    {
+      "original": "cinco",
+      "translation": "five"
+    },
+    {
+      "original": "seis",
+      "translation": "six"
+    },
+    {
+      "original": "siete",
+      "translation": "seven"
+    },
+    {
+      "original": "ocho",
+      "translation": "eight"
+    },
+    {
+      "original": "nueve",
+      "translation": "nine"
+    },
+    {
+      "original": "diez",
+      "translation": "ten"
+    },
+    {
+      "original": "once",
+      "translation": "eleven"
+    },
+    {
+      "original": "doce",
+      "translation": "twelve"
+    },
+    {
+      "original": "trece",
+      "translation": "thirteen"
+    },
+    {
+      "original": "catorce",
+      "translation": "fourteen"
+    },
+    {
+      "original": "quince",
+      "translation": "fifteen"
+    },
+    {
+      "original": "dieciséis",
+      "translation": "sixteen"
+    },
+    {
+      "original": "diecisiete",
+      "translation": "seventeen"
+    },
+    {
+      "original": "dieciocho",
+      "translation": "eighteen"
+    },
+    {
+      "original": "diecinueve",
+      "translation": "nineteen"
+    },
+    {
+      "original": "veinte",
+      "translation": "twenty"
+    },
+    {
+      "original": "treinta",
+      "translation": "thirty"
+    },
+    {
+      "original": "cuarenta",
+      "translation": "forty"
+    },
+    {
+      "original": "cincuenta",
+      "translation": "fifty"
+    },
+    {
+      "original": "cien",
+      "translation": "hundred"
+    },
+    {
+      "original": "mil",
+      "translation": "thousand"
+    },
+    {
+      "original": "el número",
+      "translation": "number"
+    },
+    {
+      "original": "la mitad",
+      "translation": "half"
+    },
+    {
+      "original": "la docena",
+      "translation": "dozen"
+    },
+    {
+      "original": "el par",
+      "translation": "pair"
+    }
+  ]
+}

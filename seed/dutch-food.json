@@ -1,0 +1,129 @@
+{
+  "slug": "dutch-food",
+  "title": "Dutch food and drink",
+  "description": "Everyday Dutch words for food, drink and eating out.",
+  "language": "nl",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "het eten",
+      "translation": "food"
+    },
+    {
+      "original": "de drank",
+      "translation": "drink"
+    },
+    {
+      "original": "het ontbijt",
+      "translation": "breakfast"
+    },
+    {
+      "original": "de lunch",
+      "translation": "lunch"
+    },
+    {
+      "original": "het avondeten",
+      "translation": "dinner"
+    },
+    {
+      "original": "het vlees",
+      "translation": "meat"
+    },
+    {
+      "original": "de vis",
+      "translation": "fish"
+    },
+    {
+      "original": "de groente",
+      "translation": "vegetable"
+    },
+    {
+      "original": "het fruit",
+      "translation": "fruit"
+    },
+    {
+      "original": "de kaas",
+      "translation": "cheese"
+    },
+    {
+      "original": "de boter",
+      "translation": "butter"
+    },
+    {
+      "original": "het ei",
+      "translation": "egg"
+    },
+    {
+      "original": "de rijst",
+      "translation": "rice"
+    },
+    {
+      "original": "de aardappel",
+      "translation": "potato"
+    },
+    {
+      "original": "de tomaat",
+      "translation": "tomato"
+    },
+    {
+      "original": "de ui",
+      "translation": "onion"
+    },
+    {
+      "original": "de salade",
+      "translation": "salad"
+    },
+    {
+      "original": "de soep",
+      "translation": "soup"
+    },
+    {
+      "original": "de suiker",
+      "translation": "sugar"
+    },
+    {
+      "original": "het zout",
+      "translation": "salt"
+    },
+    {
+      "original": "de peper",
+      "translation": "pepper"
+    },
+    {
+      "original": "het sap",
+      "translation": "juice"
+    },
+    {
+      "original": "het bier",
+      "translation": "beer"
+    },
+    {
+      "original": "de wijn",
+      "translation": "wine"
+    },
+    {
+      "original": "de taart",
+      "translation": "cake"
+    },
+    {
+      "original": "de chocolade",
+      "translation": "chocolate"
+    },
+    {
+      "original": "het restaurant",
+      "translation": "restaurant"
+    },
+    {
+      "original": "de rekening",
+      "translation": "bill"
+    },
+    {
+      "original": "het bord",
+      "translation": "plate"
+    },
+    {
+      "original": "de vork",
+      "translation": "fork"
+    }
+  ]
+}

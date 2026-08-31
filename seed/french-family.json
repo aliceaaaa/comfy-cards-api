@@ -1,0 +1,129 @@
+{
+  "slug": "french-family",
+  "title": "French family and people",
+  "description": "French words for relatives, friends and the people around you.",
+  "language": "fr",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "la mère",
+      "translation": "mother"
+    },
+    {
+      "original": "le père",
+      "translation": "father"
+    },
+    {
+      "original": "les parents",
+      "translation": "parents"
+    },
+    {
+      "original": "le fils",
+      "translation": "son"
+    },
+    {
+      "original": "la fille",
+      "translation": "daughter"
+    },
+    {
+      "original": "le frère",
+      "translation": "brother"
+    },
+    {
+      "original": "la sœur",
+      "translation": "sister"
+    },
+    {
+      "original": "la grand-mère",
+      "translation": "grandmother"
+    },
+    {
+      "original": "le grand-père",
+      "translation": "grandfather"
+    },
+    {
+      "original": "l'oncle",
+      "translation": "uncle"
+    },
+    {
+      "original": "la tante",
+      "translation": "aunt"
+    },
+    {
+      "original": "le cousin",
+      "translation": "cousin"
+    },
+    {
+      "original": "le bébé",
+      "translation": "baby"
+    },
+    {
+      "original": "le garçon",
+      "translation": "boy"
+    },
+    {
+      "original": "la jeune fille",
+      "translation": "girl"
+    },
+    {
+      "original": "les gens",
+      "translation": "people"
+    },
+    {
+      "original": "la personne",
+      "translation": "person"
+    },
+    {
+      "original": "le voisin",
+      "translation": "neighbour"
+    },
+    {
+      "original": "l'invité",
+      "translation": "guest"
+    },
+    {
+      "original": "l'épouse",
+      "translation": "wife"
+    },
+    {
+      "original": "l'époux",
+      "translation": "husband"
+    },
+    {
+      "original": "le mariage",
+      "translation": "wedding"
+    },
+    {
+      "original": "l'anniversaire",
+      "translation": "birthday"
+    },
+    {
+      "original": "le nom",
+      "translation": "name"
+    },
+    {
+      "original": "l'âge",
+      "translation": "age"
+    },
+    {
+      "original": "l'amour",
+      "translation": "love"
+    },
+    {
+      "original": "l'amitié",
+      "translation": "friendship"
+    },
+    {
+      "original": "le collègue",
+      "translation": "colleague"
+    },
+    {
+      "original": "le groupe",
+      "translation": "group"
+    },
+    {
+      "original": "le petit-fils",
+      "translation": "grandson"
+    }
+  ]
+}

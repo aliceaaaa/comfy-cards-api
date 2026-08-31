@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-food",
+  "title": "Spanish food and drink",
+  "description": "Everyday Spanish words for food, drink and eating out.",
+  "language": "es",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "la comida",
+      "translation": "food"
+    },
+    {
+      "original": "la bebida",
+      "translation": "drink"
+    },
+    {
+      "original": "el desayuno",
+      "translation": "breakfast"
+    },
+    {
+      "original": "el almuerzo",
+      "translation": "lunch"
+    },
+    {
+      "original": "la cena",
+      "translation": "dinner"
+    },
+    {
+      "original": "la carne",
+      "translation": "meat"
+    },
+    {
+      "original": "el pescado",
+      "translation": "fish"
+    },
+    {
+      "original": "la verdura",
+      "translation": "vegetable"
+    },
+    {
+      "original": "la fruta",
+      "translation": "fruit"
+    },
+    {
+      "original": "el queso",
+      "translation": "cheese"
+    },
+    {
+      "original": "la mantequilla",
+      "translation": "butter"
+    },
+    {
+      "original": "el huevo",
+      "translation": "egg"
+    },
+    {
+      "original": "el arroz",
+      "translation": "rice"
+    },
+    {
+      "original": "la patata",
+      "translation": "potato"
+    },
+    {
+      "original": "el tomate",
+      "translation": "tomato"
+    },
+    {
+      "original": "la cebolla",
+      "translation": "onion"
+    },
+    {
+      "original": "la ensalada",
+      "translation": "salad"
+    },
+    {
+      "original": "la sopa",
+      "translation": "soup"
+    },
+    {
+      "original": "el azúcar",
+      "translation": "sugar"
+    },
+    {
+      "original": "la sal",
+      "translation": "salt"
+    },
+    {
+      "original": "la pimienta",
+      "translation": "pepper"
+    },
+    {
+      "original": "el zumo",
+      "translation": "juice"
+    },
+    {
+      "original": "la cerveza",
+      "translation": "beer"
+    },
+    {
+      "original": "el vino",
+      "translation": "wine"
+    },
+    {
+      "original": "el pastel",
+      "translation": "cake"
+    },
+    {
+      "original": "el chocolate",
+      "translation": "chocolate"
+    },
+    {
+      "original": "el restaurante",
+      "translation": "restaurant"
+    },
+    {
+      "original": "la cuenta",
+      "translation": "bill"
+    },
+    {
+      "original": "el plato",
+      "translation": "plate"
+    },
+    {
+      "original": "el tenedor",
+      "translation": "fork"
+    }
+  ]
+}

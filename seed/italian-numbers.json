@@ -1,0 +1,129 @@
+{
+  "slug": "italian-numbers",
+  "title": "Italian numbers",
+  "description": "Numbers in Italian from zero to a thousand, with the words you count things by.",
+  "language": "it",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "zero",
+      "translation": "zero"
+    },
+    {
+      "original": "uno",
+      "translation": "one"
+    },
+    {
+      "original": "due",
+      "translation": "two"
+    },
+    {
+      "original": "tre",
+      "translation": "three"
+    },
+    {
+      "original": "quattro",
+      "translation": "four"
+    },
+    {
+      "original": "cinque",
+      "translation": "five"
+    },
+    {
+      "original": "sei",
+      "translation": "six"
+    },
+    {
+      "original": "sette",
+      "translation": "seven"
+    },
+    {
+      "original": "otto",
+      "translation": "eight"
+    },
+    {
+      "original": "nove",
+      "translation": "nine"
+    },
+    {
+      "original": "dieci",
+      "translation": "ten"
+    },
+    {
+      "original": "undici",
+      "translation": "eleven"
+    },
+    {
+      "original": "dodici",
+      "translation": "twelve"
+    },
+    {
+      "original": "tredici",
+      "translation": "thirteen"
+    },
+    {
+      "original": "quattordici",
+      "translation": "fourteen"
+    },
+    {
+      "original": "quindici",
+      "translation": "fifteen"
+    },
+    {
+      "original": "sedici",
+      "translation": "sixteen"
+    },
+    {
+      "original": "diciassette",
+      "translation": "seventeen"
+    },
+    {
+      "original": "diciotto",
+      "translation": "eighteen"
+    },
+    {
+      "original": "diciannove",
+      "translation": "nineteen"
+    },
+    {
+      "original": "venti",
+      "translation": "twenty"
+    },
+    {
+      "original": "trenta",
+      "translation": "thirty"
+    },
+    {
+      "original": "quaranta",
+      "translation": "forty"
+    },
+    {
+      "original": "cinquanta",
+      "translation": "fifty"
+    },
+    {
+      "original": "cento",
+      "translation": "hundred"
+    },
+    {
+      "original": "mille",
+      "translation": "thousand"
+    },
+    {
+      "original": "il numero",
+      "translation": "number"
+    },
+    {
+      "original": "la metà",
+      "translation": "half"
+    },
+    {
+      "original": "la dozzina",
+      "translation": "dozen"
+    },
+    {
+      "original": "il paio",
+      "translation": "pair"
+    }
+  ]
+}

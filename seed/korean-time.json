@@ -1,0 +1,159 @@
+{
+  "slug": "korean-time",
+  "title": "Korean time and weather",
+  "description": "Korean words for days, months, the clock and the weather.",
+  "language": "ko",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "시",
+      "translation": "hour",
+      "transcription": "si"
+    },
+    {
+      "original": "분",
+      "translation": "minute",
+      "transcription": "bun"
+    },
+    {
+      "original": "초",
+      "translation": "second",
+      "transcription": "cho"
+    },
+    {
+      "original": "주",
+      "translation": "week",
+      "transcription": "ju"
+    },
+    {
+      "original": "달",
+      "translation": "month",
+      "transcription": "dal"
+    },
+    {
+      "original": "아침",
+      "translation": "morning",
+      "transcription": "achim"
+    },
+    {
+      "original": "정오",
+      "translation": "midday",
+      "transcription": "jeongo"
+    },
+    {
+      "original": "저녁",
+      "translation": "evening",
+      "transcription": "jeonyeok"
+    },
+    {
+      "original": "오늘",
+      "translation": "today",
+      "transcription": "oneul"
+    },
+    {
+      "original": "내일",
+      "translation": "tomorrow",
+      "transcription": "naeil"
+    },
+    {
+      "original": "어제",
+      "translation": "yesterday",
+      "transcription": "eoje"
+    },
+    {
+      "original": "지금",
+      "translation": "now",
+      "transcription": "jigeum"
+    },
+    {
+      "original": "일찍",
+      "translation": "early",
+      "transcription": "iljjik"
+    },
+    {
+      "original": "늦게",
+      "translation": "late",
+      "transcription": "neutge"
+    },
+    {
+      "original": "월요일",
+      "translation": "Monday",
+      "transcription": "woryoil"
+    },
+    {
+      "original": "화요일",
+      "translation": "Tuesday",
+      "transcription": "hwayoil"
+    },
+    {
+      "original": "수요일",
+      "translation": "Wednesday",
+      "transcription": "suyoil"
+    },
+    {
+      "original": "목요일",
+      "translation": "Thursday",
+      "transcription": "mogyoil"
+    },
+    {
+      "original": "금요일",
+      "translation": "Friday",
+      "transcription": "geumyoil"
+    },
+    {
+      "original": "토요일",
+      "translation": "Saturday",
+      "transcription": "toyoil"
+    },
+    {
+      "original": "일요일",
+      "translation": "Sunday",
+      "transcription": "iryoil"
+    },
+    {
+      "original": "봄",
+      "translation": "spring",
+      "transcription": "bom"
+    },
+    {
+      "original": "여름",
+      "translation": "summer",
+      "transcription": "yeoreum"
+    },
+    {
+      "original": "가을",
+      "translation": "autumn",
+      "transcription": "gaeul"
+    },
+    {
+      "original": "겨울",
+      "translation": "winter",
+      "transcription": "gyeoul"
+    },
+    {
+      "original": "날씨",
+      "translation": "weather",
+      "transcription": "nalssi"
+    },
+    {
+      "original": "해",
+      "translation": "sun",
+      "transcription": "hae"
+    },
+    {
+      "original": "비",
+      "translation": "rain",
+      "transcription": "bi"
+    },
+    {
+      "original": "구름",
+      "translation": "cloud",
+      "transcription": "gureum"
+    },
+    {
+      "original": "바람",
+      "translation": "wind",
+      "transcription": "baram"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "korean-travel",
+  "title": "Korean travel and directions",
+  "description": "The Korean words you need to get around, ask the way and catch a train.",
+  "language": "ko",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "여행",
+      "translation": "trip",
+      "transcription": "yeohaeng"
+    },
+    {
+      "original": "기차",
+      "translation": "train",
+      "transcription": "gicha"
+    },
+    {
+      "original": "버스",
+      "translation": "bus",
+      "transcription": "beoseu"
+    },
+    {
+      "original": "비행기",
+      "translation": "plane",
+      "transcription": "bihaenggi"
+    },
+    {
+      "original": "공항",
+      "translation": "airport",
+      "transcription": "gonghang"
+    },
+    {
+      "original": "역",
+      "translation": "railway station",
+      "transcription": "yeok"
+    },
+    {
+      "original": "표",
+      "translation": "ticket",
+      "transcription": "pyo"
+    },
+    {
+      "original": "여행 가방",
+      "translation": "suitcase",
+      "transcription": "yeohaeng gabang"
+    },
+    {
+      "original": "지도",
+      "translation": "map",
+      "transcription": "jido"
+    },
+    {
+      "original": "길",
+      "translation": "way",
+      "transcription": "gil"
+    },
+    {
+      "original": "거리",
+      "translation": "street",
+      "transcription": "geori"
+    },
+    {
+      "original": "왼쪽",
+      "translation": "left",
+      "transcription": "oenjjok"
+    },
+    {
+      "original": "오른쪽",
+      "translation": "right",
+      "transcription": "oreunjjok"
+    },
+    {
+      "original": "직진",
+      "translation": "straight ahead",
+      "transcription": "jikjin"
+    },
+    {
+      "original": "모퉁이",
+      "translation": "corner",
+      "transcription": "motungi"
+    },
+    {
+      "original": "광장",
+      "translation": "square",
+      "transcription": "gwangjang"
+    },
+    {
+      "original": "다리",
+      "translation": "bridge",
+      "transcription": "dari"
+    },
+    {
+      "original": "호텔",
+      "translation": "hotel",
+      "transcription": "hotel"
+    },
+    {
+      "original": "방",
+      "translation": "room",
+      "transcription": "bang"
+    },
+    {
+      "original": "열쇠",
+      "translation": "key",
+      "transcription": "yeolsoe"
+    },
+    {
+      "original": "국경",
+      "translation": "border",
+      "transcription": "gukgyeong"
+    },
+    {
+      "original": "여권",
+      "translation": "passport",
+      "transcription": "yeogwon"
+    },
+    {
+      "original": "바다",
+      "translation": "sea",
+      "transcription": "bada"
+    },
+    {
+      "original": "산",
+      "translation": "mountain",
+      "transcription": "san"
+    },
+    {
+      "original": "호수",
+      "translation": "lake",
+      "transcription": "hosu"
+    },
+    {
+      "original": "해변",
+      "translation": "beach",
+      "transcription": "haebyeon"
+    },
+    {
+      "original": "출발",
+      "translation": "departure",
+      "transcription": "chulbal"
+    },
+    {
+      "original": "도착",
+      "translation": "arrival",
+      "transcription": "dochak"
+    },
+    {
+      "original": "지연",
+      "translation": "delay",
+      "transcription": "jiyeon"
+    },
+    {
+      "original": "짐",
+      "translation": "luggage",
+      "transcription": "jim"
+    }
+  ]
+}

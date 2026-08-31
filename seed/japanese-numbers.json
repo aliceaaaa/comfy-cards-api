@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-numbers",
+  "title": "Japanese numbers",
+  "description": "Numbers in Japanese from zero to a thousand, with the words you count things by.",
+  "language": "ja",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "ゼロ",
+      "translation": "zero",
+      "transcription": "zero"
+    },
+    {
+      "original": "いち",
+      "translation": "one",
+      "transcription": "ichi"
+    },
+    {
+      "original": "に",
+      "translation": "two",
+      "transcription": "ni"
+    },
+    {
+      "original": "さん",
+      "translation": "three",
+      "transcription": "san"
+    },
+    {
+      "original": "よん",
+      "translation": "four",
+      "transcription": "yon"
+    },
+    {
+      "original": "ご",
+      "translation": "five",
+      "transcription": "go"
+    },
+    {
+      "original": "ろく",
+      "translation": "six",
+      "transcription": "roku"
+    },
+    {
+      "original": "なな",
+      "translation": "seven",
+      "transcription": "nana"
+    },
+    {
+      "original": "はち",
+      "translation": "eight",
+      "transcription": "hachi"
+    },
+    {
+      "original": "きゅう",
+      "translation": "nine",
+      "transcription": "kyuu"
+    },
+    {
+      "original": "じゅう",
+      "translation": "ten",
+      "transcription": "juu"
+    },
+    {
+      "original": "じゅういち",
+      "translation": "eleven",
+      "transcription": "juuichi"
+    },
+    {
+      "original": "じゅうに",
+      "translation": "twelve",
+      "transcription": "juuni"
+    },
+    {
+      "original": "にじゅう",
+      "translation": "twenty",
+      "transcription": "nijuu"
+    },
+    {
+      "original": "さんじゅう",
+      "translation": "thirty",
+      "transcription": "sanjuu"
+    },
+    {
+      "original": "よんじゅう",
+      "translation": "forty",
+      "transcription": "yonjuu"
+    },
+    {
+      "original": "ごじゅう",
+      "translation": "fifty",
+      "transcription": "gojuu"
+    },
+    {
+      "original": "ひゃく",
+      "translation": "hundred",
+      "transcription": "hyaku"
+    },
+    {
+      "original": "せん",
+      "translation": "thousand",
+      "transcription": "sen"
+    },
+    {
+      "original": "まん",
+      "translation": "ten thousand",
+      "transcription": "man"
+    },
+    {
+      "original": "ひゃくまん",
+      "translation": "million",
+      "transcription": "hyakuman"
+    },
+    {
+      "original": "かず",
+      "translation": "number",
+      "transcription": "kazu"
+    },
+    {
+      "original": "はんぶん",
+      "translation": "half",
+      "transcription": "hanbun"
+    },
+    {
+      "original": "ひとつ",
+      "translation": "one thing",
+      "transcription": "hitotsu"
+    },
+    {
+      "original": "ふたつ",
+      "translation": "two things",
+      "transcription": "futatsu"
+    },
+    {
+      "original": "みっつ",
+      "translation": "three things",
+      "transcription": "mittsu"
+    },
+    {
+      "original": "よっつ",
+      "translation": "four things",
+      "transcription": "yottsu"
+    },
+    {
+      "original": "いつつ",
+      "translation": "five things",
+      "transcription": "itsutsu"
+    },
+    {
+      "original": "ひとり",
+      "translation": "one person",
+      "transcription": "hitori"
+    },
+    {
+      "original": "ふたり",
+      "translation": "two people",
+      "transcription": "futari"
+    }
+  ]
+}

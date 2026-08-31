@@ -1,0 +1,129 @@
+{
+  "slug": "french-food",
+  "title": "French food and drink",
+  "description": "Everyday French words for food, drink and eating out.",
+  "language": "fr",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "la nourriture",
+      "translation": "food"
+    },
+    {
+      "original": "la boisson",
+      "translation": "drink"
+    },
+    {
+      "original": "le petit-déjeuner",
+      "translation": "breakfast"
+    },
+    {
+      "original": "le déjeuner",
+      "translation": "lunch"
+    },
+    {
+      "original": "le dîner",
+      "translation": "dinner"
+    },
+    {
+      "original": "la viande",
+      "translation": "meat"
+    },
+    {
+      "original": "le poisson",
+      "translation": "fish"
+    },
+    {
+      "original": "le légume",
+      "translation": "vegetable"
+    },
+    {
+      "original": "le fruit",
+      "translation": "fruit"
+    },
+    {
+      "original": "le fromage",
+      "translation": "cheese"
+    },
+    {
+      "original": "le beurre",
+      "translation": "butter"
+    },
+    {
+      "original": "un œuf",
+      "translation": "egg"
+    },
+    {
+      "original": "le riz",
+      "translation": "rice"
+    },
+    {
+      "original": "la pomme de terre",
+      "translation": "potato"
+    },
+    {
+      "original": "la tomate",
+      "translation": "tomato"
+    },
+    {
+      "original": "un oignon",
+      "translation": "onion"
+    },
+    {
+      "original": "la salade",
+      "translation": "salad"
+    },
+    {
+      "original": "la soupe",
+      "translation": "soup"
+    },
+    {
+      "original": "le sucre",
+      "translation": "sugar"
+    },
+    {
+      "original": "le sel",
+      "translation": "salt"
+    },
+    {
+      "original": "le poivre",
+      "translation": "pepper"
+    },
+    {
+      "original": "le jus",
+      "translation": "juice"
+    },
+    {
+      "original": "la bière",
+      "translation": "beer"
+    },
+    {
+      "original": "le vin",
+      "translation": "wine"
+    },
+    {
+      "original": "le gâteau",
+      "translation": "cake"
+    },
+    {
+      "original": "le chocolat",
+      "translation": "chocolate"
+    },
+    {
+      "original": "le restaurant",
+      "translation": "restaurant"
+    },
+    {
+      "original": "l'addition",
+      "translation": "bill"
+    },
+    {
+      "original": "l'assiette",
+      "translation": "plate"
+    },
+    {
+      "original": "la fourchette",
+      "translation": "fork"
+    }
+  ]
+}

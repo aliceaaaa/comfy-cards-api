@@ -1,0 +1,159 @@
+{
+  "slug": "korean-verbs",
+  "title": "Korean common verbs",
+  "description": "The Korean verbs you meet first, all in the infinitive.",
+  "language": "ko",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "가다",
+      "translation": "to go",
+      "transcription": "gada"
+    },
+    {
+      "original": "오다",
+      "translation": "to come",
+      "transcription": "oda"
+    },
+    {
+      "original": "하다",
+      "translation": "to do",
+      "transcription": "hada"
+    },
+    {
+      "original": "있다",
+      "translation": "to exist",
+      "transcription": "itda"
+    },
+    {
+      "original": "보다",
+      "translation": "to see",
+      "transcription": "boda"
+    },
+    {
+      "original": "듣다",
+      "translation": "to hear",
+      "transcription": "deutda"
+    },
+    {
+      "original": "말하다",
+      "translation": "to speak",
+      "transcription": "malhada"
+    },
+    {
+      "original": "먹다",
+      "translation": "to eat",
+      "transcription": "meokda"
+    },
+    {
+      "original": "마시다",
+      "translation": "to drink",
+      "transcription": "masida"
+    },
+    {
+      "original": "자다",
+      "translation": "to sleep",
+      "transcription": "jada"
+    },
+    {
+      "original": "읽다",
+      "translation": "to read",
+      "transcription": "ikda"
+    },
+    {
+      "original": "쓰다",
+      "translation": "to write",
+      "transcription": "sseuda"
+    },
+    {
+      "original": "배우다",
+      "translation": "to learn",
+      "transcription": "baeuda"
+    },
+    {
+      "original": "일하다",
+      "translation": "to work",
+      "transcription": "ilhada"
+    },
+    {
+      "original": "놀다",
+      "translation": "to play",
+      "transcription": "nolda"
+    },
+    {
+      "original": "사다",
+      "translation": "to buy",
+      "transcription": "sada"
+    },
+    {
+      "original": "주다",
+      "translation": "to give",
+      "transcription": "juda"
+    },
+    {
+      "original": "받다",
+      "translation": "to receive",
+      "transcription": "batda"
+    },
+    {
+      "original": "찾다",
+      "translation": "to find",
+      "transcription": "chatda"
+    },
+    {
+      "original": "운전하다",
+      "translation": "to drive",
+      "transcription": "unjeonhada"
+    },
+    {
+      "original": "달리다",
+      "translation": "to run",
+      "transcription": "dallida"
+    },
+    {
+      "original": "기다리다",
+      "translation": "to wait",
+      "transcription": "gidarida"
+    },
+    {
+      "original": "생각하다",
+      "translation": "to think",
+      "transcription": "saenggakhada"
+    },
+    {
+      "original": "알다",
+      "translation": "to know",
+      "transcription": "alda"
+    },
+    {
+      "original": "이해하다",
+      "translation": "to understand",
+      "transcription": "ihaehada"
+    },
+    {
+      "original": "돕다",
+      "translation": "to help",
+      "transcription": "dopda"
+    },
+    {
+      "original": "사랑하다",
+      "translation": "to love",
+      "transcription": "saranghada"
+    },
+    {
+      "original": "살다",
+      "translation": "to live",
+      "transcription": "salda"
+    },
+    {
+      "original": "만나다",
+      "translation": "to meet",
+      "transcription": "mannada"
+    },
+    {
+      "original": "열다",
+      "translation": "to open",
+      "transcription": "yeolda"
+    }
+  ]
+}

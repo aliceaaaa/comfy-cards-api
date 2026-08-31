@@ -1,0 +1,159 @@
+{
+  "slug": "korean",
+  "title": "Korean basics",
+  "description": "Everyday Korean words and phrases to start with.",
+  "language": "ko",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "안녕하세요",
+      "translation": "hello",
+      "transcription": "annyeonghaseyo"
+    },
+    {
+      "original": "좋은 아침",
+      "translation": "good morning",
+      "transcription": "joeun achim"
+    },
+    {
+      "original": "안녕히 가세요",
+      "translation": "goodbye",
+      "transcription": "annyeonghi gaseyo"
+    },
+    {
+      "original": "감사합니다",
+      "translation": "thank you",
+      "transcription": "gamsahamnida"
+    },
+    {
+      "original": "부탁합니다",
+      "translation": "please",
+      "transcription": "butakhamnida"
+    },
+    {
+      "original": "네",
+      "translation": "yes",
+      "transcription": "ne"
+    },
+    {
+      "original": "아니요",
+      "translation": "no",
+      "transcription": "aniyo"
+    },
+    {
+      "original": "죄송합니다",
+      "translation": "excuse me",
+      "transcription": "joesonghamnida"
+    },
+    {
+      "original": "남자",
+      "translation": "man",
+      "transcription": "namja"
+    },
+    {
+      "original": "여자",
+      "translation": "woman",
+      "transcription": "yeoja"
+    },
+    {
+      "original": "아이",
+      "translation": "child",
+      "transcription": "ai"
+    },
+    {
+      "original": "친구",
+      "translation": "friend",
+      "transcription": "chingu"
+    },
+    {
+      "original": "가족",
+      "translation": "family",
+      "transcription": "gajok"
+    },
+    {
+      "original": "집",
+      "translation": "house",
+      "transcription": "jip"
+    },
+    {
+      "original": "도시",
+      "translation": "city",
+      "transcription": "dosi"
+    },
+    {
+      "original": "물",
+      "translation": "water",
+      "transcription": "mul"
+    },
+    {
+      "original": "빵",
+      "translation": "bread",
+      "transcription": "ppang"
+    },
+    {
+      "original": "사과",
+      "translation": "apple",
+      "transcription": "sagwa"
+    },
+    {
+      "original": "우유",
+      "translation": "milk",
+      "transcription": "uyu"
+    },
+    {
+      "original": "커피",
+      "translation": "coffee",
+      "transcription": "keopi"
+    },
+    {
+      "original": "차",
+      "translation": "tea",
+      "transcription": "cha"
+    },
+    {
+      "original": "책",
+      "translation": "book",
+      "transcription": "chaek"
+    },
+    {
+      "original": "학교",
+      "translation": "school",
+      "transcription": "hakgyo"
+    },
+    {
+      "original": "일",
+      "translation": "work",
+      "transcription": "il"
+    },
+    {
+      "original": "날",
+      "translation": "day",
+      "transcription": "nal"
+    },
+    {
+      "original": "밤",
+      "translation": "night",
+      "transcription": "bam"
+    },
+    {
+      "original": "시간",
+      "translation": "time",
+      "transcription": "sigan"
+    },
+    {
+      "original": "년",
+      "translation": "year",
+      "transcription": "nyeon"
+    },
+    {
+      "original": "개",
+      "translation": "dog",
+      "transcription": "gae"
+    },
+    {
+      "original": "고양이",
+      "translation": "cat",
+      "transcription": "goyangi"
+    }
+  ]
+}

@@ -149,6 +149,33 @@ export async function seed(): Promise<void> {
     await upsertCatalogDeck(ownerId, deck);
     console.log(`catalog deck ready: ${deck.slug} (${deck.cards.length} cards)`);
   }
+
+  await warnAboutOrphanSlugs(decks);
+}
+
+async function warnAboutOrphanSlugs(decks: SeedDeck[]): Promise<void> {
+  const known = decks.map((deck) => {
+    return deck.slug;
+  });
+
+  const orphans = await pool.query<{ slug: string }>(
+    `SELECT slug FROM decks
+     WHERE is_public AND slug IS NOT NULL AND NOT (slug = ANY ($1::text[]))
+     ORDER BY slug`,
+    [known],
+  );
+
+  if (orphans.rowCount === 0) {
+    return;
+  }
+
+  const slugs = orphans.rows.map((row) => {
+    return row.slug;
+  });
+
+  console.warn(
+    `public decks with no seed file, left untouched: ${slugs.join(', ')}. A slug is a public address: keep it or the indexed page breaks.`,
+  );
 }
 
 const isDirectRun =

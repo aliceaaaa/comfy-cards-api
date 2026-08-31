@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-family",
+  "title": "Japanese family and people",
+  "description": "Japanese words for relatives, friends and the people around you.",
+  "language": "ja",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "はは",
+      "translation": "mother",
+      "transcription": "haha"
+    },
+    {
+      "original": "ちち",
+      "translation": "father",
+      "transcription": "chichi"
+    },
+    {
+      "original": "りょうしん",
+      "translation": "parents",
+      "transcription": "ryoushin"
+    },
+    {
+      "original": "むすこ",
+      "translation": "son",
+      "transcription": "musuko"
+    },
+    {
+      "original": "むすめ",
+      "translation": "daughter",
+      "transcription": "musume"
+    },
+    {
+      "original": "あに",
+      "translation": "older brother",
+      "transcription": "ani"
+    },
+    {
+      "original": "あね",
+      "translation": "older sister",
+      "transcription": "ane"
+    },
+    {
+      "original": "おとうと",
+      "translation": "younger brother",
+      "transcription": "otouto"
+    },
+    {
+      "original": "いもうと",
+      "translation": "younger sister",
+      "transcription": "imouto"
+    },
+    {
+      "original": "そぼ",
+      "translation": "grandmother",
+      "transcription": "sobo"
+    },
+    {
+      "original": "そふ",
+      "translation": "grandfather",
+      "transcription": "sofu"
+    },
+    {
+      "original": "おじ",
+      "translation": "uncle",
+      "transcription": "oji"
+    },
+    {
+      "original": "おば",
+      "translation": "aunt",
+      "transcription": "oba"
+    },
+    {
+      "original": "いとこ",
+      "translation": "cousin",
+      "transcription": "itoko"
+    },
+    {
+      "original": "あかちゃん",
+      "translation": "baby",
+      "transcription": "akachan"
+    },
+    {
+      "original": "おとこのこ",
+      "translation": "boy",
+      "transcription": "otokonoko"
+    },
+    {
+      "original": "おんなのこ",
+      "translation": "girl",
+      "transcription": "onnanoko"
+    },
+    {
+      "original": "ひとびと",
+      "translation": "people",
+      "transcription": "hitobito"
+    },
+    {
+      "original": "ひと",
+      "translation": "person",
+      "transcription": "hito"
+    },
+    {
+      "original": "となりのひと",
+      "translation": "neighbour",
+      "transcription": "tonarinohito"
+    },
+    {
+      "original": "おきゃくさん",
+      "translation": "guest",
+      "transcription": "okyakusan"
+    },
+    {
+      "original": "つま",
+      "translation": "wife",
+      "transcription": "tsuma"
+    },
+    {
+      "original": "おっと",
+      "translation": "husband",
+      "transcription": "otto"
+    },
+    {
+      "original": "けっこん",
+      "translation": "wedding",
+      "transcription": "kekkon"
+    },
+    {
+      "original": "たんじょうび",
+      "translation": "birthday",
+      "transcription": "tanjoubi"
+    },
+    {
+      "original": "なまえ",
+      "translation": "name",
+      "transcription": "namae"
+    },
+    {
+      "original": "ねんれい",
+      "translation": "age",
+      "transcription": "nenrei"
+    },
+    {
+      "original": "あい",
+      "translation": "love",
+      "transcription": "ai"
+    },
+    {
+      "original": "ゆうじょう",
+      "translation": "friendship",
+      "transcription": "yuujou"
+    },
+    {
+      "original": "どうりょう",
+      "translation": "colleague",
+      "transcription": "douryou"
+    }
+  ]
+}

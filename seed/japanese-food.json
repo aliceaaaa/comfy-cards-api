@@ -1,0 +1,159 @@
+{
+  "slug": "japanese-food",
+  "title": "Japanese food and drink",
+  "description": "Everyday Japanese words for food, drink and eating out.",
+  "language": "ja",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "たべもの",
+      "translation": "food",
+      "transcription": "tabemono"
+    },
+    {
+      "original": "のみもの",
+      "translation": "drink",
+      "transcription": "nomimono"
+    },
+    {
+      "original": "あさごはん",
+      "translation": "breakfast",
+      "transcription": "asagohan"
+    },
+    {
+      "original": "ひるごはん",
+      "translation": "lunch",
+      "transcription": "hirugohan"
+    },
+    {
+      "original": "ばんごはん",
+      "translation": "dinner",
+      "transcription": "bangohan"
+    },
+    {
+      "original": "にく",
+      "translation": "meat",
+      "transcription": "niku"
+    },
+    {
+      "original": "さかな",
+      "translation": "fish",
+      "transcription": "sakana"
+    },
+    {
+      "original": "やさい",
+      "translation": "vegetable",
+      "transcription": "yasai"
+    },
+    {
+      "original": "くだもの",
+      "translation": "fruit",
+      "transcription": "kudamono"
+    },
+    {
+      "original": "チーズ",
+      "translation": "cheese",
+      "transcription": "chiizu"
+    },
+    {
+      "original": "バター",
+      "translation": "butter",
+      "transcription": "bataa"
+    },
+    {
+      "original": "たまご",
+      "translation": "egg",
+      "transcription": "tamago"
+    },
+    {
+      "original": "ごはん",
+      "translation": "rice",
+      "transcription": "gohan"
+    },
+    {
+      "original": "じゃがいも",
+      "translation": "potato",
+      "transcription": "jagaimo"
+    },
+    {
+      "original": "トマト",
+      "translation": "tomato",
+      "transcription": "tomato"
+    },
+    {
+      "original": "たまねぎ",
+      "translation": "onion",
+      "transcription": "tamanegi"
+    },
+    {
+      "original": "サラダ",
+      "translation": "salad",
+      "transcription": "sarada"
+    },
+    {
+      "original": "スープ",
+      "translation": "soup",
+      "transcription": "suupu"
+    },
+    {
+      "original": "さとう",
+      "translation": "sugar",
+      "transcription": "satou"
+    },
+    {
+      "original": "しお",
+      "translation": "salt",
+      "transcription": "shio"
+    },
+    {
+      "original": "こしょう",
+      "translation": "pepper",
+      "transcription": "koshou"
+    },
+    {
+      "original": "ジュース",
+      "translation": "juice",
+      "transcription": "juusu"
+    },
+    {
+      "original": "ビール",
+      "translation": "beer",
+      "transcription": "biiru"
+    },
+    {
+      "original": "ワイン",
+      "translation": "wine",
+      "transcription": "wain"
+    },
+    {
+      "original": "ケーキ",
+      "translation": "cake",
+      "transcription": "keeki"
+    },
+    {
+      "original": "チョコレート",
+      "translation": "chocolate",
+      "transcription": "chokoreeto"
+    },
+    {
+      "original": "レストラン",
+      "translation": "restaurant",
+      "transcription": "resutoran"
+    },
+    {
+      "original": "おかいけい",
+      "translation": "bill",
+      "transcription": "okaikei"
+    },
+    {
+      "original": "おさら",
+      "translation": "plate",
+      "transcription": "osara"
+    },
+    {
+      "original": "フォーク",
+      "translation": "fork",
+      "transcription": "fooku"
+    }
+  ]
+}

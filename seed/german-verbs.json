@@ -1,0 +1,129 @@
+{
+  "slug": "german-verbs",
+  "title": "German common verbs",
+  "description": "The German verbs you meet first, all in the infinitive.",
+  "language": "de",
+  "topic": "verbs",
+  "cards": [
+    {
+      "original": "sein",
+      "translation": "to be"
+    },
+    {
+      "original": "haben",
+      "translation": "to have"
+    },
+    {
+      "original": "machen",
+      "translation": "to do"
+    },
+    {
+      "original": "gehen",
+      "translation": "to go"
+    },
+    {
+      "original": "kommen",
+      "translation": "to come"
+    },
+    {
+      "original": "sehen",
+      "translation": "to see"
+    },
+    {
+      "original": "hören",
+      "translation": "to hear"
+    },
+    {
+      "original": "sprechen",
+      "translation": "to speak"
+    },
+    {
+      "original": "sagen",
+      "translation": "to say"
+    },
+    {
+      "original": "essen",
+      "translation": "to eat"
+    },
+    {
+      "original": "trinken",
+      "translation": "to drink"
+    },
+    {
+      "original": "schlafen",
+      "translation": "to sleep"
+    },
+    {
+      "original": "lesen",
+      "translation": "to read"
+    },
+    {
+      "original": "schreiben",
+      "translation": "to write"
+    },
+    {
+      "original": "lernen",
+      "translation": "to learn"
+    },
+    {
+      "original": "arbeiten",
+      "translation": "to work"
+    },
+    {
+      "original": "spielen",
+      "translation": "to play"
+    },
+    {
+      "original": "kaufen",
+      "translation": "to buy"
+    },
+    {
+      "original": "geben",
+      "translation": "to give"
+    },
+    {
+      "original": "nehmen",
+      "translation": "to take"
+    },
+    {
+      "original": "finden",
+      "translation": "to find"
+    },
+    {
+      "original": "fahren",
+      "translation": "to drive"
+    },
+    {
+      "original": "laufen",
+      "translation": "to run"
+    },
+    {
+      "original": "warten",
+      "translation": "to wait"
+    },
+    {
+      "original": "denken",
+      "translation": "to think"
+    },
+    {
+      "original": "wissen",
+      "translation": "to know"
+    },
+    {
+      "original": "verstehen",
+      "translation": "to understand"
+    },
+    {
+      "original": "helfen",
+      "translation": "to help"
+    },
+    {
+      "original": "lieben",
+      "translation": "to love"
+    },
+    {
+      "original": "leben",
+      "translation": "to live"
+    }
+  ]
+}

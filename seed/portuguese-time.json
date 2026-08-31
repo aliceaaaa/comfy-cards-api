@@ -1,0 +1,129 @@
+{
+  "slug": "portuguese-time",
+  "title": "Portuguese time and weather",
+  "description": "Portuguese words for days, months, the clock and the weather.",
+  "language": "pt",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "a hora",
+      "translation": "hour"
+    },
+    {
+      "original": "o minuto",
+      "translation": "minute"
+    },
+    {
+      "original": "o segundo",
+      "translation": "second"
+    },
+    {
+      "original": "a semana",
+      "translation": "week"
+    },
+    {
+      "original": "o mês",
+      "translation": "month"
+    },
+    {
+      "original": "a manhã",
+      "translation": "morning"
+    },
+    {
+      "original": "o meio-dia",
+      "translation": "midday"
+    },
+    {
+      "original": "a tarde",
+      "translation": "afternoon"
+    },
+    {
+      "original": "hoje",
+      "translation": "today"
+    },
+    {
+      "original": "amanhã",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "ontem",
+      "translation": "yesterday"
+    },
+    {
+      "original": "agora",
+      "translation": "now"
+    },
+    {
+      "original": "cedo",
+      "translation": "early"
+    },
+    {
+      "original": "atrasado",
+      "translation": "late"
+    },
+    {
+      "original": "segunda-feira",
+      "translation": "Monday"
+    },
+    {
+      "original": "terça-feira",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "quarta-feira",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "quinta-feira",
+      "translation": "Thursday"
+    },
+    {
+      "original": "sexta-feira",
+      "translation": "Friday"
+    },
+    {
+      "original": "o sábado",
+      "translation": "Saturday"
+    },
+    {
+      "original": "o domingo",
+      "translation": "Sunday"
+    },
+    {
+      "original": "a primavera",
+      "translation": "spring"
+    },
+    {
+      "original": "o verão",
+      "translation": "summer"
+    },
+    {
+      "original": "o outono",
+      "translation": "autumn"
+    },
+    {
+      "original": "o inverno",
+      "translation": "winter"
+    },
+    {
+      "original": "o clima",
+      "translation": "weather"
+    },
+    {
+      "original": "o sol",
+      "translation": "sun"
+    },
+    {
+      "original": "a chuva",
+      "translation": "rain"
+    },
+    {
+      "original": "a neve",
+      "translation": "snow"
+    },
+    {
+      "original": "o vento",
+      "translation": "wind"
+    }
+  ]
+}

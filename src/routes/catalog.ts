@@ -1,6 +1,6 @@
 import type { FastifyInstance } from 'fastify';
 import { z } from 'zod';
-import { copyCatalogDeck, getCatalogDeck, listCatalog } from '../db/catalog.js';
+import { copyCatalogDeck, exportCatalog, getCatalogDeck, listCatalog } from '../db/catalog.js';
 import { notFound } from '../lib/http-error.js';
 import { parseInput } from '../lib/validate.js';
 
@@ -23,7 +23,7 @@ const catalogQuerySchema = z.object({
   language: optionalText(20),
   topic: optionalText(40),
   q: optionalText(100),
-  limit: z.coerce.number().int().positive().max(100).default(50),
+  limit: z.coerce.number().int().positive().max(500).default(50),
   offset: z.coerce.number().int().min(0).default(0),
 });
 
@@ -36,6 +36,10 @@ export async function catalogRoutes(app: FastifyInstance): Promise<void> {
     const filters = parseInput(catalogQuerySchema, request.query);
 
     return listCatalog(filters);
+  });
+
+  app.get('/catalog/export', async () => {
+    return { decks: await exportCatalog() };
   });
 
   app.get('/catalog/:slug', async (request) => {

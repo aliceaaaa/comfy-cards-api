@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-family",
+  "title": "Spanish family and people",
+  "description": "Spanish words for relatives, friends and the people around you.",
+  "language": "es",
+  "topic": "family",
+  "cards": [
+    {
+      "original": "la madre",
+      "translation": "mother"
+    },
+    {
+      "original": "el padre",
+      "translation": "father"
+    },
+    {
+      "original": "los padres",
+      "translation": "parents"
+    },
+    {
+      "original": "el hijo",
+      "translation": "son"
+    },
+    {
+      "original": "la hija",
+      "translation": "daughter"
+    },
+    {
+      "original": "el hermano",
+      "translation": "brother"
+    },
+    {
+      "original": "la hermana",
+      "translation": "sister"
+    },
+    {
+      "original": "la abuela",
+      "translation": "grandmother"
+    },
+    {
+      "original": "el abuelo",
+      "translation": "grandfather"
+    },
+    {
+      "original": "el tío",
+      "translation": "uncle"
+    },
+    {
+      "original": "la tía",
+      "translation": "aunt"
+    },
+    {
+      "original": "el primo",
+      "translation": "cousin"
+    },
+    {
+      "original": "el bebé",
+      "translation": "baby"
+    },
+    {
+      "original": "el chico",
+      "translation": "boy"
+    },
+    {
+      "original": "la chica",
+      "translation": "girl"
+    },
+    {
+      "original": "la gente",
+      "translation": "people"
+    },
+    {
+      "original": "la persona",
+      "translation": "person"
+    },
+    {
+      "original": "el vecino",
+      "translation": "neighbour"
+    },
+    {
+      "original": "el invitado",
+      "translation": "guest"
+    },
+    {
+      "original": "la esposa",
+      "translation": "wife"
+    },
+    {
+      "original": "el esposo",
+      "translation": "husband"
+    },
+    {
+      "original": "la boda",
+      "translation": "wedding"
+    },
+    {
+      "original": "el cumpleaños",
+      "translation": "birthday"
+    },
+    {
+      "original": "el nombre",
+      "translation": "name"
+    },
+    {
+      "original": "la edad",
+      "translation": "age"
+    },
+    {
+      "original": "el amor",
+      "translation": "love"
+    },
+    {
+      "original": "la amistad",
+      "translation": "friendship"
+    },
+    {
+      "original": "el compañero",
+      "translation": "colleague"
+    },
+    {
+      "original": "el grupo",
+      "translation": "group"
+    },
+    {
+      "original": "el nieto",
+      "translation": "grandson"
+    }
+  ]
+}

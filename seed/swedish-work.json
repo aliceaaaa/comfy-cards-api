@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-work",
+  "title": "Swedish work and study",
+  "description": "Swedish words for the office, the classroom and the things you do there.",
+  "language": "sv",
+  "topic": "work",
+  "cards": [
+    {
+      "original": "ett kontor",
+      "translation": "office"
+    },
+    {
+      "original": "en chef",
+      "translation": "boss"
+    },
+    {
+      "original": "ett yrke",
+      "translation": "profession"
+    },
+    {
+      "original": "ett företag",
+      "translation": "company"
+    },
+    {
+      "original": "pengar",
+      "translation": "money"
+    },
+    {
+      "original": "en lön",
+      "translation": "salary"
+    },
+    {
+      "original": "en uppgift",
+      "translation": "task"
+    },
+    {
+      "original": "ett projekt",
+      "translation": "project"
+    },
+    {
+      "original": "ett möte",
+      "translation": "meeting"
+    },
+    {
+      "original": "en dator",
+      "translation": "computer"
+    },
+    {
+      "original": "en skärm",
+      "translation": "screen"
+    },
+    {
+      "original": "ett tangentbord",
+      "translation": "keyboard"
+    },
+    {
+      "original": "en mus",
+      "translation": "mouse"
+    },
+    {
+      "original": "ett papper",
+      "translation": "paper"
+    },
+    {
+      "original": "en penna",
+      "translation": "pen"
+    },
+    {
+      "original": "en blyertspenna",
+      "translation": "pencil"
+    },
+    {
+      "original": "ett anteckningsblock",
+      "translation": "notebook"
+    },
+    {
+      "original": "ett universitet",
+      "translation": "university"
+    },
+    {
+      "original": "en student",
+      "translation": "student"
+    },
+    {
+      "original": "en lärare",
+      "translation": "teacher"
+    },
+    {
+      "original": "ett prov",
+      "translation": "exam"
+    },
+    {
+      "original": "ett betyg",
+      "translation": "grade"
+    },
+    {
+      "original": "en läxa",
+      "translation": "homework"
+    },
+    {
+      "original": "ett bibliotek",
+      "translation": "library"
+    },
+    {
+      "original": "en ordbok",
+      "translation": "dictionary"
+    },
+    {
+      "original": "ett språk",
+      "translation": "language"
+    },
+    {
+      "original": "en fråga",
+      "translation": "question"
+    },
+    {
+      "original": "ett svar",
+      "translation": "answer"
+    },
+    {
+      "original": "en kurs",
+      "translation": "course"
+    },
+    {
+      "original": "kunskap",
+      "translation": "knowledge"
+    }
+  ]
+}

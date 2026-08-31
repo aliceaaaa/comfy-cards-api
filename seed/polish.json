@@ -1,0 +1,129 @@
+{
+  "slug": "polish",
+  "title": "Polish basics",
+  "description": "Everyday Polish words and phrases to start with.",
+  "language": "pl",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "cześć",
+      "translation": "hello"
+    },
+    {
+      "original": "dzień dobry",
+      "translation": "good morning"
+    },
+    {
+      "original": "dobry wieczór",
+      "translation": "good evening"
+    },
+    {
+      "original": "dziękuję",
+      "translation": "thank you"
+    },
+    {
+      "original": "proszę",
+      "translation": "please"
+    },
+    {
+      "original": "tak",
+      "translation": "yes"
+    },
+    {
+      "original": "nie",
+      "translation": "no"
+    },
+    {
+      "original": "do widzenia",
+      "translation": "goodbye"
+    },
+    {
+      "original": "przepraszam",
+      "translation": "excuse me"
+    },
+    {
+      "original": "mężczyzna",
+      "translation": "man"
+    },
+    {
+      "original": "kobieta",
+      "translation": "woman"
+    },
+    {
+      "original": "dziecko",
+      "translation": "child"
+    },
+    {
+      "original": "przyjaciel",
+      "translation": "friend"
+    },
+    {
+      "original": "rodzina",
+      "translation": "family"
+    },
+    {
+      "original": "dom",
+      "translation": "house"
+    },
+    {
+      "original": "miasto",
+      "translation": "city"
+    },
+    {
+      "original": "woda",
+      "translation": "water"
+    },
+    {
+      "original": "chleb",
+      "translation": "bread"
+    },
+    {
+      "original": "jabłko",
+      "translation": "apple"
+    },
+    {
+      "original": "mleko",
+      "translation": "milk"
+    },
+    {
+      "original": "kawa",
+      "translation": "coffee"
+    },
+    {
+      "original": "herbata",
+      "translation": "tea"
+    },
+    {
+      "original": "książka",
+      "translation": "book"
+    },
+    {
+      "original": "szkoła",
+      "translation": "school"
+    },
+    {
+      "original": "praca",
+      "translation": "work"
+    },
+    {
+      "original": "dzień",
+      "translation": "day"
+    },
+    {
+      "original": "noc",
+      "translation": "night"
+    },
+    {
+      "original": "czas",
+      "translation": "time"
+    },
+    {
+      "original": "rok",
+      "translation": "year"
+    },
+    {
+      "original": "pies",
+      "translation": "dog"
+    }
+  ]
+}

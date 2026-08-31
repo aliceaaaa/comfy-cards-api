@@ -1,0 +1,129 @@
+{
+  "slug": "swedish-food",
+  "title": "Swedish food and drink",
+  "description": "Everyday Swedish words for food, drink and eating out.",
+  "language": "sv",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "mat",
+      "translation": "food"
+    },
+    {
+      "original": "en dryck",
+      "translation": "drink"
+    },
+    {
+      "original": "en frukost",
+      "translation": "breakfast"
+    },
+    {
+      "original": "en lunch",
+      "translation": "lunch"
+    },
+    {
+      "original": "en middag",
+      "translation": "dinner"
+    },
+    {
+      "original": "kött",
+      "translation": "meat"
+    },
+    {
+      "original": "fisk",
+      "translation": "fish"
+    },
+    {
+      "original": "en grönsak",
+      "translation": "vegetable"
+    },
+    {
+      "original": "frukt",
+      "translation": "fruit"
+    },
+    {
+      "original": "ost",
+      "translation": "cheese"
+    },
+    {
+      "original": "smör",
+      "translation": "butter"
+    },
+    {
+      "original": "ett ägg",
+      "translation": "egg"
+    },
+    {
+      "original": "ris",
+      "translation": "rice"
+    },
+    {
+      "original": "en potatis",
+      "translation": "potato"
+    },
+    {
+      "original": "en tomat",
+      "translation": "tomato"
+    },
+    {
+      "original": "en lök",
+      "translation": "onion"
+    },
+    {
+      "original": "en sallad",
+      "translation": "salad"
+    },
+    {
+      "original": "en soppa",
+      "translation": "soup"
+    },
+    {
+      "original": "socker",
+      "translation": "sugar"
+    },
+    {
+      "original": "salt",
+      "translation": "salt"
+    },
+    {
+      "original": "peppar",
+      "translation": "pepper"
+    },
+    {
+      "original": "juice",
+      "translation": "juice"
+    },
+    {
+      "original": "öl",
+      "translation": "beer"
+    },
+    {
+      "original": "vin",
+      "translation": "wine"
+    },
+    {
+      "original": "en tårta",
+      "translation": "cake"
+    },
+    {
+      "original": "choklad",
+      "translation": "chocolate"
+    },
+    {
+      "original": "en restaurang",
+      "translation": "restaurant"
+    },
+    {
+      "original": "en nota",
+      "translation": "bill"
+    },
+    {
+      "original": "en tallrik",
+      "translation": "plate"
+    },
+    {
+      "original": "en gaffel",
+      "translation": "fork"
+    }
+  ]
+}

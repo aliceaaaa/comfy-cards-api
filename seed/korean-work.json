@@ -1,0 +1,159 @@
+{
+  "slug": "korean-work",
+  "title": "Korean work and study",
+  "description": "Korean words for the office, the classroom and the things you do there.",
+  "language": "ko",
+  "topic": "work",
+  "cards": [
+    {
+      "original": "사무실",
+      "translation": "office",
+      "transcription": "samusil"
+    },
+    {
+      "original": "상사",
+      "translation": "boss",
+      "transcription": "sangsa"
+    },
+    {
+      "original": "직업",
+      "translation": "profession",
+      "transcription": "jigeop"
+    },
+    {
+      "original": "회사",
+      "translation": "company",
+      "transcription": "hoesa"
+    },
+    {
+      "original": "돈",
+      "translation": "money",
+      "transcription": "don"
+    },
+    {
+      "original": "월급",
+      "translation": "salary",
+      "transcription": "wolgeup"
+    },
+    {
+      "original": "과제",
+      "translation": "task",
+      "transcription": "gwaje"
+    },
+    {
+      "original": "프로젝트",
+      "translation": "project",
+      "transcription": "peurojekteu"
+    },
+    {
+      "original": "회의",
+      "translation": "meeting",
+      "transcription": "hoeui"
+    },
+    {
+      "original": "컴퓨터",
+      "translation": "computer",
+      "transcription": "keompyuteo"
+    },
+    {
+      "original": "화면",
+      "translation": "screen",
+      "transcription": "hwamyeon"
+    },
+    {
+      "original": "키보드",
+      "translation": "keyboard",
+      "transcription": "kibodeu"
+    },
+    {
+      "original": "마우스",
+      "translation": "mouse",
+      "transcription": "mauseu"
+    },
+    {
+      "original": "종이",
+      "translation": "paper",
+      "transcription": "jongi"
+    },
+    {
+      "original": "펜",
+      "translation": "pen",
+      "transcription": "pen"
+    },
+    {
+      "original": "연필",
+      "translation": "pencil",
+      "transcription": "yeonpil"
+    },
+    {
+      "original": "공책",
+      "translation": "notebook",
+      "transcription": "gongchaek"
+    },
+    {
+      "original": "대학교",
+      "translation": "university",
+      "transcription": "daehakgyo"
+    },
+    {
+      "original": "학생",
+      "translation": "student",
+      "transcription": "haksaeng"
+    },
+    {
+      "original": "선생님",
+      "translation": "teacher",
+      "transcription": "seonsaengnim"
+    },
+    {
+      "original": "시험",
+      "translation": "exam",
+      "transcription": "siheom"
+    },
+    {
+      "original": "성적",
+      "translation": "grade",
+      "transcription": "seongjeok"
+    },
+    {
+      "original": "숙제",
+      "translation": "homework",
+      "transcription": "sukje"
+    },
+    {
+      "original": "도서관",
+      "translation": "library",
+      "transcription": "doseogwan"
+    },
+    {
+      "original": "사전",
+      "translation": "dictionary",
+      "transcription": "sajeon"
+    },
+    {
+      "original": "언어",
+      "translation": "language",
+      "transcription": "eoneo"
+    },
+    {
+      "original": "질문",
+      "translation": "question",
+      "transcription": "jilmun"
+    },
+    {
+      "original": "대답",
+      "translation": "answer",
+      "transcription": "daedap"
+    },
+    {
+      "original": "수업",
+      "translation": "class",
+      "transcription": "sueop"
+    },
+    {
+      "original": "지식",
+      "translation": "knowledge",
+      "transcription": "jisik"
+    }
+  ]
+}

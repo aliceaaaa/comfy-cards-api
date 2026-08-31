@@ -1,0 +1,159 @@
+{
+  "slug": "korean-health",
+  "title": "Korean body and health",
+  "description": "Korean words for the body, feeling unwell and going to the doctor.",
+  "language": "ko",
+  "topic": "health",
+  "cards": [
+    {
+      "original": "몸",
+      "translation": "body",
+      "transcription": "mom"
+    },
+    {
+      "original": "머리",
+      "translation": "head",
+      "transcription": "meori"
+    },
+    {
+      "original": "눈",
+      "translation": "eye",
+      "transcription": "nun"
+    },
+    {
+      "original": "귀",
+      "translation": "ear",
+      "transcription": "gwi"
+    },
+    {
+      "original": "코",
+      "translation": "nose",
+      "transcription": "ko"
+    },
+    {
+      "original": "입",
+      "translation": "mouth",
+      "transcription": "ip"
+    },
+    {
+      "original": "이",
+      "translation": "tooth",
+      "transcription": "i"
+    },
+    {
+      "original": "머리카락",
+      "translation": "hair",
+      "transcription": "meorikarak"
+    },
+    {
+      "original": "목",
+      "translation": "neck",
+      "transcription": "mok"
+    },
+    {
+      "original": "어깨",
+      "translation": "shoulder",
+      "transcription": "eokkae"
+    },
+    {
+      "original": "팔",
+      "translation": "arm",
+      "transcription": "pal"
+    },
+    {
+      "original": "손",
+      "translation": "hand",
+      "transcription": "son"
+    },
+    {
+      "original": "손가락",
+      "translation": "finger",
+      "transcription": "sonkarak"
+    },
+    {
+      "original": "발",
+      "translation": "foot",
+      "transcription": "bal"
+    },
+    {
+      "original": "무릎",
+      "translation": "knee",
+      "transcription": "mureup"
+    },
+    {
+      "original": "심장",
+      "translation": "heart",
+      "transcription": "simjang"
+    },
+    {
+      "original": "등",
+      "translation": "back",
+      "transcription": "deung"
+    },
+    {
+      "original": "배",
+      "translation": "belly",
+      "transcription": "bae"
+    },
+    {
+      "original": "피부",
+      "translation": "skin",
+      "transcription": "pibu"
+    },
+    {
+      "original": "피",
+      "translation": "blood",
+      "transcription": "pi"
+    },
+    {
+      "original": "의사",
+      "translation": "doctor",
+      "transcription": "uisa"
+    },
+    {
+      "original": "간호사",
+      "translation": "nurse",
+      "transcription": "ganhosa"
+    },
+    {
+      "original": "병원",
+      "translation": "hospital",
+      "transcription": "byeongwon"
+    },
+    {
+      "original": "약국",
+      "translation": "pharmacy",
+      "transcription": "yakguk"
+    },
+    {
+      "original": "약",
+      "translation": "medicine",
+      "transcription": "yak"
+    },
+    {
+      "original": "병",
+      "translation": "illness",
+      "transcription": "byeong"
+    },
+    {
+      "original": "고열",
+      "translation": "high fever",
+      "transcription": "goyeol"
+    },
+    {
+      "original": "통증",
+      "translation": "pain",
+      "transcription": "tongjeung"
+    },
+    {
+      "original": "감기",
+      "translation": "a cold",
+      "transcription": "gamgi"
+    },
+    {
+      "original": "건강",
+      "translation": "health",
+      "transcription": "geongang"
+    }
+  ]
+}

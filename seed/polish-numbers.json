@@ -1,0 +1,129 @@
+{
+  "slug": "polish-numbers",
+  "title": "Polish numbers",
+  "description": "Numbers in Polish from zero to a thousand, with the words you count things by.",
+  "language": "pl",
+  "topic": "numbers",
+  "cards": [
+    {
+      "original": "zero",
+      "translation": "zero"
+    },
+    {
+      "original": "jeden",
+      "translation": "one"
+    },
+    {
+      "original": "dwa",
+      "translation": "two"
+    },
+    {
+      "original": "trzy",
+      "translation": "three"
+    },
+    {
+      "original": "cztery",
+      "translation": "four"
+    },
+    {
+      "original": "pięć",
+      "translation": "five"
+    },
+    {
+      "original": "sześć",
+      "translation": "six"
+    },
+    {
+      "original": "siedem",
+      "translation": "seven"
+    },
+    {
+      "original": "osiem",
+      "translation": "eight"
+    },
+    {
+      "original": "dziewięć",
+      "translation": "nine"
+    },
+    {
+      "original": "dziesięć",
+      "translation": "ten"
+    },
+    {
+      "original": "jedenaście",
+      "translation": "eleven"
+    },
+    {
+      "original": "dwanaście",
+      "translation": "twelve"
+    },
+    {
+      "original": "trzynaście",
+      "translation": "thirteen"
+    },
+    {
+      "original": "czternaście",
+      "translation": "fourteen"
+    },
+    {
+      "original": "piętnaście",
+      "translation": "fifteen"
+    },
+    {
+      "original": "szesnaście",
+      "translation": "sixteen"
+    },
+    {
+      "original": "siedemnaście",
+      "translation": "seventeen"
+    },
+    {
+      "original": "osiemnaście",
+      "translation": "eighteen"
+    },
+    {
+      "original": "dziewiętnaście",
+      "translation": "nineteen"
+    },
+    {
+      "original": "dwadzieścia",
+      "translation": "twenty"
+    },
+    {
+      "original": "trzydzieści",
+      "translation": "thirty"
+    },
+    {
+      "original": "czterdzieści",
+      "translation": "forty"
+    },
+    {
+      "original": "pięćdziesiąt",
+      "translation": "fifty"
+    },
+    {
+      "original": "sto",
+      "translation": "hundred"
+    },
+    {
+      "original": "tysiąc",
+      "translation": "thousand"
+    },
+    {
+      "original": "liczba",
+      "translation": "number"
+    },
+    {
+      "original": "połowa",
+      "translation": "half"
+    },
+    {
+      "original": "tuzin",
+      "translation": "dozen"
+    },
+    {
+      "original": "para",
+      "translation": "pair"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-work",
+  "title": "Spanish work and study",
+  "description": "Spanish words for the office, the classroom and the things you do there.",
+  "language": "es",
+  "topic": "work",
+  "cards": [
+    {
+      "original": "la oficina",
+      "translation": "office"
+    },
+    {
+      "original": "el jefe",
+      "translation": "boss"
+    },
+    {
+      "original": "la profesión",
+      "translation": "profession"
+    },
+    {
+      "original": "la empresa",
+      "translation": "company"
+    },
+    {
+      "original": "el dinero",
+      "translation": "money"
+    },
+    {
+      "original": "el sueldo",
+      "translation": "salary"
+    },
+    {
+      "original": "la tarea",
+      "translation": "task"
+    },
+    {
+      "original": "el proyecto",
+      "translation": "project"
+    },
+    {
+      "original": "la reunión",
+      "translation": "meeting"
+    },
+    {
+      "original": "el ordenador",
+      "translation": "computer"
+    },
+    {
+      "original": "la pantalla",
+      "translation": "screen"
+    },
+    {
+      "original": "el teclado",
+      "translation": "keyboard"
+    },
+    {
+      "original": "el ratón",
+      "translation": "mouse"
+    },
+    {
+      "original": "el papel",
+      "translation": "paper"
+    },
+    {
+      "original": "el bolígrafo",
+      "translation": "pen"
+    },
+    {
+      "original": "el lápiz",
+      "translation": "pencil"
+    },
+    {
+      "original": "el cuaderno",
+      "translation": "notebook"
+    },
+    {
+      "original": "la universidad",
+      "translation": "university"
+    },
+    {
+      "original": "el estudiante",
+      "translation": "student"
+    },
+    {
+      "original": "el profesor",
+      "translation": "teacher"
+    },
+    {
+      "original": "el examen",
+      "translation": "exam"
+    },
+    {
+      "original": "la nota",
+      "translation": "grade"
+    },
+    {
+      "original": "los deberes",
+      "translation": "homework"
+    },
+    {
+      "original": "la biblioteca",
+      "translation": "library"
+    },
+    {
+      "original": "el diccionario",
+      "translation": "dictionary"
+    },
+    {
+      "original": "el idioma",
+      "translation": "language"
+    },
+    {
+      "original": "la pregunta",
+      "translation": "question"
+    },
+    {
+      "original": "la respuesta",
+      "translation": "answer"
+    },
+    {
+      "original": "el curso",
+      "translation": "course"
+    },
+    {
+      "original": "el conocimiento",
+      "translation": "knowledge"
+    }
+  ]
+}

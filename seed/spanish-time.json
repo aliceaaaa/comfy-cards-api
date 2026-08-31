@@ -1,0 +1,129 @@
+{
+  "slug": "spanish-time",
+  "title": "Spanish time and weather",
+  "description": "Spanish words for days, months, the clock and the weather.",
+  "language": "es",
+  "topic": "time",
+  "cards": [
+    {
+      "original": "la hora",
+      "translation": "hour"
+    },
+    {
+      "original": "el minuto",
+      "translation": "minute"
+    },
+    {
+      "original": "el segundo",
+      "translation": "second"
+    },
+    {
+      "original": "la semana",
+      "translation": "week"
+    },
+    {
+      "original": "el mes",
+      "translation": "month"
+    },
+    {
+      "original": "la mañana",
+      "translation": "morning"
+    },
+    {
+      "original": "el mediodía",
+      "translation": "midday"
+    },
+    {
+      "original": "la tarde",
+      "translation": "afternoon"
+    },
+    {
+      "original": "hoy",
+      "translation": "today"
+    },
+    {
+      "original": "mañana",
+      "translation": "tomorrow"
+    },
+    {
+      "original": "ayer",
+      "translation": "yesterday"
+    },
+    {
+      "original": "ahora",
+      "translation": "now"
+    },
+    {
+      "original": "temprano",
+      "translation": "early"
+    },
+    {
+      "original": "tarde",
+      "translation": "late"
+    },
+    {
+      "original": "el lunes",
+      "translation": "Monday"
+    },
+    {
+      "original": "el martes",
+      "translation": "Tuesday"
+    },
+    {
+      "original": "el miércoles",
+      "translation": "Wednesday"
+    },
+    {
+      "original": "el jueves",
+      "translation": "Thursday"
+    },
+    {
+      "original": "el viernes",
+      "translation": "Friday"
+    },
+    {
+      "original": "el sábado",
+      "translation": "Saturday"
+    },
+    {
+      "original": "el domingo",
+      "translation": "Sunday"
+    },
+    {
+      "original": "la primavera",
+      "translation": "spring"
+    },
+    {
+      "original": "el verano",
+      "translation": "summer"
+    },
+    {
+      "original": "el otoño",
+      "translation": "autumn"
+    },
+    {
+      "original": "el invierno",
+      "translation": "winter"
+    },
+    {
+      "original": "el clima",
+      "translation": "weather"
+    },
+    {
+      "original": "el sol",
+      "translation": "sun"
+    },
+    {
+      "original": "la lluvia",
+      "translation": "rain"
+    },
+    {
+      "original": "la nieve",
+      "translation": "snow"
+    },
+    {
+      "original": "el viento",
+      "translation": "wind"
+    }
+  ]
+}

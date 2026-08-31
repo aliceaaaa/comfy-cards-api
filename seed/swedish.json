@@ -1,0 +1,129 @@
+{
+  "slug": "swedish",
+  "title": "Swedish basics",
+  "description": "Everyday Swedish words and phrases to start with.",
+  "language": "sv",
+  "topic": "basics",
+  "cards": [
+    {
+      "original": "hej",
+      "translation": "hello"
+    },
+    {
+      "original": "god morgon",
+      "translation": "good morning"
+    },
+    {
+      "original": "god kväll",
+      "translation": "good evening"
+    },
+    {
+      "original": "tack",
+      "translation": "thank you"
+    },
+    {
+      "original": "snälla",
+      "translation": "please"
+    },
+    {
+      "original": "ja",
+      "translation": "yes"
+    },
+    {
+      "original": "nej",
+      "translation": "no"
+    },
+    {
+      "original": "hej då",
+      "translation": "goodbye"
+    },
+    {
+      "original": "ursäkta",
+      "translation": "excuse me"
+    },
+    {
+      "original": "en man",
+      "translation": "man"
+    },
+    {
+      "original": "en kvinna",
+      "translation": "woman"
+    },
+    {
+      "original": "ett barn",
+      "translation": "child"
+    },
+    {
+      "original": "en vän",
+      "translation": "friend"
+    },
+    {
+      "original": "en familj",
+      "translation": "family"
+    },
+    {
+      "original": "ett hus",
+      "translation": "house"
+    },
+    {
+      "original": "en stad",
+      "translation": "city"
+    },
+    {
+      "original": "vatten",
+      "translation": "water"
+    },
+    {
+      "original": "ett bröd",
+      "translation": "bread"
+    },
+    {
+      "original": "ett äpple",
+      "translation": "apple"
+    },
+    {
+      "original": "mjölk",
+      "translation": "milk"
+    },
+    {
+      "original": "kaffe",
+      "translation": "coffee"
+    },
+    {
+      "original": "te",
+      "translation": "tea"
+    },
+    {
+      "original": "en bok",
+      "translation": "book"
+    },
+    {
+      "original": "en skola",
+      "translation": "school"
+    },
+    {
+      "original": "ett arbete",
+      "translation": "work"
+    },
+    {
+      "original": "en dag",
+      "translation": "day"
+    },
+    {
+      "original": "en natt",
+      "translation": "night"
+    },
+    {
+      "original": "en tid",
+      "translation": "time"
+    },
+    {
+      "original": "ett år",
+      "translation": "year"
+    },
+    {
+      "original": "en hund",
+      "translation": "dog"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "german-food",
+  "title": "German food and drink",
+  "description": "Everyday German words for food, drink and eating out.",
+  "language": "de",
+  "topic": "food",
+  "cards": [
+    {
+      "original": "das Essen",
+      "translation": "food"
+    },
+    {
+      "original": "das Getränk",
+      "translation": "drink"
+    },
+    {
+      "original": "das Frühstück",
+      "translation": "breakfast"
+    },
+    {
+      "original": "das Mittagessen",
+      "translation": "lunch"
+    },
+    {
+      "original": "das Abendessen",
+      "translation": "dinner"
+    },
+    {
+      "original": "das Fleisch",
+      "translation": "meat"
+    },
+    {
+      "original": "der Fisch",
+      "translation": "fish"
+    },
+    {
+      "original": "das Gemüse",
+      "translation": "vegetables"
+    },
+    {
+      "original": "das Obst",
+      "translation": "fruit"
+    },
+    {
+      "original": "der Käse",
+      "translation": "cheese"
+    },
+    {
+      "original": "die Butter",
+      "translation": "butter"
+    },
+    {
+      "original": "das Ei",
+      "translation": "egg"
+    },
+    {
+      "original": "der Reis",
+      "translation": "rice"
+    },
+    {
+      "original": "die Kartoffel",
+      "translation": "potato"
+    },
+    {
+      "original": "die Tomate",
+      "translation": "tomato"
+    },
+    {
+      "original": "die Zwiebel",
+      "translation": "onion"
+    },
+    {
+      "original": "der Salat",
+      "translation": "salad"
+    },
+    {
+      "original": "die Suppe",
+      "translation": "soup"
+    },
+    {
+      "original": "der Zucker",
+      "translation": "sugar"
+    },
+    {
+      "original": "das Salz",
+      "translation": "salt"
+    },
+    {
+      "original": "der Pfeffer",
+      "translation": "pepper"
+    },
+    {
+      "original": "der Saft",
+      "translation": "juice"
+    },
+    {
+      "original": "das Bier",
+      "translation": "beer"
+    },
+    {
+      "original": "der Wein",
+      "translation": "wine"
+    },
+    {
+      "original": "der Kuchen",
+      "translation": "cake"
+    },
+    {
+      "original": "die Schokolade",
+      "translation": "chocolate"
+    },
+    {
+      "original": "das Restaurant",
+      "translation": "restaurant"
+    },
+    {
+      "original": "die Rechnung",
+      "translation": "bill"
+    },
+    {
+      "original": "der Teller",
+      "translation": "plate"
+    },
+    {
+      "original": "die Gabel",
+      "translation": "fork"
+    }
+  ]
+}

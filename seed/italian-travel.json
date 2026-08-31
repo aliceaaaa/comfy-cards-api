@@ -1,0 +1,129 @@
+{
+  "slug": "italian-travel",
+  "title": "Italian travel and directions",
+  "description": "The Italian words you need to get around, ask the way and catch a train.",
+  "language": "it",
+  "topic": "travel",
+  "cards": [
+    {
+      "original": "il viaggio",
+      "translation": "trip"
+    },
+    {
+      "original": "il treno",
+      "translation": "train"
+    },
+    {
+      "original": "l'autobus",
+      "translation": "bus"
+    },
+    {
+      "original": "l'aereo",
+      "translation": "plane"
+    },
+    {
+      "original": "l'aeroporto",
+      "translation": "airport"
+    },
+    {
+      "original": "la stazione",
+      "translation": "railway station"
+    },
+    {
+      "original": "il biglietto",
+      "translation": "ticket"
+    },
+    {
+      "original": "la valigia",
+      "translation": "suitcase"
+    },
+    {
+      "original": "la mappa",
+      "translation": "map"
+    },
+    {
+      "original": "la strada",
+      "translation": "street"
+    },
+    {
+      "original": "la direzione",
+      "translation": "direction"
+    },
+    {
+      "original": "a sinistra",
+      "translation": "left"
+    },
+    {
+      "original": "a destra",
+      "translation": "right"
+    },
+    {
+      "original": "dritto",
+      "translation": "straight ahead"
+    },
+    {
+      "original": "l'angolo",
+      "translation": "corner"
+    },
+    {
+      "original": "la piazza",
+      "translation": "square"
+    },
+    {
+      "original": "il ponte",
+      "translation": "bridge"
+    },
+    {
+      "original": "l'albergo",
+      "translation": "hotel"
+    },
+    {
+      "original": "la camera",
+      "translation": "room"
+    },
+    {
+      "original": "la chiave",
+      "translation": "key"
+    },
+    {
+      "original": "il confine",
+      "translation": "border"
+    },
+    {
+      "original": "il passaporto",
+      "translation": "passport"
+    },
+    {
+      "original": "il mare",
+      "translation": "sea"
+    },
+    {
+      "original": "la montagna",
+      "translation": "mountain"
+    },
+    {
+      "original": "il lago",
+      "translation": "lake"
+    },
+    {
+      "original": "la spiaggia",
+      "translation": "beach"
+    },
+    {
+      "original": "la partenza",
+      "translation": "departure"
+    },
+    {
+      "original": "l'arrivo",
+      "translation": "arrival"
+    },
+    {
+      "original": "il ritardo",
+      "translation": "delay"
+    },
+    {
+      "original": "il bagaglio",
+      "translation": "luggage"
+    }
+  ]
+}
